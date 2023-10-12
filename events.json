@@ -7725,13 +7725,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, Wa.206PVisio",
+                    "title": "Micro-enseignement\nMr VILLERS, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#0026ad"
@@ -18432,6 +18432,12 @@
                     "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI\n",
+                    "start": "2023-11-21T18:00:00",
+                    "end": "2023-11-21T20:00:00",
                     "color": "#878787"
                 }
             ],
@@ -31455,6 +31461,12 @@
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00",
                     "color": "#5c98ff"
+                },
+                {
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr DUTOIT, Mr DUPONT\n",
+                    "start": "2023-11-21T18:00:00",
+                    "end": "2023-11-21T20:00:00",
+                    "color": "#5c98ff"
                 }
             ],
             "Software evolution": [
@@ -31575,13 +31587,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme BRIDOUX, Mme LACROIX\nWa.206PVisio, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
@@ -31945,13 +31957,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nWa.206PVisio, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
@@ -34761,145 +34773,145 @@
         "BAB2 PHYS": {
             "Calcul tensiriel et relativit\u00e9 restreinte": [
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-09-20T08:15:00",
                     "end": "2023-09-20T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiP.0A11",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiP.0A11",
                     "start": "2023-09-25T15:45:00",
                     "end": "2023-09-25T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-04T08:15:00",
                     "end": "2023-10-04T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-05T15:45:00",
                     "end": "2023-10-05T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-11T08:15:00",
                     "end": "2023-10-11T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-12T15:45:00",
                     "end": "2023-10-12T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-18T08:15:00",
                     "end": "2023-10-18T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-19T15:45:00",
                     "end": "2023-10-19T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-25T08:15:00",
                     "end": "2023-10-25T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-10-26T15:45:00",
                     "end": "2023-10-26T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-02T15:45:00",
                     "end": "2023-11-02T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-08T08:15:00",
                     "end": "2023-11-08T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-09T15:45:00",
                     "end": "2023-11-09T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-15T08:15:00",
                     "end": "2023-11-15T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-16T15:45:00",
                     "end": "2023-11-16T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-22T08:15:00",
                     "end": "2023-11-22T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-23T15:45:00",
                     "end": "2023-11-23T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-29T08:15:00",
                     "end": "2023-11-29T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-11-30T15:45:00",
                     "end": "2023-11-30T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-12-06T08:15:00",
                     "end": "2023-12-06T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-12-07T15:45:00",
                     "end": "2023-12-07T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-12-13T08:15:00",
                     "end": "2023-12-13T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-12-14T15:45:00",
                     "end": "2023-12-14T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
+                    "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr CIMINO, Mr SEMAY\nNiB4.Penrose",
                     "start": "2023-12-20T08:15:00",
                     "end": "2023-12-20T10:15:00",
                     "color": "#44fcdb"
@@ -35235,385 +35247,385 @@
             ],
             "English for Science": [
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-09-18T08:15:00",
                     "end": "2023-09-18T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiB4.120",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiB4.120, NiDeVinci.Russel, NiB4.Penrose",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2023-09-25T08:15:00",
                     "end": "2023-09-25T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Russel, NiB4.Penrose",
                     "start": "2023-09-25T10:30:00",
                     "end": "2023-09-25T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-02T08:15:00",
                     "end": "2023-10-02T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-02T10:30:00",
                     "end": "2023-10-02T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\n",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\n",
                     "start": "2023-10-04T17:45:00",
                     "end": "2023-10-04T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-09T08:15:00",
                     "end": "2023-10-09T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-09T10:30:00",
                     "end": "2023-10-09T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-10-11T17:45:00",
                     "end": "2023-10-11T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-16T08:15:00",
                     "end": "2023-10-16T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-16T10:30:00",
                     "end": "2023-10-16T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-10-18T17:45:00",
                     "end": "2023-10-18T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-23T08:15:00",
                     "end": "2023-10-23T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-23T10:30:00",
                     "end": "2023-10-23T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-10-25T17:45:00",
                     "end": "2023-10-25T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2023-10-30T08:15:00",
                     "end": "2023-10-30T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiB6.18",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB6.18, NiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-10-30T10:30:00",
                     "end": "2023-10-30T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-10-31T17:45:00",
                     "end": "2023-10-31T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-06T10:30:00",
                     "end": "2023-11-06T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-11-08T17:45:00",
                     "end": "2023-11-08T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-13T08:15:00",
                     "end": "2023-11-13T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\n",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\n",
                     "start": "2023-11-15T17:45:00",
                     "end": "2023-11-15T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-20T08:15:00",
                     "end": "2023-11-20T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-20T10:30:00",
                     "end": "2023-11-20T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\n",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\n",
                     "start": "2023-11-22T17:45:00",
                     "end": "2023-11-22T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-11-27T10:30:00",
                     "end": "2023-11-27T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\n",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\n",
                     "start": "2023-11-29T17:45:00",
                     "end": "2023-11-29T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-12-04T10:30:00",
                     "end": "2023-12-04T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-12-06T17:45:00",
                     "end": "2023-12-06T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiB6.18",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB6.18, NiB4.Penrose",
                     "start": "2023-12-11T10:30:00",
                     "end": "2023-12-11T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiV\u00e9sale.025",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.025",
                     "start": "2023-12-13T17:45:00",
                     "end": "2023-12-13T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiP.0E10, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiP.0E10, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiB4.Penrose",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-05T08:15:00",
                     "end": "2024-02-05T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB6.124, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-12T08:15:00",
                     "end": "2024-02-12T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Plisnier",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiGA.Plisnier, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-12T10:30:00",
                     "end": "2024-02-12T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-19T08:15:00",
                     "end": "2024-02-19T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Plisnier, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB6.124, NiGA.Plisnier, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-19T10:30:00",
                     "end": "2024-02-19T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-26T08:15:00",
                     "end": "2024-02-26T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiV\u00e9sale.020",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiV\u00e9sale.020, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-02-26T10:30:00",
                     "end": "2024-02-26T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-04T08:15:00",
                     "end": "2024-03-04T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiP.0A11",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiP.0A11, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-11T08:15:00",
                     "end": "2024-03-11T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiV\u00e9sale.020",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiV\u00e9sale.020, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-18T08:15:00",
                     "end": "2024-03-18T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB6.124, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-18T10:30:00",
                     "end": "2024-03-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-25T08:15:00",
                     "end": "2024-03-25T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB6.124, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-03-25T10:30:00",
                     "end": "2024-03-25T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-04-15T08:15:00",
                     "end": "2024-04-15T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiB6.124, NiB4.Penrose",
                     "start": "2024-04-15T10:30:00",
                     "end": "2024-04-15T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-04-22T08:15:00",
                     "end": "2024-04-22T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiB6.124, NiB4.Penrose",
                     "start": "2024-04-22T10:30:00",
                     "end": "2024-04-22T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiGA.Pascal, NiDeVinci.Russel, NiV\u00e9sale.030",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Russel",
                     "start": "2024-04-29T08:15:00",
                     "end": "2024-04-29T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiP.0A11, NiB6.18, NiGA.Turing, NiGA.Plisnier",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing, NiP.0A11, NiB6.18, NiGA.Plisnier, NiB4.Penrose",
                     "start": "2024-05-06T10:30:00",
                     "end": "2024-05-06T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-05-13T08:15:00",
                     "end": "2024-05-13T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme VAN LANCKER, Mr DEVILEZ, Mme CHAUVEAU\nNiDeVinci.W\u00fcster, NiDeVinci.Montague, NiB6.124",
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB6.124, NiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-05-13T10:30:00",
                     "end": "2024-05-13T12:30:00",
                     "color": "#878787"
@@ -36069,61 +36081,61 @@
             ],
             "Physique g\u00e9n\u00e9rale III": [
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-07T13:30:00",
                     "end": "2023-11-07T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-20T13:30:00",
                     "end": "2023-11-20T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-27T13:30:00",
                     "end": "2023-11-27T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-04T13:30:00",
                     "end": "2023-12-04T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-05T13:30:00",
                     "end": "2023-12-05T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-11T13:30:00",
                     "end": "2023-12-11T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DEVOUGE, Mr ROSOLEN, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-18T13:30:00",
                     "end": "2023-12-18T17:30:00",
                     "color": "#44fcdb"
@@ -36153,7 +36165,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiB4.233",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.233",
                     "start": "2023-10-16T15:45:00",
                     "end": "2023-10-16T17:45:00",
                     "color": "#44fcdb"
@@ -36165,7 +36177,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiP.0A07",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiP.0A07",
                     "start": "2023-10-23T13:30:00",
                     "end": "2023-10-23T15:30:00",
                     "color": "#44fcdb"
@@ -36177,7 +36189,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiP.0A11",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiP.0A11",
                     "start": "2023-10-30T13:30:00",
                     "end": "2023-10-30T15:30:00",
                     "color": "#44fcdb"
@@ -36189,7 +36201,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiP.0A11",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiP.0A11",
                     "start": "2023-11-06T13:30:00",
                     "end": "2023-11-06T15:30:00",
                     "color": "#44fcdb"
@@ -36201,7 +36213,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiMen.Pauling",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiMen.Pauling",
                     "start": "2023-11-13T13:30:00",
                     "end": "2023-11-13T15:30:00",
                     "color": "#44fcdb"
@@ -36213,7 +36225,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiB6.18",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB6.18",
                     "start": "2023-11-21T10:30:00",
                     "end": "2023-11-21T12:30:00",
                     "color": "#44fcdb"
@@ -36225,13 +36237,13 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiB4.120",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.120",
                     "start": "2023-12-01T10:30:00",
                     "end": "2023-12-01T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiB4.120",
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.120",
                     "start": "2023-12-08T10:30:00",
                     "end": "2023-12-08T12:30:00",
                     "color": "#44fcdb"
@@ -36299,43 +36311,43 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-17T13:30:00",
                     "end": "2024-04-17T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-22T13:30:00",
                     "end": "2024-04-22T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-24T13:30:00",
                     "end": "2024-04-24T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-05-08T13:30:00",
                     "end": "2024-05-08T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique nucl\u00e9aire I\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-05-15T13:30:00",
                     "end": "2024-05-15T16:30:00",
                     "color": "#44fcdb"
@@ -36343,91 +36355,91 @@
             ],
             "Probabilit\u00e9s": [
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-08T08:15:00",
                     "end": "2024-02-08T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-15T08:15:00",
                     "end": "2024-02-15T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-02-20T15:45:00",
                     "end": "2024-02-20T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-22T08:15:00",
                     "end": "2024-02-22T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-02-27T15:45:00",
                     "end": "2024-02-27T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-03-07T08:15:00",
                     "end": "2024-03-07T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-03-21T08:15:00",
                     "end": "2024-03-21T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-03-28T08:15:00",
                     "end": "2024-03-28T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T10:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#44fcdb"
@@ -36453,7 +36465,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-09-22T13:30:00",
                     "end": "2023-09-22T17:45:00",
                     "color": "#44fcdb"
@@ -36471,7 +36483,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-09-29T13:30:00",
                     "end": "2023-09-29T17:45:00",
                     "color": "#44fcdb"
@@ -36489,7 +36501,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-06T13:30:00",
                     "end": "2023-10-06T17:45:00",
                     "color": "#44fcdb"
@@ -36501,7 +36513,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-13T13:30:00",
                     "end": "2023-10-13T17:45:00",
                     "color": "#44fcdb"
@@ -36519,7 +36531,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-20T13:30:00",
                     "end": "2023-10-20T17:45:00",
                     "color": "#44fcdb"
@@ -36531,7 +36543,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-27T13:30:00",
                     "end": "2023-10-27T17:45:00",
                     "color": "#44fcdb"
@@ -36543,7 +36555,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T17:45:00",
                     "color": "#44fcdb"
@@ -36555,7 +36567,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr MELOT, Mr CARDOEN, Mr BONTE\nNiV\u00e9sale.LaFontaine, NiV\u00e9sale.023",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr MELOT, Mr CARDOEN\nNiV\u00e9sale.LaFontaine, NiV\u00e9sale.023",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T10:15:00",
                     "color": "#44fcdb"
@@ -36567,7 +36579,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-11-17T13:30:00",
                     "end": "2023-11-17T17:45:00",
                     "color": "#44fcdb"
@@ -36579,7 +36591,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-11-24T13:30:00",
                     "end": "2023-11-24T17:45:00",
                     "color": "#44fcdb"
@@ -36591,35 +36603,27 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-12-01T13:30:00",
                     "end": "2023-12-01T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-12-08T13:30:00",
                     "end": "2023-12-08T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-12-15T13:30:00",
                     "end": "2023-12-15T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN, Mr BONTE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-12-22T13:30:00",
                     "end": "2023-12-22T17:45:00",
-                    "color": "#44fcdb"
-                }
-            ],
-            "R\u00e9union": [
-                {
-                    "title": "R\u00e9union\nMr SEMAY\nNiB4.Penrose",
-                    "start": "2023-10-31T13:30:00",
-                    "end": "2023-10-31T15:30:00",
                     "color": "#44fcdb"
                 }
             ],
@@ -38363,14 +38367,6 @@
                     "color": "#878787"
                 }
             ],
-            "R\u00e9union": [
-                {
-                    "title": "R\u00e9union\nMr SEMAY\nNiB4.Penrose",
-                    "start": "2023-10-31T13:30:00",
-                    "end": "2023-10-31T15:30:00",
-                    "color": "#878787"
-                }
-            ],
             "Sciences et soci\u00e9t\u00e9": [
                 {
                     "title": "Sciences et soci\u00e9t\u00e9\nMr BROCORENS\nNiP.0A07",
@@ -39131,7 +39127,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliqu\u00e9e\nMr DUALIBE, Mr SCOHIER\nDo.SemiLab",
+                    "title": "Electronique appliqu\u00e9e\nMr SCOHIER, Mr DUALIBE\nDo.SemiLab",
                     "start": "2023-11-23T13:30:00",
                     "end": "2023-11-23T16:30:00",
                     "color": "#0026ad"
@@ -39143,7 +39139,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliqu\u00e9e\nMr DUALIBE, Mr SCOHIER\nDo.SemiLab",
+                    "title": "Electronique appliqu\u00e9e\nMr SCOHIER, Mr DUALIBE\nDo.SemiLab",
                     "start": "2023-11-30T13:30:00",
                     "end": "2023-11-30T16:30:00",
                     "color": "#0026ad"
@@ -39155,7 +39151,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliqu\u00e9e\nMr DUALIBE, Mr SCOHIER\nDo.SemiLab",
+                    "title": "Electronique appliqu\u00e9e\nMr SCOHIER, Mr DUALIBE\nDo.SemiLab",
                     "start": "2023-12-07T13:30:00",
                     "end": "2023-12-07T16:30:00",
                     "color": "#0026ad"
@@ -39168,8 +39164,14 @@
                 },
                 {
                     "title": "Electronique appliqu\u00e9e\nMr DUALIBE\nHo.24",
+                    "start": "2023-12-18T13:30:00",
+                    "end": "2023-12-18T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Electronique appliqu\u00e9e\nMr SCOHIER, Mr DUALIBE\nHo.11",
                     "start": "2023-12-20T08:15:00",
-                    "end": "2023-12-20T10:15:00",
+                    "end": "2023-12-20T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -42029,13 +42031,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nWa.206PVisio, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS, Mr SIMON\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS, Mr SIMON\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
@@ -42573,13 +42575,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, Wa.206PVisio",
+                    "title": "Micro-enseignement\nMme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
