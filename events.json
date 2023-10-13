@@ -4829,6 +4829,12 @@
                     "start": "2023-12-06T08:15:00",
                     "end": "2023-12-06T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Cin\u00e9tique et \u00e9lectrochimie\nMme BOL\nNiB6.211",
+                    "start": "2023-12-15T08:15:00",
+                    "end": "2023-12-15T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Compl\u00e9ment de chimie th\u00e9orique": [
@@ -39222,8 +39228,8 @@
                 },
                 {
                     "title": "Hist. pens\u00e9e scientifique\nMme GOLDBERG\nNiP.0A11",
-                    "start": "2023-10-18T15:45:00",
-                    "end": "2023-10-18T17:45:00",
+                    "start": "2023-10-20T10:30:00",
+                    "end": "2023-10-20T12:30:00",
                     "color": "#878787"
                 },
                 {
