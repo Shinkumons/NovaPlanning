@@ -2568,12 +2568,6 @@
                 },
                 {
                     "title": "Chim org: m\u00e9canismes r\u00e9act\nMr COULEMBIER\nNiP.0A07",
-                    "start": "2023-10-19T10:30:00",
-                    "end": "2023-10-19T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chim org: m\u00e9canismes r\u00e9act\nMr COULEMBIER\nNiP.0A07",
                     "start": "2023-10-19T13:30:00",
                     "end": "2023-10-19T15:30:00",
                     "color": "#0026ad"
@@ -12848,12 +12842,6 @@
                     "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.SalleAca",
                     "start": "2023-10-12T13:30:00",
                     "end": "2023-10-12T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nRosaParks.1.09.Delmas\u2011Marty",
-                    "start": "2023-10-19T13:30:00",
-                    "end": "2023-10-19T15:30:00",
                     "color": "#fca044"
                 },
                 {
@@ -30833,7 +30821,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-09-29T08:15:00",
                     "end": "2023-09-29T10:15:00",
                     "color": "#fc4747"
@@ -30845,7 +30833,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-10-06T08:15:00",
                     "end": "2023-10-06T10:15:00",
                     "color": "#fc4747"
@@ -30857,7 +30845,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mme CAPON\nNiB4.120",
                     "start": "2023-10-13T08:15:00",
                     "end": "2023-10-13T10:15:00",
                     "color": "#fc4747"
@@ -30869,7 +30857,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-10-20T08:15:00",
                     "end": "2023-10-20T10:15:00",
                     "color": "#fc4747"
@@ -30881,7 +30869,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-10-27T08:15:00",
                     "end": "2023-10-27T10:15:00",
                     "color": "#fc4747"
@@ -30893,7 +30881,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-11-03T08:15:00",
                     "end": "2023-11-03T10:15:00",
                     "color": "#fc4747"
@@ -30911,7 +30899,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-11-17T08:15:00",
                     "end": "2023-11-17T10:15:00",
                     "color": "#fc4747"
@@ -30923,7 +30911,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-11-24T08:15:00",
                     "end": "2023-11-24T10:15:00",
                     "color": "#fc4747"
@@ -30935,7 +30923,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-12-01T08:15:00",
                     "end": "2023-12-01T10:15:00",
                     "color": "#fc4747"
@@ -30947,7 +30935,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-12-08T08:15:00",
                     "end": "2023-12-08T10:15:00",
                     "color": "#fc4747"
@@ -30959,7 +30947,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T10:15:00",
                     "color": "#fc4747"
@@ -30971,115 +30959,115 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2023-12-22T08:15:00",
                     "end": "2023-12-22T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E11",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E11",
                     "start": "2024-02-09T10:30:00",
                     "end": "2024-02-09T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-02-12T10:30:00",
                     "end": "2024-02-12T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E11",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E11",
                     "start": "2024-02-16T10:30:00",
                     "end": "2024-02-16T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-02-19T10:30:00",
                     "end": "2024-02-19T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E11",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E11",
                     "start": "2024-02-23T10:30:00",
                     "end": "2024-02-23T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-02-26T10:30:00",
                     "end": "2024-02-26T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E11",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E11",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E11",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E11",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-03-18T10:30:00",
                     "end": "2024-03-18T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiB4.120",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiB4.120",
                     "start": "2024-03-25T10:30:00",
                     "end": "2024-03-25T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E10",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E10",
                     "start": "2024-04-19T10:30:00",
                     "end": "2024-04-19T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E10",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E10",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E10",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E10",
                     "start": "2024-05-03T10:30:00",
                     "end": "2024-05-03T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E10",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E10",
                     "start": "2024-05-10T10:30:00",
                     "end": "2024-05-10T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de math\u00e9matiques effectives\nMme CAPON, Mme GOEMINNE, Mr BRIHAYE\nNiP.3E10",
+                    "title": "Projet de math\u00e9matiques effectives\nMme GOEMINNE, Mr BRIHAYE, Mme CAPON\nNiP.3E10",
                     "start": "2024-05-17T10:30:00",
                     "end": "2024-05-17T12:30:00",
                     "color": "#fc4747"
@@ -31142,6 +31130,12 @@
                 },
                 {
                     "title": "Projet de probabilit\u00e9s et statistiques III\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.0013",
+                    "start": "2023-10-23T13:30:00",
+                    "end": "2023-10-23T15:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.0013",
                     "start": "2023-10-24T08:15:00",
                     "end": "2023-10-24T10:15:00",
                     "color": "#fc4747"
@@ -31160,20 +31154,14 @@
                 },
                 {
                     "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.0013",
-                    "start": "2023-10-31T08:15:00",
-                    "end": "2023-10-31T10:15:00",
-                    "color": "#fc4747"
-                },
-                {
-                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.0013",
-                    "start": "2023-11-07T08:15:00",
-                    "end": "2023-11-07T10:15:00",
+                    "start": "2023-10-30T13:30:00",
+                    "end": "2023-10-30T15:30:00",
                     "color": "#fc4747"
                 },
                 {
                     "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.0013",
-                    "start": "2023-11-08T10:30:00",
-                    "end": "2023-11-08T12:30:00",
+                    "start": "2023-10-31T08:15:00",
+                    "end": "2023-10-31T10:15:00",
                     "color": "#fc4747"
                 },
                 {
@@ -31533,7 +31521,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Stream data analysis\nMr SIEBERT\n",
+                    "title": "Stream data analysis\nMr SIEBERT\nHo.21",
                     "start": "2023-10-20T10:30:00",
                     "end": "2023-10-20T12:30:00",
                     "color": "#878787"
