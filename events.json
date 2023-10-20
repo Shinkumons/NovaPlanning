@@ -2993,9 +2993,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
-                    "start": "2024-03-25T13:30:00",
-                    "end": "2024-03-25T15:30:00",
+                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiP.0A11",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -3426,19 +3426,31 @@
                 },
                 {
                     "title": "Intro m\u00e9ca des fluides\nMr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-03-27T08:30:00",
+                    "start": "2024-03-25T13:30:00",
+                    "end": "2024-03-25T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE\nNiMen.MacDiarmid",
+                    "start": "2024-03-26T13:30:00",
+                    "end": "2024-03-26T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE\nNiMen.MacDiarmid",
+                    "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Intro m\u00e9ca des fluides\nMr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-03-28T08:30:00",
+                    "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Intro m\u00e9ca des fluides\nMr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-03-29T08:30:00",
+                    "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T17:45:00",
                     "color": "#0026ad"
                 }
@@ -4637,19 +4649,19 @@
             ],
             "Chimie th\u00e9orique: exercices": [
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr QUARTI, Mr BELJONNE\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr QUARTI, Mr BELJONNE\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr QUARTI, Mr BELJONNE\nNiV\u00e9sale.030",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiV\u00e9sale.030",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T17:30:00",
                     "color": "#0026ad"
@@ -5429,30 +5441,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMme BOL, Mr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-04-16T10:30:00",
-                    "end": "2024-04-16T18:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Thermodynamique stat.II\nMme BOL, Mr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-04-17T10:30:00",
-                    "end": "2024-04-17T18:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Thermodynamique stat.II\nMme BOL, Mr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-04-18T10:30:00",
-                    "end": "2024-04-18T18:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Thermodynamique stat.II\nMr GABRIELE\nNiMen.MacDiarmid",
-                    "start": "2024-04-19T10:30:00",
-                    "end": "2024-04-19T18:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiV\u00e9sale.030",
                     "start": "2024-04-30T08:15:00",
                     "end": "2024-04-30T10:15:00",
@@ -6162,6 +6150,12 @@
                     "title": "Chimie du solide\nMr SNYDERS\nNiP.3E20",
                     "start": "2023-12-12T08:15:00",
                     "end": "2023-12-12T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie du solide\nMr SNYDERS\nNiP.0A11",
+                    "start": "2023-12-15T08:15:00",
+                    "end": "2023-12-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -32781,9 +32775,9 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE\nNiB6.18",
-                    "start": "2023-11-23T15:45:00",
-                    "end": "2023-11-23T17:45:00",
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE\nNiB6.124",
+                    "start": "2023-11-21T15:45:00",
+                    "end": "2023-11-21T17:45:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -38917,9 +38911,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
-                    "start": "2024-03-25T13:30:00",
-                    "end": "2024-03-25T15:30:00",
+                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiP.0A11",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -39605,7 +39599,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
                     "color": "#878787"
@@ -41551,7 +41545,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-12-06T15:45:00",
                     "end": "2023-12-06T17:45:00",
                     "color": "#878787"
