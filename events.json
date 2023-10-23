@@ -10170,8 +10170,8 @@
                 },
                 {
                     "title": "Bases de donn\u00e9es I\nMr BUYS\nNiDeVinci.Russel",
-                    "start": "2023-11-07T10:30:00",
-                    "end": "2023-11-07T12:30:00",
+                    "start": "2023-10-30T15:45:00",
+                    "end": "2023-10-30T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -10357,7 +10357,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus II\nMr TROESTLER, Mr LECOMTE\nNiGA.Plisnier",
+                    "title": "Calculus II\nMr LECOMTE, Mr TROESTLER\nNiGA.Plisnier",
                     "start": "2024-02-28T10:30:00",
                     "end": "2024-02-28T12:30:00",
                     "color": "#fc4747"
@@ -10369,7 +10369,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus II\nMr TROESTLER, Mr LECOMTE\nNiGA.Plisnier",
+                    "title": "Calculus II\nMr LECOMTE, Mr TROESTLER\nNiGA.Plisnier",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00",
                     "color": "#fc4747"
@@ -11773,181 +11773,181 @@
             ],
             "Syst\u00e8mes d'exploitation": [
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-19T08:15:00",
                     "end": "2023-09-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-19T15:45:00",
                     "end": "2023-09-19T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-20T08:15:00",
                     "end": "2023-09-20T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-20T13:30:00",
                     "end": "2023-09-20T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-26T08:15:00",
                     "end": "2023-09-26T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-26T15:45:00",
                     "end": "2023-09-26T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-03T08:15:00",
                     "end": "2023-10-03T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-03T15:45:00",
                     "end": "2023-10-03T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-04T08:15:00",
                     "end": "2023-10-04T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-04T15:45:00",
                     "end": "2023-10-04T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-10T08:15:00",
                     "end": "2023-10-10T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-17T08:15:00",
                     "end": "2023-10-17T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-17T13:30:00",
                     "end": "2023-10-17T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-17T15:45:00",
                     "end": "2023-10-17T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-24T08:15:00",
                     "end": "2023-10-24T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-24T15:45:00",
                     "end": "2023-10-24T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-07T08:15:00",
                     "end": "2023-11-07T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-07T15:45:00",
                     "end": "2023-11-07T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-14T08:15:00",
                     "end": "2023-11-14T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-14T15:45:00",
                     "end": "2023-11-14T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-21T08:15:00",
                     "end": "2023-11-21T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-21T15:45:00",
                     "end": "2023-11-21T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-28T08:15:00",
                     "end": "2023-11-28T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-28T15:45:00",
                     "end": "2023-11-28T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-05T08:15:00",
                     "end": "2023-12-05T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-05T15:45:00",
                     "end": "2023-12-05T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-12T08:15:00",
                     "end": "2023-12-12T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-12T15:45:00",
                     "end": "2023-12-12T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-19T08:15:00",
                     "end": "2023-12-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-19T15:45:00",
                     "end": "2023-12-19T17:45:00",
                     "color": "#5c98ff"
@@ -21614,8 +21614,8 @@
                 },
                 {
                     "title": "Bases de donn\u00e9es I\nMr BUYS\nNiDeVinci.Russel",
-                    "start": "2023-11-07T10:30:00",
-                    "end": "2023-11-07T12:30:00",
+                    "start": "2023-10-30T15:45:00",
+                    "end": "2023-10-30T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -31510,8 +31510,8 @@
                 },
                 {
                     "title": "Stream data analysis\nMr SIEBERT\n",
-                    "start": "2023-11-27T10:30:00",
-                    "end": "2023-11-27T12:30:00",
+                    "start": "2023-10-27T10:30:00",
+                    "end": "2023-10-27T12:30:00",
                     "color": "#878787"
                 }
             ]
