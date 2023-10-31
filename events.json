@@ -26727,12 +26727,6 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiP.0A11",
-                    "start": "2023-11-06T13:30:00",
-                    "end": "2023-11-06T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale III\nMr ROSOLEN, Mme DAUBIE\nNiMen.Pauling",
                     "start": "2023-11-13T13:30:00",
                     "end": "2023-11-13T15:30:00",
@@ -36153,15 +36147,15 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiP.0A11",
-                    "start": "2023-11-06T13:30:00",
-                    "end": "2023-11-06T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale III\nMr VOUE\nNiB4.Penrose",
                     "start": "2023-11-09T10:30:00",
                     "end": "2023-11-09T12:30:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.233",
+                    "start": "2023-11-09T13:30:00",
+                    "end": "2023-11-09T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -36198,6 +36192,12 @@
                     "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.120",
                     "start": "2023-12-08T10:30:00",
                     "end": "2023-12-08T12:30:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.Penrose",
+                    "start": "2023-12-21T10:30:00",
+                    "end": "2023-12-21T12:30:00",
                     "color": "#44fcdb"
                 }
             ],
@@ -36861,9 +36861,21 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Bibliographie et outils info\nMr VOUE\nNiB6.127Info",
+                    "start": "2023-11-30T10:30:00",
+                    "end": "2023-11-30T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Bibliographie et outils info\nMme CARETTE\nNiV\u00e9sale.LaFontaine",
                     "start": "2023-12-12T10:30:00",
                     "end": "2023-12-12T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bibliographie et outils info\nMr DUEZ, Mr VOUE\nNiDeVinci.Mirzakhani",
+                    "start": "2023-12-21T08:15:00",
+                    "end": "2023-12-21T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -37965,7 +37977,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-09-28T13:30:00",
                     "end": "2023-09-28T15:30:00",
                     "color": "#878787"
@@ -37989,7 +38001,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-10-12T13:30:00",
                     "end": "2023-10-12T15:30:00",
                     "color": "#878787"
@@ -38001,7 +38013,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-10-19T13:30:00",
                     "end": "2023-10-19T15:30:00",
                     "color": "#878787"
@@ -38013,7 +38025,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-10-26T13:30:00",
                     "end": "2023-10-26T15:30:00",
                     "color": "#878787"
@@ -38025,7 +38037,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.0A11",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.0A11",
                     "start": "2023-11-07T10:30:00",
                     "end": "2023-11-07T12:30:00",
                     "color": "#878787"
@@ -38037,7 +38049,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiMen.Pauling",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiMen.Pauling",
                     "start": "2023-11-14T10:30:00",
                     "end": "2023-11-14T12:30:00",
                     "color": "#878787"
@@ -38049,7 +38061,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-11-21T15:45:00",
                     "end": "2023-11-21T17:45:00",
                     "color": "#878787"
@@ -38061,7 +38073,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiB6.211",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiB6.211",
                     "start": "2023-11-28T10:30:00",
                     "end": "2023-11-28T12:30:00",
                     "color": "#878787"
@@ -38073,7 +38085,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.0A11",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.0A11",
                     "start": "2023-12-05T10:30:00",
                     "end": "2023-12-05T12:30:00",
                     "color": "#878787"
@@ -38085,7 +38097,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-12-12T15:45:00",
                     "end": "2023-12-12T17:45:00",
                     "color": "#878787"
@@ -38097,13 +38109,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-12-19T10:30:00",
                     "end": "2023-12-19T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CAMPOLEONI, Mr CHEVALIER\nNiP.3E20",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
                     "start": "2023-12-21T13:30:00",
                     "end": "2023-12-21T15:30:00",
                     "color": "#878787"
