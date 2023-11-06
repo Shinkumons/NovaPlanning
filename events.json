@@ -6081,15 +6081,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
-                    "start": "2023-11-07T08:15:00",
-                    "end": "2023-11-07T10:15:00",
+                    "title": "Chimie du solide\nMr SNYDERS\n",
+                    "start": "2023-11-09T08:15:00",
+                    "end": "2023-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie du solide\nMr SNYDERS\nNiP.0A07",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00",
+                    "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
+                    "start": "2023-11-10T08:15:00",
+                    "end": "2023-11-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -6171,15 +6171,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie du solide\nMr SNYDERS\nNiP.0A11",
-                    "start": "2023-12-15T08:15:00",
-                    "end": "2023-12-15T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2023-12-19T08:15:00",
                     "end": "2023-12-19T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie du solide\nMr SNYDERS\nNiP.0A11",
+                    "start": "2023-12-21T08:15:00",
+                    "end": "2023-12-21T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -7255,6 +7255,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Spectroscopie mol\u00e9culaire\nMr BROCORENS\n",
+                    "start": "2023-11-10T13:30:00",
+                    "end": "2023-11-10T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr LAZZARONI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-11-13T08:15:00",
                     "end": "2023-11-13T10:15:00",
@@ -7282,12 +7288,6 @@
                     "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr LAZZARONI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr BROCORENS\n",
-                    "start": "2023-12-11T08:15:00",
-                    "end": "2023-12-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8227,37 +8227,37 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
                     "start": "2023-11-13T08:15:00",
                     "end": "2023-11-13T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.3E10, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-20T08:15:00",
                     "end": "2023-11-20T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB6.124, NiGA.Plisnier, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-20T10:30:00",
                     "end": "2023-11-20T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.0A07, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-27T10:30:00",
                     "end": "2023-11-27T12:30:00",
                     "color": "#00ad3d"
@@ -8269,27 +8269,21 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
                     "start": "2023-12-11T10:30:00",
                     "end": "2023-12-11T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
-                    "start": "2023-12-18T10:30:00",
-                    "end": "2023-12-18T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -8374,12 +8368,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiV\u00e9sale.020",
                     "start": "2023-11-21T08:15:00",
                     "end": "2023-11-21T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX\nNiV\u00e9sale.020",
-                    "start": "2023-11-28T08:15:00",
-                    "end": "2023-11-28T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -8572,12 +8560,6 @@
                 }
             ],
             "Calculus I - Th\u00e9orie": [
-                {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Curie",
-                    "start": "2023-11-07T10:30:00",
-                    "end": "2023-11-07T12:30:00",
-                    "color": "#fc4747"
-                },
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
                     "start": "2023-11-09T10:30:00",
@@ -8813,7 +8795,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr MICHAUX, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#fc4747"
@@ -8855,7 +8837,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr MICHAUX, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#fc4747"
@@ -13984,18 +13966,6 @@
                 },
                 {
                     "title": "Advanced Machine Learning\nMr SIEBERT\nHo.05",
-                    "start": "2023-11-15T08:15:00",
-                    "end": "2023-11-15T10:15:00",
-                    "color": "#79007d"
-                },
-                {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
-                    "start": "2023-11-15T13:30:00",
-                    "end": "2023-11-15T17:30:00",
-                    "color": "#79007d"
-                },
-                {
-                    "title": "Advanced Machine Learning\nMr SIEBERT\nHo.05",
                     "start": "2023-11-22T08:15:00",
                     "end": "2023-11-22T10:15:00",
                     "color": "#79007d"
@@ -18839,37 +18809,37 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiP.3E10, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiP.0A07, NiB4.120, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-20T08:15:00",
                     "end": "2023-11-20T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB6.124, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-20T10:30:00",
                     "end": "2023-11-20T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiP.0A07, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-27T10:30:00",
                     "end": "2023-11-27T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiP.0A07, NiB4.120, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
                     "color": "#00ad3d"
@@ -18887,7 +18857,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#00ad3d"
@@ -19559,79 +19529,79 @@
             ],
             "Analyse I": [
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-02-05T13:30:00",
                     "end": "2024-02-05T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-08T15:45:00",
                     "end": "2024-02-08T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-12T13:30:00",
                     "end": "2024-02-12T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-15T15:45:00",
                     "end": "2024-02-15T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiV\u00e9sale.030",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiV\u00e9sale.030",
                     "start": "2024-02-21T13:30:00",
                     "end": "2024-02-21T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-22T15:45:00",
                     "end": "2024-02-22T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose, NiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose, NiB6.18",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-29T13:30:00",
                     "end": "2024-02-29T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-29T15:45:00",
                     "end": "2024-02-29T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#fc4747"
@@ -19643,13 +19613,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-07T15:45:00",
                     "end": "2024-03-07T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#fc4747"
@@ -19679,13 +19649,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-18T15:45:00",
                     "end": "2024-03-18T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB6.124",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.124",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T15:30:00",
                     "color": "#fc4747"
@@ -19709,13 +19679,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-25T15:45:00",
                     "end": "2024-03-25T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB6.124",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.124",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#fc4747"
@@ -19811,7 +19781,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE, Mme BRIDOUX\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-05-13T13:30:00",
                     "end": "2024-05-13T15:30:00",
                     "color": "#fc4747"
@@ -20639,7 +20609,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Plisnier, NiGA.VanGogh",
+                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.VanGogh, NiGA.Plisnier",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T15:30:00",
                     "color": "#44fcdb"
@@ -27824,18 +27794,6 @@
                 },
                 {
                     "title": "Advanced machine learning and deep learning\nMr SIEBERT\nHo.05",
-                    "start": "2023-11-15T08:15:00",
-                    "end": "2023-11-15T10:15:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Advanced machine learning and deep learning\nMr ROUZE, Mme LANI, Mr SIEBERT\nHo.06PC",
-                    "start": "2023-11-15T13:30:00",
-                    "end": "2023-11-15T17:30:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Advanced machine learning and deep learning\nMr SIEBERT\nHo.05",
                     "start": "2023-11-22T08:15:00",
                     "end": "2023-11-22T10:15:00",
                     "color": "#5c98ff"
@@ -32371,43 +32329,31 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.VanGogh",
-                    "start": "2023-11-06T13:30:00",
-                    "end": "2023-11-06T15:30:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiB4.120, NiGA.Plisnier",
                     "start": "2023-11-13T08:15:00",
                     "end": "2023-11-13T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiP.3E10",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
-                    "start": "2023-11-20T08:15:00",
-                    "end": "2023-11-20T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiB6.124",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-11-20T10:30:00",
                     "end": "2023-11-20T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiP.0A07",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-11-27T10:30:00",
                     "end": "2023-11-27T12:30:00",
                     "color": "#00ad3d"
@@ -32425,25 +32371,19 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
-                    "start": "2023-12-11T08:15:00",
-                    "end": "2023-12-11T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiB4.120",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiB4.120, NiGA.Plisnier",
                     "start": "2023-12-11T10:30:00",
                     "end": "2023-12-11T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiB4.120, NiGA.Plisnier",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiGA.Plisnier, NiB4.120",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#00ad3d"
@@ -32789,91 +32729,91 @@
             ],
             "Analyse math\u00e9matique I": [
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-02-06T08:15:00",
                     "end": "2024-02-06T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-02-07T08:15:00",
                     "end": "2024-02-07T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-02-09T13:30:00",
                     "end": "2024-02-09T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-02-12T10:30:00",
                     "end": "2024-02-12T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-02-14T08:15:00",
                     "end": "2024-02-14T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-02-16T13:30:00",
                     "end": "2024-02-16T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-02-19T10:30:00",
                     "end": "2024-02-19T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-02-21T08:15:00",
                     "end": "2024-02-21T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-02-23T13:30:00",
                     "end": "2024-02-23T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-02-28T08:15:00",
                     "end": "2024-02-28T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-03-01T13:30:00",
                     "end": "2024-03-01T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-03-06T08:15:00",
                     "end": "2024-03-06T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-03-13T08:15:00",
                     "end": "2024-03-13T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00",
                     "color": "#00ad3d"
@@ -32885,91 +32825,91 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.18",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.18",
                     "start": "2024-03-19T10:30:00",
                     "end": "2024-03-19T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-03-20T08:15:00",
                     "end": "2024-03-20T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-03-27T08:15:00",
                     "end": "2024-03-27T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-04-24T08:15:00",
                     "end": "2024-04-24T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiP.0A11",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiP.0A11",
                     "start": "2024-04-25T13:30:00",
                     "end": "2024-04-25T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T15:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-04-30T10:30:00",
                     "end": "2024-04-30T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-05-07T10:30:00",
                     "end": "2024-05-07T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-05-08T08:15:00",
                     "end": "2024-05-08T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB4.Penrose",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB4.Penrose",
                     "start": "2024-05-14T10:30:00",
                     "end": "2024-05-14T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Analyse math\u00e9matique I\nMme LACROIX, Mr LHOST\nNiB6.124",
+                    "title": "Analyse math\u00e9matique I\nMr LHOST, Mme LACROIX\nNiB6.124",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T10:15:00",
                     "color": "#00ad3d"
@@ -33419,7 +33359,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mr MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#00ad3d"
@@ -33461,7 +33401,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mr MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#00ad3d"
@@ -34525,7 +34465,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMr DELPLACE, Mme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN\nNiGA.Curie",
+                    "title": "Phys. gen. I cplts TD & TP\nMr DELPLACE, Mr BRASSEUR, Mme DEVOUGE, Mr ROSOLEN\nNiGA.Curie",
                     "start": "2023-12-14T08:15:00",
                     "end": "2023-12-14T10:15:00",
                     "color": "#44fcdb"
@@ -34537,7 +34477,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2023-12-21T13:30:00",
                     "end": "2023-12-21T17:30:00",
                     "color": "#44fcdb"
@@ -34655,7 +34595,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00",
                     "color": "#44fcdb"
@@ -34667,7 +34607,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T16:30:00",
                     "color": "#44fcdb"
@@ -34685,7 +34625,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T16:30:00",
                     "color": "#44fcdb"
@@ -34697,7 +34637,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T16:30:00",
                     "color": "#44fcdb"
@@ -34709,7 +34649,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-04-24T13:30:00",
                     "end": "2024-04-24T17:30:00",
                     "color": "#44fcdb"
@@ -40573,12 +40513,6 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE\nNiB4.Penrose",
-                    "start": "2023-11-07T08:15:00",
-                    "end": "2023-11-07T10:15:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
                     "start": "2023-11-23T13:30:00",
                     "end": "2023-11-23T17:30:00",
@@ -41452,12 +41386,6 @@
                     "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-29T15:45:00",
                     "end": "2023-11-29T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
-                    "start": "2023-12-06T08:15:00",
-                    "end": "2023-12-06T10:15:00",
                     "color": "#878787"
                 },
                 {
