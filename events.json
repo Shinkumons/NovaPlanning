@@ -4661,19 +4661,19 @@
             ],
             "Chimie th\u00e9orique: exercices": [
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiDeVinci.Russel",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiDeVinci.Russel",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiV\u00e9sale.030",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiV\u00e9sale.030",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T17:30:00",
                     "color": "#0026ad"
@@ -5204,6 +5204,14 @@
                     "title": "M\u00e9tabolisme du carbone\nMr WATTIEZ\nNiB6.18",
                     "start": "2023-12-19T08:15:00",
                     "end": "2023-12-19T10:15:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -8958,8 +8966,8 @@
                 },
                 {
                     "title": "Calculus I - Exercices\nMme FOUGNIES\nNiGA.Plisnier",
-                    "start": "2023-12-05T15:45:00",
-                    "end": "2023-12-05T17:45:00",
+                    "start": "2023-12-05T13:30:00",
+                    "end": "2023-12-05T15:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -10054,6 +10062,20 @@
                     "title": "Projet d'informatique\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel",
                     "start": "2024-05-17T15:45:00",
                     "end": "2024-05-17T17:45:00",
+                    "color": "#878787"
+                }
+            ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiB6.18",
+                    "start": "2023-11-30T08:15:00",
+                    "end": "2023-11-30T10:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
                     "color": "#878787"
                 }
             ]
@@ -21144,6 +21166,14 @@
                     "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-12-22T13:30:00",
                     "end": "2023-12-22T17:45:00",
+                    "color": "#5c98ff"
+                }
+            ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -36599,7 +36629,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#0026ad"
@@ -36611,7 +36641,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#0026ad"
@@ -36623,7 +36653,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#0026ad"
@@ -36635,7 +36665,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#0026ad"
@@ -36647,7 +36677,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#0026ad"
@@ -36659,7 +36689,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#0026ad"
@@ -36671,7 +36701,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-02T08:15:00",
                     "end": "2023-11-02T10:15:00",
                     "color": "#0026ad"
@@ -36683,7 +36713,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T10:15:00",
                     "color": "#0026ad"
@@ -36695,7 +36725,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T10:15:00",
                     "color": "#0026ad"
@@ -36707,7 +36737,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
                     "color": "#0026ad"
@@ -36807,7 +36837,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bibliographie et outils info\nMme CARETTE, Mr DUEZ\nNiV\u00e9sale.LaFontaine",
+                    "title": "Bibliographie et outils info\nMr DUEZ, Mme CARETTE\nNiV\u00e9sale.LaFontaine",
                     "start": "2023-12-12T10:30:00",
                     "end": "2023-12-12T12:30:00",
                     "color": "#0026ad"
@@ -38374,6 +38404,14 @@
                     "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI, Mme DAUBIE\nNiB4.233",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
+                    "color": "#878787"
+                }
+            ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
                     "color": "#878787"
                 }
             ],
