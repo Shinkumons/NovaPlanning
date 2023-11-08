@@ -5864,8 +5864,8 @@
                 },
                 {
                     "title": "Chim indust. et gest risq chi\nMr DE WINTER, Mr DUBOIS\nNiDeVinci.Mirzakhani",
-                    "start": "2023-11-09T10:30:00",
-                    "end": "2023-11-09T12:30:00",
+                    "start": "2023-11-23T10:30:00",
+                    "end": "2023-11-23T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -6090,12 +6090,6 @@
                 },
                 {
                     "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
-                    "start": "2023-11-10T08:15:00",
-                    "end": "2023-11-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2023-11-14T08:15:00",
                     "end": "2023-11-14T10:15:00",
                     "color": "#0026ad"
@@ -6128,6 +6122,12 @@
                     "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
+                    "start": "2023-11-24T08:15:00",
+                    "end": "2023-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8235,12 +8235,6 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
-                    "start": "2023-11-13T08:15:00",
-                    "end": "2023-11-13T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
@@ -8570,14 +8564,14 @@
             "Calculus I - Th\u00e9orie": [
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00",
+                    "start": "2023-11-09T10:30:00",
+                    "end": "2023-11-09T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T10:30:00",
-                    "end": "2023-11-09T12:30:00",
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Plisnier",
+                    "start": "2023-11-13T08:15:00",
+                    "end": "2023-11-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
@@ -18839,12 +18833,6 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiB4.120, NiV\u00e9sale.020, NiGA.Plisnier",
-                    "start": "2023-11-13T08:15:00",
-                    "end": "2023-11-13T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
@@ -19844,14 +19832,14 @@
             "Calculus I - Th\u00e9orie": [
                 {
                     "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00",
+                    "start": "2023-11-09T10:30:00",
+                    "end": "2023-11-09T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-11-09T10:30:00",
-                    "end": "2023-11-09T12:30:00",
+                    "title": "Calculus I - Th\u00e9orie\nMme BRIDOUX\nNiGA.Plisnier",
+                    "start": "2023-11-13T08:15:00",
+                    "end": "2023-11-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
@@ -32379,12 +32367,6 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiB4.120, NiGA.Plisnier",
-                    "start": "2023-11-13T08:15:00",
-                    "end": "2023-11-13T10:15:00",
-                    "color": "#00ad3d"
-                },
-                {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2023-11-13T10:30:00",
                     "end": "2023-11-13T12:30:00",
@@ -36161,15 +36143,15 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale III\nMr VOUE\nNiB4.Penrose",
-                    "start": "2023-11-23T10:30:00",
-                    "end": "2023-11-23T12:30:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale III\nMme DAUBIE, Mr ROSOLEN\nNiB4.120",
                     "start": "2023-12-01T10:30:00",
                     "end": "2023-12-01T12:30:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Physique g\u00e9n\u00e9rale III\nMr VOUE\nNiB4.Penrose",
+                    "start": "2023-12-07T10:30:00",
+                    "end": "2023-12-07T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
