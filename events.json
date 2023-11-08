@@ -6089,12 +6089,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie du solide\nMr SNYDERS\n",
-                    "start": "2023-11-09T08:15:00",
-                    "end": "2023-11-09T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie du solide\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
@@ -6152,6 +6146,12 @@
                     "title": "Chimie du solide\nMr SNYDERS\nNiP.3E20",
                     "start": "2023-12-05T08:15:00",
                     "end": "2023-12-05T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie du solide\nMr SNYDERS\nNiP.0A11",
+                    "start": "2023-12-06T08:15:00",
+                    "end": "2023-12-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
