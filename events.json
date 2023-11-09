@@ -13481,15 +13481,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Vaughan",
-                    "start": "2023-11-14T10:30:00",
-                    "end": "2023-11-14T12:30:00",
+                    "title": "Programmation fonctionnelle\nMr MENS\nNiB6.18",
+                    "start": "2023-11-13T10:30:00",
+                    "end": "2023-11-13T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation fonctionnelle\nMr MENS\n",
-                    "start": "2023-11-15T13:30:00",
-                    "end": "2023-11-15T15:30:00",
+                    "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Vaughan",
+                    "start": "2023-11-14T10:30:00",
+                    "end": "2023-11-14T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -26985,15 +26985,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Vaughan",
-                    "start": "2023-11-14T10:30:00",
-                    "end": "2023-11-14T12:30:00",
+                    "title": "Programmation fonctionnelle\nMr MENS\nNiB6.18",
+                    "start": "2023-11-13T10:30:00",
+                    "end": "2023-11-13T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation fonctionnelle\nMr MENS\n",
-                    "start": "2023-11-15T13:30:00",
-                    "end": "2023-11-15T15:30:00",
+                    "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Vaughan",
+                    "start": "2023-11-14T10:30:00",
+                    "end": "2023-11-14T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -31511,13 +31511,13 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
@@ -31577,6 +31577,12 @@
                     "start": "2023-10-24T13:30:00",
                     "end": "2023-10-24T15:30:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "Projet int\u00e9gr\u00e9\nMme BRIDOUX\nNiB4.233",
+                    "start": "2023-11-21T13:30:00",
+                    "end": "2023-11-21T15:30:00",
+                    "color": "#878787"
                 }
             ],
             "Sem. m\u00e9thod. Sc. math A": [
@@ -31599,7 +31605,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math A\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T16:30:00",
                     "color": "#878787"
@@ -31613,7 +31619,7 @@
             ],
             "Sem. m\u00e9thod. Sc. math B": [
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-10-25T13:30:00",
                     "end": "2023-10-25T16:30:00",
                     "color": "#878787"
@@ -31631,13 +31637,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T16:30:00",
                     "color": "#878787"
@@ -31649,61 +31655,61 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-14T13:30:00",
                     "end": "2024-02-14T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-21T13:30:00",
                     "end": "2024-02-21T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-28T13:30:00",
                     "end": "2024-02-28T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-03-06T13:30:00",
                     "end": "2024-03-06T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-13T13:30:00",
                     "end": "2024-03-13T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T16:30:00",
                     "color": "#878787"
