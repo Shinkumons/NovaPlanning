@@ -12923,12 +12923,6 @@
                     "color": "#fca044"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR, Mr FEUILLET\nWa.203P",
-                    "start": "2023-11-14T08:15:00",
-                    "end": "2023-11-14T10:15:00",
-                    "color": "#fca044"
-                },
-                {
                     "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.236L",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T10:15:00",
@@ -15732,12 +15726,6 @@
                     "title": "Graphes et intelligence artificielle\nMr MELOT\nNiP.3E10",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Graphes et intelligence artificielle\nMr MELOT\nNiP.3E11",
-                    "start": "2023-11-30T13:30:00",
-                    "end": "2023-11-30T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -23819,7 +23807,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiB4.120",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiB4.120",
                     "start": "2023-10-02T10:30:00",
                     "end": "2023-10-02T12:30:00",
                     "color": "#fc4747"
@@ -23831,7 +23819,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-10-05T15:45:00",
                     "end": "2023-10-05T17:45:00",
                     "color": "#fc4747"
@@ -23843,7 +23831,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-10-12T15:45:00",
                     "end": "2023-10-12T17:45:00",
                     "color": "#fc4747"
@@ -23861,7 +23849,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-10-26T15:45:00",
                     "end": "2023-10-26T17:45:00",
                     "color": "#fc4747"
@@ -23879,7 +23867,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-11-09T15:45:00",
                     "end": "2023-11-09T17:45:00",
                     "color": "#fc4747"
@@ -23891,7 +23879,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-11-16T15:45:00",
                     "end": "2023-11-16T17:45:00",
                     "color": "#fc4747"
@@ -23909,13 +23897,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-11-30T15:45:00",
                     "end": "2023-11-30T17:45:00",
                     "color": "#fc4747"
@@ -23927,43 +23915,43 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-07T08:15:00",
                     "end": "2023-12-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E20",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E20",
                     "start": "2023-12-07T15:45:00",
                     "end": "2023-12-07T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-13T08:15:00",
                     "end": "2023-12-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-14T08:15:00",
                     "end": "2023-12-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-20T08:15:00",
                     "end": "2023-12-20T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2023-12-21T08:15:00",
                     "end": "2023-12-21T10:15:00",
                     "color": "#fc4747"
@@ -24035,7 +24023,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00",
                     "color": "#fc4747"
@@ -24047,7 +24035,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-03-18T10:30:00",
                     "end": "2024-03-18T12:30:00",
                     "color": "#fc4747"
@@ -24059,7 +24047,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-03-25T10:30:00",
                     "end": "2024-03-25T12:30:00",
                     "color": "#fc4747"
@@ -24071,67 +24059,67 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E11",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E11",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-04-19T08:15:00",
                     "end": "2024-04-19T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E11",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E11",
                     "start": "2024-04-22T13:30:00",
                     "end": "2024-04-22T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-04-30T10:30:00",
                     "end": "2024-04-30T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E11",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E11",
                     "start": "2024-05-06T13:30:00",
                     "end": "2024-05-06T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-05-07T10:30:00",
                     "end": "2024-05-07T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-05-13T13:30:00",
                     "end": "2024-05-13T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-05-14T10:30:00",
                     "end": "2024-05-14T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON, Mme FOUGNIES\nNiP.3E10",
+                    "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E10",
                     "start": "2024-05-17T08:15:00",
                     "end": "2024-05-17T10:15:00",
                     "color": "#fc4747"
@@ -25455,152 +25443,78 @@
                     "color": "#5c98ff"
                 }
             ],
-            "Introduction \u00e0 la gestion d'activit\u00e9s financiaires": [
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-10T10:30:00",
-                    "end": "2023-11-10T12:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-10T13:30:00",
-                    "end": "2023-11-10T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-17T10:30:00",
-                    "end": "2023-11-17T12:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-17T13:30:00",
-                    "end": "2023-11-17T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-24T10:30:00",
-                    "end": "2023-11-24T12:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-11-24T13:30:00",
-                    "end": "2023-11-24T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-01T10:30:00",
-                    "end": "2023-12-01T12:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-01T13:30:00",
-                    "end": "2023-12-01T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-08T10:30:00",
-                    "end": "2023-12-08T12:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-08T13:30:00",
-                    "end": "2023-12-08T15:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-15T10:30:00",
-                    "end": "2023-12-15T13:30:00",
-                    "color": "#fca044"
-                },
-                {
-                    "title": "Introduction \u00e0 la gestion d'activit\u00e9s financiaires\nMme CROQUET\nWa.Drechsel",
-                    "start": "2023-12-22T10:30:00",
-                    "end": "2023-12-22T12:30:00",
-                    "color": "#fca044"
-                }
-            ],
             "Intro. \u00e0 la r\u00e9al. fin. - AAEP": [
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-10-24T13:30:00",
                     "end": "2023-10-24T17:45:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-11-07T15:45:00",
                     "end": "2023-11-07T17:45:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-11-14T13:30:00",
                     "end": "2023-11-14T16:30:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nNiV\u00e9sale.025",
                     "start": "2023-11-17T08:15:00",
                     "end": "2023-11-17T10:15:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nNiV\u00e9sale.025",
                     "start": "2023-11-24T08:15:00",
                     "end": "2023-11-24T10:15:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-11-28T13:30:00",
                     "end": "2023-11-28T16:30:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nWa.Drechsel",
                     "start": "2023-12-01T08:15:00",
                     "end": "2023-12-01T10:15:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-12-05T15:45:00",
                     "end": "2023-12-05T17:45:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nNiV\u00e9sale.025",
                     "start": "2023-12-08T08:15:00",
                     "end": "2023-12-08T10:15:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T16:30:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr KRISTOFORIDIS\nNiV\u00e9sale.025",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T10:15:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 },
                 {
                     "title": "Intro. \u00e0 la r\u00e9al. fin. - AAEP\nMr FINET\nNiGA.Curie",
                     "start": "2023-12-19T13:30:00",
                     "end": "2023-12-19T16:30:00",
-                    "color": "#fca044"
+                    "color": "#5c98ff"
                 }
             ],
             "Introduction \u00e0 l'utilisation de bases de donn\u00e9es math\u00e9matiques": [
@@ -25801,157 +25715,157 @@
             ],
             "Logique math\u00e9matique": [
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-09-21T10:30:00",
                     "end": "2023-09-21T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-09-28T10:30:00",
                     "end": "2023-09-28T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-04T10:30:00",
                     "end": "2023-10-04T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-05T10:30:00",
                     "end": "2023-10-05T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-12T10:30:00",
                     "end": "2023-10-12T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-18T10:30:00",
                     "end": "2023-10-18T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-19T10:30:00",
                     "end": "2023-10-19T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-25T10:30:00",
                     "end": "2023-10-25T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-26T10:30:00",
                     "end": "2023-10-26T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-10-31T10:30:00",
                     "end": "2023-10-31T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-02T10:30:00",
                     "end": "2023-11-02T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-08T10:30:00",
                     "end": "2023-11-08T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-09T10:30:00",
                     "end": "2023-11-09T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-15T10:30:00",
                     "end": "2023-11-15T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-16T10:30:00",
                     "end": "2023-11-16T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-22T10:30:00",
                     "end": "2023-11-22T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-23T10:30:00",
                     "end": "2023-11-23T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-29T10:30:00",
                     "end": "2023-11-29T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-11-30T10:30:00",
                     "end": "2023-11-30T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-06T10:30:00",
                     "end": "2023-12-06T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-07T10:30:00",
                     "end": "2023-12-07T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-13T10:30:00",
                     "end": "2023-12-13T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-14T10:30:00",
                     "end": "2023-12-14T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-14T15:45:00",
                     "end": "2023-12-14T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-20T10:30:00",
                     "end": "2023-12-20T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Logique math\u00e9matique\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Logique math\u00e9matique\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2023-12-21T10:30:00",
                     "end": "2023-12-21T12:30:00",
                     "color": "#fc4747"
@@ -27035,91 +26949,91 @@
             ],
             "Projet de r\u00e9seaux I": [
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-02-27T08:15:00",
                     "end": "2024-02-27T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-03-05T08:15:00",
                     "end": "2024-03-05T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-03-12T08:15:00",
                     "end": "2024-03-12T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-03-19T08:15:00",
                     "end": "2024-03-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Vaughan",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan",
                     "start": "2024-03-20T08:15:00",
                     "end": "2024-03-20T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-03-26T08:15:00",
                     "end": "2024-03-26T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Vaughan",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan",
                     "start": "2024-03-27T08:15:00",
                     "end": "2024-03-27T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Vaughan",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-04-23T08:15:00",
                     "end": "2024-04-23T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Vaughan",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan",
                     "start": "2024-04-24T08:15:00",
                     "end": "2024-04-24T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-04-30T08:15:00",
                     "end": "2024-04-30T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Vaughan",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan",
                     "start": "2024-05-08T08:15:00",
                     "end": "2024-05-08T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de r\u00e9seaux I\nMr DUSOLLIER, Mr BONTE\nNiDeVinci.Russel",
+                    "title": "Projet de r\u00e9seaux I\nMr BONTE, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T10:15:00",
                     "color": "#5c98ff"
@@ -27283,13 +27197,13 @@
             ],
             "S\u00e9minaire de logique math\u00e9matique I": [
                 {
-                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-02-06T08:15:00",
                     "end": "2024-02-06T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-02-10T10:30:00",
                     "end": "2024-02-10T12:30:00",
                     "color": "#fc4747"
@@ -27603,79 +27517,79 @@
             ],
             "Th\u00e9orie des mod\u00e8les": [
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-02-09T15:45:00",
                     "end": "2024-02-09T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-02-16T15:45:00",
                     "end": "2024-02-16T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-02-23T15:45:00",
                     "end": "2024-02-23T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-03-01T15:45:00",
                     "end": "2024-03-01T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-03-08T15:45:00",
                     "end": "2024-03-08T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-03-15T15:45:00",
                     "end": "2024-03-15T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-03-22T15:45:00",
                     "end": "2024-03-22T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E10",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E10",
                     "start": "2024-03-29T15:45:00",
                     "end": "2024-03-29T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-04-19T15:45:00",
                     "end": "2024-04-19T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-04-26T15:45:00",
                     "end": "2024-04-26T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-05-03T15:45:00",
                     "end": "2024-05-03T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-05-10T15:45:00",
                     "end": "2024-05-10T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Th\u00e9orie des mod\u00e8les\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
+                    "title": "Th\u00e9orie des mod\u00e8les\nMr RAMLOT, Mr MICHAUX\nNiP.3E11",
                     "start": "2024-05-17T15:45:00",
                     "end": "2024-05-17T17:45:00",
                     "color": "#fc4747"
@@ -27695,7 +27609,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
+                    "title": "Univers\nMr PALMERI, Mr QUINET, Mr LO BUE\n",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00",
                     "color": "#44fcdb"
@@ -27707,7 +27621,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
+                    "title": "Univers\nMr PALMERI, Mr QUINET, Mr LO BUE\n",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T16:30:00",
                     "color": "#44fcdb"
@@ -27725,7 +27639,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
+                    "title": "Univers\nMr PALMERI, Mr QUINET, Mr LO BUE\n",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T16:30:00",
                     "color": "#44fcdb"
@@ -27737,7 +27651,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
+                    "title": "Univers\nMr PALMERI, Mr QUINET, Mr LO BUE\n",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T16:30:00",
                     "color": "#44fcdb"
@@ -27749,7 +27663,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
+                    "title": "Univers\nMr PALMERI, Mr QUINET, Mr LO BUE\n",
                     "start": "2024-04-24T13:30:00",
                     "end": "2024-04-24T17:30:00",
                     "color": "#44fcdb"
@@ -29032,12 +28946,6 @@
                     "title": "Graphes et intelligence artificielle\nMr MELOT\nNiP.3E10",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Graphes et intelligence artificielle\nMr MELOT\nNiP.3E11",
-                    "start": "2023-11-30T13:30:00",
-                    "end": "2023-11-30T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
