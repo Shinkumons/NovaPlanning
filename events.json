@@ -6667,18 +6667,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nMr THIRY\nNiB4.119",
-                    "start": "2023-11-14T10:30:00",
-                    "end": "2023-11-14T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physico-chimie des surfaces\nMr THIRY\nNiB4.119",
-                    "start": "2023-11-21T10:30:00",
-                    "end": "2023-11-21T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Physico-chimie des surfaces\nMr THIRY\nNiMen.Lauterbur",
                     "start": "2023-11-21T13:30:00",
                     "end": "2023-11-21T18:30:00",
@@ -6691,6 +6679,18 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physico-chimie des surfaces\nMr THIRY\nNiP.3E11",
+                    "start": "2023-11-28T15:45:00",
+                    "end": "2023-11-28T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physico-chimie des surfaces\nMr THIRY\nNiB4.233",
+                    "start": "2023-11-30T08:15:00",
+                    "end": "2023-11-30T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physico-chimie des surfaces\nMr THIRY\nNiB4.119",
                     "start": "2023-12-05T10:30:00",
                     "end": "2023-12-05T12:30:00",
@@ -6700,6 +6700,12 @@
                     "title": "Physico-chimie des surfaces\nMr THIRY\nNiMen.Lauterbur",
                     "start": "2023-12-05T13:30:00",
                     "end": "2023-12-05T18:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physico-chimie des surfaces\nMr THIRY\nNiB4.119",
+                    "start": "2023-12-11T08:15:00",
+                    "end": "2023-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -31425,55 +31431,55 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiB4.Penrose",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiB4.Penrose",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr SIMON, Mr VAN VOOREN\nNiB4.Penrose",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr SIMON\nNiB4.Penrose",
                     "start": "2023-12-19T16:45:00",
                     "end": "2023-12-19T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme BRIDOUX, Mme LACROIX, Mr VAN VOOREN, Mr VILLERS\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -31525,7 +31531,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math A\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T16:30:00",
                     "color": "#878787"
@@ -31539,7 +31545,7 @@
             ],
             "Sem. m\u00e9thod. Sc. math B": [
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-10-25T13:30:00",
                     "end": "2023-10-25T16:30:00",
                     "color": "#878787"
@@ -31557,13 +31563,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T16:30:00",
                     "color": "#878787"
@@ -31575,61 +31581,61 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-14T13:30:00",
                     "end": "2024-02-14T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-21T13:30:00",
                     "end": "2024-02-21T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-02-28T13:30:00",
                     "end": "2024-02-28T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-03-06T13:30:00",
                     "end": "2024-03-06T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-13T13:30:00",
                     "end": "2024-03-13T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mr MICHAUX, Mme MOUSSET\nNiB4.119",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T16:30:00",
                     "color": "#878787"
@@ -31813,37 +31819,37 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiB4.Penrose",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.Penrose, NiB4.233",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiB4.233, NiB4.Penrose",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.Penrose, NiB4.233",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -31855,13 +31861,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme LACROIX, Mr SIMON, Mme BRIDOUX, Mr VAN VOOREN, Mr VILLERS\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -41811,7 +41817,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
@@ -41823,7 +41829,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr SIMON, Mme LACROIX, Mme BRIDOUX, Mr VILLERS, Mr VAN VOOREN\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -41879,7 +41885,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nRosaParks.3.08, RosaParks.2.07, RosaParks.6.10.Desmet, Wa.Hotyat, RosaParks.1.09.Delmas\u2011Marty",
+                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nRosaParks.2.07, RosaParks.1.09.Delmas\u2011Marty, RosaParks.6.10.Desmet, RosaParks.3.08, Wa.Hotyat",
                     "start": "2023-12-06T18:00:00",
                     "end": "2023-12-06T21:00:00",
                     "color": "#878787"
@@ -41985,13 +41991,13 @@
             ],
             "Sem. m\u00e9thod. Sc. math B": [
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mme MOUSSET, Mr DRAMAIX\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-13T13:30:00",
                     "end": "2024-03-13T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mme MOUSSET, Mr DRAMAIX\nNiDeVinci.Mirzakhani",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T17:30:00",
                     "color": "#878787"
@@ -41999,7 +42005,7 @@
             ],
             "S\u00e9m.m\u00e9th.sp.phys A": [
                 {
-                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nMr LO BUE, Mme LACROIX\nNiB4.120",
+                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nMme LACROIX, Mr LO BUE\nNiB4.120",
                     "start": "2023-10-03T16:30:00",
                     "end": "2023-10-03T18:30:00",
                     "color": "#878787"
@@ -42043,43 +42049,43 @@
             ],
             "S\u00e9minaire M\u00e9thodo sp Phys B": [
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2023-10-02T16:30:00",
                     "end": "2023-10-02T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-05T16:45:00",
                     "end": "2024-02-05T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-12T16:45:00",
                     "end": "2024-02-12T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-19T16:45:00",
                     "end": "2024-02-19T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-26T16:45:00",
                     "end": "2024-02-26T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-03-11T16:45:00",
                     "end": "2024-03-11T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-04-15T16:45:00",
                     "end": "2024-04-15T19:45:00",
                     "color": "#878787"
@@ -42091,7 +42097,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-04-22T16:45:00",
                     "end": "2024-04-22T19:45:00",
                     "color": "#878787"
@@ -42343,37 +42349,37 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -42385,13 +42391,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMr VAN VOOREN, Mme LACROIX, Mr VILLERS, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VAN VOOREN, Mr VILLERS, Mr SIMON, Mme BRIDOUX, Mme LACROIX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -42429,7 +42435,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nRosaParks.1.09.Delmas\u2011Marty, RosaParks.6.10.Desmet, RosaParks.3.08, Wa.Hotyat, RosaParks.2.07",
+                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nRosaParks.3.08, RosaParks.2.07, RosaParks.6.10.Desmet, Wa.Hotyat, RosaParks.1.09.Delmas\u2011Marty",
                     "start": "2023-12-06T18:00:00",
                     "end": "2023-12-06T21:00:00",
                     "color": "#878787"
@@ -42573,7 +42579,7 @@
             ],
             "S\u00e9m.m\u00e9th.sp.phys A": [
                 {
-                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nMr LO BUE, Mme LACROIX\nNiB4.120",
+                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nMme LACROIX, Mr LO BUE\nNiB4.120",
                     "start": "2023-10-03T16:30:00",
                     "end": "2023-10-03T18:30:00",
                     "color": "#878787"
@@ -42617,43 +42623,43 @@
             ],
             "S\u00e9minaire M\u00e9thodo sp Phys B": [
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2023-10-02T16:30:00",
                     "end": "2023-10-02T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-05T16:45:00",
                     "end": "2024-02-05T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-12T16:45:00",
                     "end": "2024-02-12T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-19T16:45:00",
                     "end": "2024-02-19T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-02-26T16:45:00",
                     "end": "2024-02-26T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-03-11T16:45:00",
                     "end": "2024-03-11T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-04-15T16:45:00",
                     "end": "2024-04-15T19:45:00",
                     "color": "#878787"
@@ -42665,7 +42671,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMr LO BUE, Mme LACROIX\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
                     "start": "2024-04-22T16:45:00",
                     "end": "2024-04-22T19:45:00",
                     "color": "#878787"
