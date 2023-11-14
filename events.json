@@ -8929,9 +8929,9 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus I - Exercices\nMme FOUGNIES\nNiV\u00e9sale.020",
-                    "start": "2023-11-15T15:45:00",
-                    "end": "2023-11-15T17:45:00",
+                    "title": "Calculus I - Exercices\nMme FOUGNIES\nNiV\u00e9sale.023",
+                    "start": "2023-11-17T10:30:00",
+                    "end": "2023-11-17T12:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -8965,9 +8965,9 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus I - Exercices\nMme FOUGNIES\nNiV\u00e9sale.020",
-                    "start": "2023-11-29T15:45:00",
-                    "end": "2023-11-29T17:45:00",
+                    "title": "Calculus I - Exercices\nMme FOUGNIES\nNiGA.VanGogh",
+                    "start": "2023-12-01T08:15:00",
+                    "end": "2023-12-01T10:15:00",
                     "color": "#fc4747"
                 },
                 {
@@ -9589,7 +9589,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.VanGogh, NiGA.Plisnier",
+                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Plisnier, NiGA.VanGogh",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T15:30:00",
                     "color": "#44fcdb"
@@ -22649,7 +22649,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique II : Int\u00e9gration\nMme FOUGNIES, Mr SIMON, Mr BROUETTE\nNiP.3E11",
+                    "title": "Analyse math\u00e9matique II : Int\u00e9gration\nMr SIMON, Mr BROUETTE\nNiP.3E11",
                     "start": "2023-11-17T10:30:00",
                     "end": "2023-11-17T12:30:00",
                     "color": "#fc4747"
@@ -23751,9 +23751,9 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre III\nMr RAMLOT\nNiP.3E11",
-                    "start": "2023-11-17T15:45:00",
-                    "end": "2023-11-17T17:45:00",
+                    "title": "Alg\u00e8bre III\nMr RAMLOT\nNiP.3E20",
+                    "start": "2023-11-17T13:30:00",
+                    "end": "2023-11-17T15:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -26920,12 +26920,6 @@
                     "title": "Programmation fonctionnelle\nMr MENS\nNiDeVinci.Vaughan",
                     "start": "2023-11-14T10:30:00",
                     "end": "2023-11-14T12:30:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Programmation fonctionnelle\nMr MENS\nNiB6.124",
-                    "start": "2023-11-17T13:30:00",
-                    "end": "2023-11-17T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
