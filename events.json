@@ -6317,21 +6317,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
-                    "start": "2023-11-13T13:30:00",
-                    "end": "2023-11-13T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Introd.chim.m\u00e9dicinale\nMme LAURENT\nNiP.3E11",
                     "start": "2023-11-20T10:30:00",
                     "end": "2023-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
-                    "start": "2023-11-20T13:30:00",
-                    "end": "2023-11-20T17:30:00",
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT\n",
+                    "start": "2023-11-22T08:15:00",
+                    "end": "2023-11-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -6344,6 +6338,18 @@
                     "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
                     "start": "2023-11-27T13:30:00",
                     "end": "2023-11-27T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT\n",
+                    "start": "2023-11-29T10:30:00",
+                    "end": "2023-11-29T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT\n",
+                    "start": "2023-12-01T13:30:00",
+                    "end": "2023-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8193,9 +8199,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Hotyat",
-                    "start": "2023-11-17T16:45:00",
-                    "end": "2023-11-17T19:45:00",
+                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\n",
+                    "start": "2023-11-17T17:00:00",
+                    "end": "2023-11-17T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -14211,37 +14217,37 @@
             ],
             "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle": [
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.05",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.25bisLab, Ho.05",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.05, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS\nHo.25bisLab, Ho.05",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#5c98ff"
@@ -15425,61 +15431,61 @@
             ],
             "English for scientific communication Partie 2": [
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-29T08:15:00",
                     "end": "2024-03-29T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-04-26T08:15:00",
                     "end": "2024-04-26T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#878787"
@@ -17533,13 +17539,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Network security and management\nMr MEGRET\nDo.TeleSC",
+                    "title": "Network security and management\nMr MEGRET\nHo.21",
                     "start": "2023-12-14T08:30:00",
                     "end": "2023-12-14T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Network security and management\nMr MEGRET\nDo.TeleSC",
+                    "title": "Network security and management\nMr MEGRET\nHo.21",
                     "start": "2023-12-14T13:30:00",
                     "end": "2023-12-14T17:30:00",
                     "color": "#878787"
@@ -31675,9 +31681,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Hotyat",
-                    "start": "2023-11-17T16:45:00",
-                    "end": "2023-11-17T19:45:00",
+                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\n",
+                    "start": "2023-11-17T17:00:00",
+                    "end": "2023-11-17T20:00:00",
                     "color": "#878787"
                 },
                 {
@@ -32251,9 +32257,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Hotyat",
-                    "start": "2023-11-17T16:45:00",
-                    "end": "2023-11-17T19:45:00",
+                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\n",
+                    "start": "2023-11-17T17:00:00",
+                    "end": "2023-11-17T20:00:00",
                     "color": "#878787"
                 },
                 {
@@ -42193,9 +42199,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Hotyat",
-                    "start": "2023-11-17T16:45:00",
-                    "end": "2023-11-17T19:45:00",
+                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\n",
+                    "start": "2023-11-17T17:00:00",
+                    "end": "2023-11-17T20:00:00",
                     "color": "#878787"
                 },
                 {
@@ -42761,9 +42767,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Hotyat",
-                    "start": "2023-11-17T16:45:00",
-                    "end": "2023-11-17T19:45:00",
+                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\n",
+                    "start": "2023-11-17T17:00:00",
+                    "end": "2023-11-17T20:00:00",
                     "color": "#878787"
                 },
                 {
