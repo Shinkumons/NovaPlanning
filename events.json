@@ -5610,8 +5610,8 @@
                 },
                 {
                     "title": "Analyse struct. et dynam. RMN\nMme HENOUMONT\nNiB6.06",
-                    "start": "2024-04-24T13:30:00",
-                    "end": "2024-04-24T18:30:00",
+                    "start": "2024-04-23T13:30:00",
+                    "end": "2024-04-23T18:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -6317,7 +6317,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme LAURENT, Mme HENOUMONT\n",
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
                     "start": "2023-11-13T13:30:00",
                     "end": "2023-11-13T17:30:00",
                     "color": "#0026ad"
@@ -6329,7 +6329,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme LAURENT, Mme HENOUMONT\n",
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
                     "start": "2023-11-20T13:30:00",
                     "end": "2023-11-20T17:30:00",
                     "color": "#0026ad"
@@ -6341,7 +6341,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme LAURENT, Mme HENOUMONT\n",
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
                     "start": "2023-11-27T13:30:00",
                     "end": "2023-11-27T17:30:00",
                     "color": "#0026ad"
@@ -6353,7 +6353,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.m\u00e9dicinale\nMme LAURENT, Mme HENOUMONT\n",
+                    "title": "Introd.chim.m\u00e9dicinale\nMme HENOUMONT, Mme LAURENT\n",
                     "start": "2023-12-04T13:30:00",
                     "end": "2023-12-04T17:30:00",
                     "color": "#0026ad"
@@ -22825,6 +22825,12 @@
                     "color": "#fc4747"
                 },
                 {
+                    "title": "Intro au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
+                    "start": "2024-03-01T10:30:00",
+                    "end": "2024-03-01T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
                     "title": "Intro au calcul scientifique\nMr TROESTLER\nNiP.0A11",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
@@ -22870,12 +22876,6 @@
                     "title": "Intro au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-21T10:30:00",
                     "end": "2024-03-21T12:30:00",
-                    "color": "#fc4747"
-                },
-                {
-                    "title": "Intro au calcul scientifique\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
-                    "start": "2024-03-22T10:30:00",
-                    "end": "2024-03-22T12:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -34486,14 +34486,14 @@
                 },
                 {
                     "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
-                    "start": "2024-03-21T13:30:00",
-                    "end": "2024-03-21T17:30:00",
+                    "start": "2024-03-28T13:30:00",
+                    "end": "2024-03-28T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
                     "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
-                    "start": "2024-03-28T13:30:00",
-                    "end": "2024-03-28T17:30:00",
+                    "start": "2024-04-18T13:30:00",
+                    "end": "2024-04-18T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -39937,13 +39937,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-10-25T13:30:00",
                     "end": "2023-10-25T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-10-31T13:30:00",
                     "end": "2023-10-31T16:30:00",
                     "color": "#878787"
@@ -39955,7 +39955,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T16:30:00",
                     "color": "#878787"
@@ -39973,7 +39973,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-24T13:30:00",
                     "end": "2023-11-24T16:30:00",
                     "color": "#878787"
@@ -39991,13 +39991,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-08T13:30:00",
                     "end": "2023-12-08T16:30:00",
                     "color": "#878787"
@@ -40009,7 +40009,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-15T13:30:00",
                     "end": "2023-12-15T16:30:00",
                     "color": "#878787"
@@ -40021,7 +40021,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T16:30:00",
                     "color": "#878787"
@@ -40033,7 +40033,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique des particules\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Physique des particules\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-12-22T13:30:00",
                     "end": "2023-12-22T16:30:00",
                     "color": "#878787"
@@ -40639,7 +40639,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-03-07T08:15:00",
                     "end": "2024-03-07T12:15:00",
                     "color": "#878787"
@@ -40651,7 +40651,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "start": "2024-03-13T13:30:00",
+                    "end": "2024-03-13T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T12:15:00",
                     "color": "#878787"
@@ -40669,19 +40675,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
-                    "start": "2024-03-21T08:15:00",
-                    "end": "2024-03-21T12:15:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "Rayonmt. ionisants et mat.\nMme DAUBIE\n",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-03-28T08:15:00",
                     "end": "2024-03-28T12:15:00",
                     "color": "#878787"
@@ -40693,7 +40693,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T12:15:00",
                     "color": "#878787"
@@ -40711,7 +40711,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T12:15:00",
                     "color": "#878787"
@@ -40729,7 +40729,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rayonmt. ionisants et mat.\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "Rayonmt. ionisants et mat.\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T12:15:00",
                     "color": "#878787"
@@ -41515,13 +41515,13 @@
             ],
             "TP \u00e9l\u00e9ctronique fonctionnelle": [
                 {
-                    "title": "TP \u00e9l\u00e9ctronique fonctionnelle\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "TP \u00e9l\u00e9ctronique fonctionnelle\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-10-06T13:30:00",
                     "end": "2023-10-06T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "TP \u00e9l\u00e9ctronique fonctionnelle\nMme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
+                    "title": "TP \u00e9l\u00e9ctronique fonctionnelle\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T17:30:00",
                     "color": "#878787"
