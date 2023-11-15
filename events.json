@@ -1543,6 +1543,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "English for Science, part 2\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Mirzakhani",
+                    "start": "2024-04-29T10:30:00",
+                    "end": "2024-04-29T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "English for Science, part 2\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiDeVinci.Russel, NiV\u00e9sale.030, NiGA.Pascal",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00",
@@ -2405,13 +2411,13 @@
             ],
             "Travaux personnels BA1": [
                 {
-                    "title": "Travaux personnels BA1\nMr LAZZARONI, Mme LAURENT, Mr GERBAUX, Mr KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nMr KONSTANTINIDIS, Mme LAURENT, Mr GERBAUX, Mr LAZZARONI\nNiMen.Pauling",
                     "start": "2024-05-13T13:30:00",
                     "end": "2024-05-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Travaux personnels BA1\nMr LAZZARONI, Mme LAURENT, Mr GERBAUX, Mr KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nMr KONSTANTINIDIS, Mme LAURENT, Mr GERBAUX, Mr LAZZARONI\nNiMen.Pauling",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T18:00:00",
                     "color": "#0026ad"
@@ -10409,7 +10415,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus II\nMr LECOMTE, Mr TROESTLER\nNiGA.Plisnier",
+                    "title": "Calculus II\nMr TROESTLER, Mr LECOMTE\nNiGA.Plisnier",
                     "start": "2024-02-28T10:30:00",
                     "end": "2024-02-28T12:30:00",
                     "color": "#fc4747"
@@ -10421,7 +10427,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Calculus II\nMr LECOMTE, Mr TROESTLER\nNiGA.Plisnier",
+                    "title": "Calculus II\nMr TROESTLER, Mr LECOMTE\nNiGA.Plisnier",
                     "start": "2024-03-06T10:30:00",
                     "end": "2024-03-06T12:30:00",
                     "color": "#fc4747"
@@ -10567,7 +10573,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "G\u00e9nie logiciel\nMr DEVILLEZ, Mr MENS\nNiV\u00e9sale.030",
+                    "title": "G\u00e9nie logiciel\nMr MENS, Mr DEVILLEZ\nNiV\u00e9sale.030",
                     "start": "2023-12-08T10:30:00",
                     "end": "2023-12-08T12:30:00",
                     "color": "#5c98ff"
@@ -10711,43 +10717,43 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-03-12T13:30:00",
                     "end": "2024-03-12T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-04-16T13:30:00",
                     "end": "2024-04-16T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-04-23T13:30:00",
                     "end": "2024-04-23T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-04-30T13:30:00",
                     "end": "2024-04-30T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DEVOUGE, Mr DELPLACE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T16:30:00",
                     "color": "#44fcdb"
@@ -10983,7 +10989,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiP.0E10, NiGA.Turing",
+                    "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiP.0E10, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#878787"
@@ -11115,6 +11121,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Mirzakhani",
+                    "start": "2024-04-29T10:30:00",
+                    "end": "2024-04-29T12:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiDeVinci.Russel, NiV\u00e9sale.030, NiGA.Pascal",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00",
@@ -11155,19 +11167,19 @@
             ],
             "Formation LaTex": [
                 {
-                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-09-19T13:30:00",
                     "end": "2023-09-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Russel",
+                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Russel",
                     "start": "2023-10-02T15:45:00",
                     "end": "2023-10-02T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-03T13:30:00",
                     "end": "2023-10-03T15:30:00",
                     "color": "#878787"
@@ -11245,7 +11257,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-09-28T15:45:00",
                     "end": "2023-09-28T17:45:00",
                     "color": "#79007d"
@@ -11257,7 +11269,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-10-05T15:45:00",
                     "end": "2023-10-05T17:45:00",
                     "color": "#79007d"
@@ -11269,7 +11281,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-10-12T15:45:00",
                     "end": "2023-10-12T17:45:00",
                     "color": "#79007d"
@@ -11281,7 +11293,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.03",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.03",
                     "start": "2023-10-19T15:45:00",
                     "end": "2023-10-19T17:45:00",
                     "color": "#79007d"
@@ -11293,7 +11305,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-10-26T15:45:00",
                     "end": "2023-10-26T17:45:00",
                     "color": "#79007d"
@@ -11305,19 +11317,19 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-11-02T15:45:00",
                     "end": "2023-11-02T17:45:00",
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-11-09T13:30:00",
                     "end": "2023-11-09T15:30:00",
                     "color": "#79007d"
                 },
                 {
-                    "title": "Optimisation\nMr GILLIS, Mr ROUZE\nHo.23",
+                    "title": "Optimisation\nMr ROUZE, Mr GILLIS\nHo.23",
                     "start": "2023-11-09T15:45:00",
                     "end": "2023-11-09T17:45:00",
                     "color": "#79007d"
@@ -11325,91 +11337,91 @@
             ],
             "Probabilit\u00e9s": [
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-08T08:15:00",
                     "end": "2024-02-08T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-15T08:15:00",
                     "end": "2024-02-15T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-02-20T15:45:00",
                     "end": "2024-02-20T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-02-22T08:15:00",
                     "end": "2024-02-22T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-02-27T15:45:00",
                     "end": "2024-02-27T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-03-07T08:15:00",
                     "end": "2024-03-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Mirzakhani",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-21T08:15:00",
                     "end": "2024-03-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-03-28T08:15:00",
                     "end": "2024-03-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#fc4747"
@@ -11453,7 +11465,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Projet de g\u00e9nie logiciel\nMr BONTE, Mr DUSOLLIER, Mr MENS, Mr CARDOEN\nNiP.0A11",
+                    "title": "Projet de g\u00e9nie logiciel\nMr MENS, Mr BONTE, Mr CARDOEN, Mr DUSOLLIER\nNiP.0A11",
                     "start": "2024-05-21T08:15:00",
                     "end": "2024-05-21T18:00:00",
                     "color": "#5c98ff"
@@ -11651,7 +11663,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiB6.124",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiB6.124",
                     "start": "2024-02-07T15:45:00",
                     "end": "2024-02-07T17:45:00",
                     "color": "#5c98ff"
@@ -11663,7 +11675,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124",
                     "start": "2024-02-14T15:45:00",
                     "end": "2024-02-14T17:45:00",
                     "color": "#5c98ff"
@@ -11675,7 +11687,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr DUSOLLIER\nNiDeVinci.Russel",
                     "start": "2024-02-21T15:45:00",
                     "end": "2024-02-21T17:45:00",
                     "color": "#5c98ff"
@@ -11687,13 +11699,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.030",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.030",
                     "start": "2024-02-28T15:45:00",
                     "end": "2024-02-28T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2024-02-29T15:45:00",
                     "end": "2024-02-29T17:45:00",
                     "color": "#5c98ff"
@@ -11705,7 +11717,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124",
                     "start": "2024-03-06T15:45:00",
                     "end": "2024-03-06T17:45:00",
                     "color": "#5c98ff"
@@ -11717,7 +11729,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2024-03-14T15:45:00",
                     "end": "2024-03-14T17:45:00",
                     "color": "#5c98ff"
@@ -11729,91 +11741,91 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiGA.Plisnier",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiGA.Plisnier",
                     "start": "2024-03-20T15:45:00",
                     "end": "2024-03-20T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.18",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.18",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.030",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.030",
                     "start": "2024-03-27T15:45:00",
                     "end": "2024-03-27T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.18",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.18",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124, NiV\u00e9sale.020",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124, NiV\u00e9sale.020",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2024-04-18T15:45:00",
                     "end": "2024-04-18T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.023",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.023",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020",
                     "start": "2024-04-24T15:45:00",
                     "end": "2024-04-24T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.023",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.023",
                     "start": "2024-04-30T10:30:00",
                     "end": "2024-04-30T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2024-05-02T15:45:00",
                     "end": "2024-05-02T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.023",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.023",
                     "start": "2024-05-07T10:30:00",
                     "end": "2024-05-07T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124, NiV\u00e9sale.020",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124, NiV\u00e9sale.020",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiB6.124",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiB6.124",
                     "start": "2024-05-15T13:30:00",
                     "end": "2024-05-15T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020",
                     "start": "2024-05-15T15:45:00",
                     "end": "2024-05-15T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2024-05-16T15:45:00",
                     "end": "2024-05-16T17:45:00",
                     "color": "#5c98ff"
@@ -21341,15 +21353,15 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre II\nMme VOLKOV, Mr RAMLOT\nNiP.3E10",
-                    "start": "2024-04-29T10:30:00",
-                    "end": "2024-04-29T12:30:00",
-                    "color": "#fc4747"
-                },
-                {
                     "title": "Alg\u00e8bre II\nMme VOLKOV\nNiP.3E10",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T15:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Alg\u00e8bre II\nMme VOLKOV, Mr RAMLOT\nNiP.3E10",
+                    "start": "2024-04-29T15:45:00",
+                    "end": "2024-04-29T17:45:00",
                     "color": "#fc4747"
                 },
                 {
@@ -22407,6 +22419,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Mirzakhani",
+                    "start": "2024-04-29T10:30:00",
+                    "end": "2024-04-29T12:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiDeVinci.Russel, NiGA.Pascal, NiB4.Penrose",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00",
@@ -22581,19 +22599,19 @@
             ],
             "Formation LaTeX": [
                 {
-                    "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-09-19T13:30:00",
                     "end": "2023-09-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Russel",
                     "start": "2023-10-02T15:45:00",
                     "end": "2023-10-02T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTeX\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-10-03T13:30:00",
                     "end": "2023-10-03T15:30:00",
                     "color": "#878787"
@@ -23155,169 +23173,169 @@
             ],
             "Probabilit\u00e9 et statistique I": [
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-11-02T08:15:00",
                     "end": "2023-11-02T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.0A11",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.0A11",
                     "start": "2023-12-07T08:15:00",
                     "end": "2023-12-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.0A11",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.0A11",
                     "start": "2023-12-14T08:15:00",
                     "end": "2023-12-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
                     "start": "2023-12-21T08:15:00",
                     "end": "2023-12-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-02-06T08:15:00",
                     "end": "2024-02-06T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-02-13T08:15:00",
                     "end": "2024-02-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-02-20T08:15:00",
                     "end": "2024-02-20T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-02-27T08:15:00",
                     "end": "2024-02-27T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-03-05T08:15:00",
                     "end": "2024-03-05T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-03-12T08:15:00",
                     "end": "2024-03-12T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-03-19T08:15:00",
                     "end": "2024-03-19T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-03-26T08:15:00",
                     "end": "2024-03-26T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-04-23T08:15:00",
                     "end": "2024-04-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-04-25T15:45:00",
                     "end": "2024-04-25T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-04-30T08:15:00",
                     "end": "2024-04-30T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9 et statistique I\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
+                    "title": "Probabilit\u00e9 et statistique I\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E10",
                     "start": "2024-05-16T13:30:00",
                     "end": "2024-05-16T15:30:00",
                     "color": "#fc4747"
@@ -35457,6 +35475,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiDeVinci.Mirzakhani",
+                    "start": "2024-04-29T10:30:00",
+                    "end": "2024-04-29T12:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "English for Science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiV\u00e9sale.030, NiGA.Pascal, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T10:15:00",
@@ -36315,7 +36339,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-09-22T13:30:00",
                     "end": "2023-09-22T17:45:00",
                     "color": "#44fcdb"
@@ -36333,7 +36357,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-09-29T13:30:00",
                     "end": "2023-09-29T17:45:00",
                     "color": "#44fcdb"
@@ -36351,7 +36375,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-10-06T13:30:00",
                     "end": "2023-10-06T17:45:00",
                     "color": "#44fcdb"
@@ -36363,7 +36387,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-10-13T13:30:00",
                     "end": "2023-10-13T17:45:00",
                     "color": "#44fcdb"
@@ -36381,7 +36405,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-10-20T13:30:00",
                     "end": "2023-10-20T17:45:00",
                     "color": "#44fcdb"
@@ -36393,7 +36417,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-10-27T13:30:00",
                     "end": "2023-10-27T17:45:00",
                     "color": "#44fcdb"
@@ -36405,7 +36429,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T17:45:00",
                     "color": "#44fcdb"
@@ -36417,7 +36441,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr BONTE, Mr MELOT, Mr DUSOLLIER, Mr CARDOEN\nNiGA.Plisnier, NiV\u00e9sale.023",
+                    "title": "Programmation et algorithmique I\nMr MELOT, Mr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiGA.Plisnier, NiV\u00e9sale.023",
                     "start": "2023-11-10T10:30:00",
                     "end": "2023-11-10T12:30:00",
                     "color": "#44fcdb"
@@ -36429,7 +36453,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-11-17T13:30:00",
                     "end": "2023-11-17T17:45:00",
                     "color": "#44fcdb"
@@ -36441,7 +36465,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-11-24T13:30:00",
                     "end": "2023-11-24T17:45:00",
                     "color": "#44fcdb"
@@ -36453,25 +36477,25 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-12-01T13:30:00",
                     "end": "2023-12-01T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-12-08T13:30:00",
                     "end": "2023-12-08T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-12-15T13:30:00",
                     "end": "2023-12-15T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Programmation et algorithmique I\nMr CARDOEN, Mr BONTE, Mr DUSOLLIER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Programmation et algorithmique I\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2023-12-22T13:30:00",
                     "end": "2023-12-22T17:45:00",
                     "color": "#44fcdb"
