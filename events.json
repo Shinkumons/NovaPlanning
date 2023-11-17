@@ -3971,43 +3971,43 @@
             ],
             "TP Thermo": [
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-11T13:30:00",
                     "end": "2023-12-11T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-14T13:30:00",
                     "end": "2023-12-14T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-15T13:30:00",
                     "end": "2023-12-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-18T13:30:00",
                     "end": "2023-12-18T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMr GABRIELE, Mme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-19T13:30:00",
                     "end": "2023-12-19T17:30:00",
                     "color": "#0026ad"
@@ -6716,8 +6716,8 @@
                 },
                 {
                     "title": "Physico-chimie des surfaces\nMr THIRY\nNiMen.Lauterbur",
-                    "start": "2023-12-19T13:30:00",
-                    "end": "2023-12-19T18:30:00",
+                    "start": "2023-12-20T13:30:00",
+                    "end": "2023-12-20T18:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -41170,6 +41170,12 @@
                     "title": "SignProces1\nMr BOHY\nDo.ISIA.Lab(170)",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "SignProces1\nMr BOHY\nDo.ISIA.Lab(170)",
+                    "start": "2023-12-04T08:30:00",
+                    "end": "2023-12-04T12:30:00",
                     "color": "#878787"
                 },
                 {
