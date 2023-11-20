@@ -31659,12 +31659,6 @@
                     "start": "2023-11-04T09:00:00",
                     "end": "2023-11-04T12:30:00",
                     "color": "#878787"
-                },
-                {
-                    "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiDeVinci.Mirzakhani",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00",
-                    "color": "#878787"
                 }
             ],
             "Vie scolaire gestion groupes": [
@@ -32234,12 +32228,6 @@
                     "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-11-04T09:00:00",
                     "end": "2023-11-04T12:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiDeVinci.Mirzakhani",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00",
                     "color": "#878787"
                 }
             ],
@@ -37965,9 +37953,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiP.3E20",
-                    "start": "2023-11-21T15:45:00",
-                    "end": "2023-11-21T17:45:00",
+                    "title": "Physique statistique\nMr CHEVALIER, Mr CAMPOLEONI\nNiMen.Pauling",
+                    "start": "2023-11-21T10:30:00",
+                    "end": "2023-11-21T12:30:00",
                     "color": "#878787"
                 },
                 {
@@ -42149,12 +42137,6 @@
                     "start": "2023-11-04T09:00:00",
                     "end": "2023-11-04T12:30:00",
                     "color": "#878787"
-                },
-                {
-                    "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiDeVinci.Mirzakhani",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00",
-                    "color": "#878787"
                 }
             ],
             "Stage pr\u00e9p.ens.phys": [
@@ -42716,12 +42698,6 @@
                     "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-11-04T09:00:00",
                     "end": "2023-11-04T12:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Stage pr\u00e9p.ens.math.\nMr MICHAUX\nNiDeVinci.Mirzakhani",
-                    "start": "2023-12-18T08:15:00",
-                    "end": "2023-12-18T10:15:00",
                     "color": "#878787"
                 }
             ],
