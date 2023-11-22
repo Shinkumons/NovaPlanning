@@ -1,6 +1,14 @@
 {
     "CHIMIE": {
         "BAB1 CHIMIE": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Aide \u00e0 la r\u00e9ussite (Partie A)": [
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite (Partie A)\n\nNiB4.Penrose",
@@ -2413,6 +2421,14 @@
             ]
         },
         "BAB2 CHIMIE": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Biochimie g\u00e9n\u00e9rale": [
                 {
                     "title": "Biochimie g\u00e9n\u00e9rale\nMr WATTIEZ\nNiV\u00e9sale.023",
@@ -4003,6 +4019,14 @@
             ]
         },
         "BAB3 CHIMIE": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Anal.struct.chim.orga (B)": [
                 {
                     "title": "Anal.struct.chim.orga (B)\nMr DE WINTER\nNiB4.01Lab",
@@ -4576,6 +4600,12 @@
                     "title": "Chimie organique III\nMr DE WINTER\nNiB4.01Lab",
                     "start": "2024-04-23T08:30:00",
                     "end": "2024-04-23T17:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie organique III\nMr DE WINTER\nNiB4.01Lab",
+                    "start": "2024-04-24T08:30:00",
+                    "end": "2024-04-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5481,6 +5511,14 @@
             ]
         },
         "MASTER CHIMIE": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Analyse struct. et dynam. RMN": [
                 {
                     "title": "Analyse struct. et dynam. RMN\nMme HENOUMONT\nNiB4.120",
@@ -7633,6 +7671,14 @@
             ]
         },
         "AESS CHIMIE": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Approch ado context \u00e9ducatif": [
                 {
                     "title": "Approch ado context \u00e9ducatif\nMme DUROISIN\nWa.Hotyat",
@@ -8203,6 +8249,14 @@
     },
     "INFO": {
         "BAB1 INFO": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Aide \u00e0 la r\u00e9ussite": [
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiV\u00e9sale.LaFontaine",
@@ -10159,6 +10213,14 @@
             ]
         },
         "BAB2 INFO": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Bases de donn\u00e9es I": [
                 {
                     "title": "Bases de donn\u00e9es I\nMr WIJSEN\nNiP.0A07",
@@ -12063,6 +12125,14 @@
             ]
         },
         "BAB3 INFO": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Intelligence artificielle": [
                 {
                     "title": "Intelligence artificielle\nMr MELOT\nNiP.0A07",
@@ -13935,6 +14005,14 @@
             ]
         },
         "MASTER INFO": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Advanced Operating Systems": [
                 {
                     "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
@@ -18849,6 +18927,14 @@
     },
     "MATH": {
         "BAB1 MATH": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Aide \u00e0 la r\u00e9ussite": [
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiV\u00e9sale.LaFontaine",
@@ -21261,6 +21347,14 @@
             ]
         },
         "BAB2 MATH": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Alg\u00e8bre II": [
                 {
                     "title": "Alg\u00e8bre II\nMme VOLKOV\nNiP.3E10",
@@ -21705,73 +21799,73 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-10-18T15:45:00",
                     "end": "2023-10-18T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-10-25T15:45:00",
                     "end": "2023-10-25T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-10-31T15:45:00",
                     "end": "2023-10-31T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-11-08T15:45:00",
                     "end": "2023-11-08T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-11-15T15:45:00",
                     "end": "2023-11-15T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-11-22T15:45:00",
                     "end": "2023-11-22T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-11-28T10:30:00",
                     "end": "2023-11-28T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-11-29T15:45:00",
                     "end": "2023-11-29T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-12-05T10:30:00",
                     "end": "2023-12-05T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-12-06T15:45:00",
                     "end": "2023-12-06T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-12-13T15:45:00",
                     "end": "2023-12-13T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de donn\u00e9es I\nMr WIJSEN, Mr BONTE\nNiDeVinci.Russel",
                     "start": "2023-12-20T15:45:00",
                     "end": "2023-12-20T17:45:00",
                     "color": "#5c98ff"
@@ -23731,6 +23825,14 @@
             ]
         },
         "BAB3 MATH": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Alg\u00e8bre III": [
                 {
                     "title": "Alg\u00e8bre III\nMme VOLKOV\nNiP.0A11",
@@ -27743,6 +27845,14 @@
             ]
         },
         "MASTER MATH": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Advanced machine learning and deep learning": [
                 {
                     "title": "Advanced machine learning and deep learning\nMr MAHMOUDI\nHo.05",
@@ -31457,6 +31567,14 @@
             ]
         },
         "MASTER MATH DIDA": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Ev\u00e9nement - DCOM": [
                 {
                     "title": "Ev\u00e9nement - DCOM\n\n",
@@ -31761,6 +31879,14 @@
             ]
         },
         "AESS MATH": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Approch ado context \u00e9ducatif": [
                 {
                     "title": "Approch ado context \u00e9ducatif\nMme DUROISIN\nWa.Hotyat",
@@ -32339,6 +32465,14 @@
     },
     "PHYS": {
         "BAB1 PHYS": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Aide \u00e0 la r\u00e9ussite": [
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.LaFontaine",
@@ -34705,6 +34839,14 @@
             ]
         },
         "BAB2 PHYS": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Calcul tensiriel et relativit\u00e9 restreinte": [
                 {
                     "title": "Calcul tensiriel et relativit\u00e9 restreinte\nMr SEMAY, Mr CIMINO\nNiB4.Penrose",
@@ -36713,6 +36855,12 @@
                     "start": "2024-03-19T10:30:00",
                     "end": "2024-03-19T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Analyse complexe": [
@@ -38637,6 +38785,14 @@
             ]
         },
         "MASTER PHYS": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Analyse num : \u00e9quations diff.": [
                 {
                     "title": "Analyse num : \u00e9quations diff.\nMr TROESTLER\n",
@@ -41589,6 +41745,14 @@
             ]
         },
         "MASTER PHYS DIDA": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Approch ado context \u00e9ducatif": [
                 {
                     "title": "Approch ado context \u00e9ducatif\nMme DUROISIN\nWa.Hotyat",
@@ -42273,6 +42437,14 @@
             ]
         },
         "AESS PHYS": {
+            "_": [
+                {
+                    "title": "_\n\n",
+                    "start": "2024-04-24T12:30:00",
+                    "end": "2024-04-24T17:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Approch ado context \u00e9ducatif": [
                 {
                     "title": "Approch ado context \u00e9ducatif\nMme DUROISIN\nWa.Hotyat",
