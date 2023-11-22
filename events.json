@@ -31551,6 +31551,18 @@
                     "start": "2023-11-21T13:30:00",
                     "end": "2023-11-21T15:30:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "Projet int\u00e9gr\u00e9\n\nNiB4.120",
+                    "start": "2023-11-27T08:15:00",
+                    "end": "2023-11-27T10:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Projet int\u00e9gr\u00e9\nMme BRIDOUX\nNiB4.120",
+                    "start": "2023-12-05T13:30:00",
+                    "end": "2023-12-05T15:30:00",
+                    "color": "#878787"
                 }
             ],
             "Sem. m\u00e9thod. Sc. math A": [
@@ -31576,6 +31588,12 @@
                     "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
                     "color": "#878787"
                 },
                 {
@@ -31613,7 +31631,7 @@
                 {
                     "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mr DRAMAIX, Mme MOUSSET\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
-                    "end": "2023-11-29T16:30:00",
+                    "end": "2023-11-29T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -32063,6 +32081,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMr DRAMAIX, Mme MOUSSET, Mr MICHAUX\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX\nNiB4.120",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T16:30:00",
@@ -32097,7 +32121,7 @@
                 {
                     "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mme MOUSSET, Mr MICHAUX\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
-                    "end": "2023-11-29T16:30:00",
+                    "end": "2023-11-29T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -41981,9 +42005,21 @@
                     "start": "2023-09-23T09:00:00",
                     "end": "2023-09-23T12:00:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
+                    "color": "#878787"
                 }
             ],
             "Sem. m\u00e9thod. Sc. math B": [
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiB4.119",
+                    "start": "2023-11-29T13:30:00",
+                    "end": "2023-11-29T15:30:00",
+                    "color": "#878787"
+                },
                 {
                     "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET, Mr DRAMAIX, Mr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-03-13T13:30:00",
@@ -42533,6 +42569,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX, Mme MOUSSET, Mr DRAMAIX\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Sem. m\u00e9thod. Sc. math A\nMr MICHAUX\nNiB4.120",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T16:30:00",
@@ -42544,6 +42586,12 @@
                     "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX\nNiB4.120",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX, Mme MOUSSET, Mr DRAMAIX\nNiB4.119",
+                    "start": "2023-11-29T13:30:00",
+                    "end": "2023-11-29T15:30:00",
                     "color": "#878787"
                 },
                 {
