@@ -10200,7 +10200,7 @@
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiB6.18",
-                    "start": "2023-11-30T08:15:00",
+                    "start": "2023-11-30T08:45:00",
                     "end": "2023-11-30T10:15:00",
                     "color": "#878787"
                 },
@@ -36416,6 +36416,12 @@
                     "title": "Physique nucl\u00e9aire I\nMme DAUBIE\nNiB4.Penrose",
                     "start": "2024-04-24T08:15:00",
                     "end": "2024-04-24T10:15:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Physique nucl\u00e9aire I\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "start": "2024-03-27T08:15:00",
+                    "end": "2024-03-27T11:15:00",
                     "color": "#44fcdb"
                 },
                 {
