@@ -2405,6 +2405,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Travaux personnels BA1": [
                 {
                     "title": "Travaux personnels BA1\nMr KONSTANTINIDIS, Mme LAURENT, Mr GERBAUX, Mr LAZZARONI\nNiMen.Pauling",
@@ -4673,19 +4681,19 @@
             ],
             "Chimie th\u00e9orique: exercices": [
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiDeVinci.Russel",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr SURIN, Mr LEMAUR, Mr QUARTI\nNiV\u00e9sale.030",
+                    "title": "Chimie th\u00e9orique: exercices\nMr BELJONNE, Mr LEMAUR, Mr QUARTI, Mr SURIN\nNiV\u00e9sale.030",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T17:30:00",
                     "color": "#0026ad"
@@ -5225,14 +5233,6 @@
                     "color": "#0026ad"
                 }
             ],
-            "S\u00e9minaire": [
-                {
-                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
-                    "start": "2023-12-05T15:45:00",
-                    "end": "2023-12-05T17:45:00",
-                    "color": "#0026ad"
-                }
-            ],
             "Specto atomique chime analyt.": [
                 {
                     "title": "Specto atomique chime analyt.\nMr KONSTANTINIDIS\nNiMen.Pauling",
@@ -5285,7 +5285,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nMr DAMMAN, Mme BOL\nNiV\u00e9sale.030",
+                    "title": "Thermodynamique stat.I\nMme BOL, Mr DAMMAN\nNiV\u00e9sale.030",
                     "start": "2023-09-28T13:30:00",
                     "end": "2023-09-28T15:30:00",
                     "color": "#0026ad"
@@ -5315,7 +5315,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nMr DAMMAN, Mme BOL\nNiP.0A11",
+                    "title": "Thermodynamique stat.I\nMme BOL, Mr DAMMAN\nNiP.0A11",
                     "start": "2023-10-12T13:30:00",
                     "end": "2023-10-12T15:30:00",
                     "color": "#0026ad"
@@ -5333,7 +5333,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nMr DAMMAN, Mme BOL\nNiGA.Plisnier",
+                    "title": "Thermodynamique stat.I\nMme BOL, Mr DAMMAN\nNiGA.Plisnier",
                     "start": "2023-10-19T13:30:00",
                     "end": "2023-10-19T15:30:00",
                     "color": "#0026ad"
@@ -5425,7 +5425,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiP.0A07",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
                     "color": "#0026ad"
@@ -5437,7 +5437,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiP.0A07",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
                     "color": "#0026ad"
@@ -5449,7 +5449,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiP.0A07",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T15:30:00",
                     "color": "#0026ad"
@@ -5461,7 +5461,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiP.0A07",
                     "start": "2024-03-11T13:30:00",
                     "end": "2024-03-11T15:30:00",
                     "color": "#0026ad"
@@ -5473,13 +5473,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiMen.Pauling",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiV\u00e9sale.030",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiV\u00e9sale.030",
                     "start": "2024-04-30T08:15:00",
                     "end": "2024-04-30T10:15:00",
                     "color": "#0026ad"
@@ -5491,7 +5491,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiB4.Penrose",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiB4.Penrose",
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#0026ad"
@@ -5503,7 +5503,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN, Mme BOL\nNiMen.Pauling",
+                    "title": "Thermodynamique stat.II\nMme BOL, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-05-14T08:15:00",
                     "end": "2024-05-14T10:15:00",
                     "color": "#0026ad"
@@ -20478,12 +20478,6 @@
                 },
                 {
                     "title": "Exercices de Calculus I\nMr LECOMTE\nNiB4.Penrose",
-                    "start": "2023-12-07T08:15:00",
-                    "end": "2023-12-07T10:15:00",
-                    "color": "#fc4747"
-                },
-                {
-                    "title": "Exercices de Calculus I\nMr LECOMTE\nNiB4.Penrose",
                     "start": "2023-12-08T08:15:00",
                     "end": "2023-12-08T10:15:00",
                     "color": "#fc4747"
@@ -20504,6 +20498,12 @@
                     "title": "Exercices de Calculus I\nMr LECOMTE\nNiB4.Penrose",
                     "start": "2023-12-12T08:15:00",
                     "end": "2023-12-12T10:15:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Exercices de Calculus I\nMr LECOMTE\nNiDeVinci.Mirzakhani",
+                    "start": "2023-12-13T15:45:00",
+                    "end": "2023-12-13T17:45:00",
                     "color": "#fc4747"
                 },
                 {
@@ -34769,6 +34769,14 @@
                     "color": "#44fcdb"
                 }
             ],
+            "S\u00e9minaire": [
+                {
+                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
+                    "start": "2023-12-05T15:45:00",
+                    "end": "2023-12-05T17:45:00",
+                    "color": "#44fcdb"
+                }
+            ],
             "Univers struct. const.": [
                 {
                     "title": "Univers struct. const.\nMr QUINET\nNiB4.Penrose",
@@ -37097,7 +37105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bibliographie et outils info\nMr DUEZ, Mr VOUE\nNiDeVinci.Mirzakhani",
+                    "title": "Bibliographie et outils info\nMr VOUE, Mr DUEZ\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-21T08:15:00",
                     "end": "2023-12-21T12:30:00",
                     "color": "#0026ad"
@@ -37165,31 +37173,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
                     "start": "2024-03-18T09:00:00",
                     "end": "2024-03-18T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
                     "start": "2024-03-25T09:00:00",
                     "end": "2024-03-25T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
                     "start": "2024-04-22T09:00:00",
                     "end": "2024-04-22T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
                     "start": "2024-05-06T09:00:00",
                     "end": "2024-05-06T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
                     "start": "2024-05-13T09:00:00",
                     "end": "2024-05-13T12:00:00",
                     "color": "#0026ad"
@@ -37259,13 +37267,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#0026ad"
@@ -37919,7 +37927,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00",
                     "color": "#878787"
@@ -37931,7 +37939,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00",
                     "color": "#878787"
@@ -37949,7 +37957,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-03-21T13:30:00",
                     "end": "2024-03-21T15:30:00",
                     "color": "#878787"
@@ -37961,13 +37969,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-04-23T08:15:00",
                     "end": "2024-04-23T10:15:00",
                     "color": "#878787"
@@ -37979,7 +37987,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-04-30T08:15:00",
                     "end": "2024-04-30T10:15:00",
                     "color": "#878787"
@@ -37991,7 +37999,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique atom. et mol\u00e9.\nMr QUINET, Mme CARVAJAL GALLEGO\nNiB4.233",
+                    "title": "Physique atom. et mol\u00e9.\nMme CARVAJAL GALLEGO, Mr QUINET\nNiB4.233",
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#878787"
@@ -38519,71 +38527,63 @@
             ],
             "S\u00e9m. phys interact. fondam.": [
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY, Mme DAUBIE\nNiB4.233",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\n",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY, Mr QUINET\n",
                     "start": "2024-03-12T15:45:00",
                     "end": "2024-03-12T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY, Mme DAUBIE\nNiB4.233",
                     "start": "2024-03-15T10:30:00",
                     "end": "2024-03-15T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-19T15:45:00",
                     "end": "2024-03-19T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI\n",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY\n",
                     "start": "2024-03-22T10:30:00",
                     "end": "2024-03-22T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-26T15:45:00",
                     "end": "2024-03-26T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-29T10:30:00",
                     "end": "2024-03-29T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY, Mme DAUBIE\nNiB4.233",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
-                    "color": "#878787"
-                }
-            ],
-            "S\u00e9minaire": [
-                {
-                    "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
-                    "start": "2023-12-05T15:45:00",
-                    "end": "2023-12-05T17:45:00",
                     "color": "#878787"
                 }
             ],
