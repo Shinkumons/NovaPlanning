@@ -4308,20 +4308,20 @@
                 },
                 {
                     "title": "Chimie analytique II\nMr KONSTANTINIDIS\nNiMen.Pauling",
-                    "start": "2023-12-12T10:30:00",
-                    "end": "2023-12-12T12:30:00",
+                    "start": "2023-12-07T08:15:00",
+                    "end": "2023-12-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Chimie analytique II\nMr KONSTANTINIDIS\nNiMen.Pauling",
-                    "start": "2023-12-13T13:30:00",
-                    "end": "2023-12-13T15:30:00",
+                    "start": "2023-12-08T13:30:00",
+                    "end": "2023-12-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Chimie analytique II\nMr KONSTANTINIDIS\nNiMen.Pauling",
-                    "start": "2023-12-19T10:30:00",
-                    "end": "2023-12-19T12:30:00",
+                    "start": "2023-12-18T13:15:00",
+                    "end": "2023-12-18T15:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -4821,12 +4821,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Cin\u00e9tique et \u00e9lectrochimie\nMme BOL\nNiMen.Pauling",
-                    "start": "2023-11-29T08:15:00",
-                    "end": "2023-11-29T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Cin\u00e9tique et \u00e9lectrochimie\nMme BOL\nNiMen.Lauterbur",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
@@ -4866,6 +4860,12 @@
                     "title": "Cin\u00e9tique et \u00e9lectrochimie\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Cin\u00e9tique et \u00e9lectrochimie\nMme BOL\nNiMen.Pauling",
+                    "start": "2023-12-12T10:30:00",
+                    "end": "2023-12-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30494,6 +30494,12 @@
                     "title": "Pjt log math. th\u00e9orie modeleII\nMr MICHAUX\nNiB4.120",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T15:30:00",
+                    "color": "#fca044"
+                },
+                {
+                    "title": "Pjt log math. th\u00e9orie modeleII\nMr MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2023-12-01T15:15:00",
+                    "end": "2023-12-01T19:00:00",
                     "color": "#fca044"
                 }
             ],
