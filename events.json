@@ -4833,12 +4833,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Cin\u00e9tique et \u00e9lectrochimie\nMr SNYDERS\nNiB6.18",
-                    "start": "2023-12-01T08:15:00",
-                    "end": "2023-12-01T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Cin\u00e9tique et \u00e9lectrochimie\nMme BOL\nNiMen.Lauterbur",
                     "start": "2023-12-01T13:30:00",
                     "end": "2023-12-01T17:30:00",
@@ -25491,13 +25485,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.0A07, NiP.0E10",
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.0E10, NiP.0A07",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#878787"
@@ -27563,145 +27557,145 @@
             ],
             "Th\u00e9orie des groupes": [
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-06T13:30:00",
                     "end": "2024-02-06T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-09T13:30:00",
                     "end": "2024-02-09T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-13T13:30:00",
                     "end": "2024-02-13T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-16T13:30:00",
                     "end": "2024-02-16T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-20T13:30:00",
                     "end": "2024-02-20T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-23T13:30:00",
                     "end": "2024-02-23T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-27T13:30:00",
                     "end": "2024-02-27T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-01T13:30:00",
                     "end": "2024-03-01T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-05T13:30:00",
                     "end": "2024-03-05T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-12T13:30:00",
                     "end": "2024-03-12T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-22T13:30:00",
                     "end": "2024-03-22T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-04-23T13:30:00",
                     "end": "2024-04-23T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-04-30T13:30:00",
                     "end": "2024-04-30T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-10T13:30:00",
                     "end": "2024-05-10T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-05-14T13:30:00",
                     "end": "2024-05-14T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-17T13:30:00",
                     "end": "2024-05-17T15:30:00",
                     "color": "#44fcdb"
@@ -37111,7 +37105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bibliographie et outils info\nMr VOUE, Mr DUEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Bibliographie et outils info\nMr DUEZ, Mr VOUE\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-21T08:15:00",
                     "end": "2023-12-21T12:30:00",
                     "color": "#0026ad"
@@ -37179,31 +37173,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
                     "start": "2024-03-18T09:00:00",
                     "end": "2024-03-18T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
                     "start": "2024-03-25T09:00:00",
                     "end": "2024-03-25T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
                     "start": "2024-04-22T09:00:00",
                     "end": "2024-04-22T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
                     "start": "2024-05-06T09:00:00",
                     "end": "2024-05-06T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "\u00c9lectromagn\u00e9tisme II\nMr VOUE, Mr BAYART\nNiB4.12ALab",
+                    "title": "\u00c9lectromagn\u00e9tisme II\nMr BAYART, Mr VOUE\nNiB4.12ALab",
                     "start": "2024-05-13T09:00:00",
                     "end": "2024-05-13T12:00:00",
                     "color": "#0026ad"
@@ -37261,13 +37255,13 @@
             ],
             "English for Sc Com part 2": [
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#0026ad"
@@ -37285,37 +37279,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-03-29T08:15:00",
                     "end": "2024-03-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-04-26T08:15:00",
                     "end": "2024-04-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#0026ad"
@@ -38533,61 +38527,61 @@
             ],
             "S\u00e9m. phys interact. fondam.": [
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI, Mr QUINET, Mme DAUBIE\nNiB4.233",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\nNiB4.233",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY, Mr QUINET\n",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr QUINET, Mr PALMERI\n",
                     "start": "2024-03-12T15:45:00",
                     "end": "2024-03-12T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mme DAUBIE, Mr PALMERI\nNiB4.233",
                     "start": "2024-03-15T10:30:00",
                     "end": "2024-03-15T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI, Mr QUINET\nNiB4.233",
                     "start": "2024-03-19T15:45:00",
                     "end": "2024-03-19T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY\n",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI\n",
                     "start": "2024-03-22T10:30:00",
                     "end": "2024-03-22T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI, Mr QUINET\nNiB4.233",
                     "start": "2024-03-26T15:45:00",
                     "end": "2024-03-26T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI\nNiB4.233",
                     "start": "2024-03-29T10:30:00",
                     "end": "2024-03-29T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mr PALMERI, Mr QUINET\nNiB4.233",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY, Mme DAUBIE\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr SEMAY, Mme DAUBIE, Mr QUINET, Mr PALMERI\nNiB4.233",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#878787"
@@ -38657,145 +38651,145 @@
             ],
             "Th\u00e9orie des groupes": [
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-06T13:30:00",
                     "end": "2024-02-06T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-09T13:30:00",
                     "end": "2024-02-09T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-13T13:30:00",
                     "end": "2024-02-13T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-16T13:30:00",
                     "end": "2024-02-16T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-20T13:30:00",
                     "end": "2024-02-20T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-02-23T13:30:00",
                     "end": "2024-02-23T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-02-27T13:30:00",
                     "end": "2024-02-27T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-01T13:30:00",
                     "end": "2024-03-01T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-05T13:30:00",
                     "end": "2024-03-05T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-12T13:30:00",
                     "end": "2024-03-12T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-22T13:30:00",
                     "end": "2024-03-22T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-04-23T13:30:00",
                     "end": "2024-04-23T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-04-30T13:30:00",
                     "end": "2024-04-30T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-10T13:30:00",
                     "end": "2024-05-10T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiP.0A07",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiP.0A07",
                     "start": "2024-05-14T13:30:00",
                     "end": "2024-05-14T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV\nNiB4.233",
+                    "title": "Th\u00e9orie des groupes\nMr SKVORTSOV, Mr BOULANGER\nNiB4.233",
                     "start": "2024-05-17T13:30:00",
                     "end": "2024-05-17T15:30:00",
                     "color": "#878787"
