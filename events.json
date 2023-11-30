@@ -271,18 +271,6 @@
                     "start": "2023-12-14T10:30:00",
                     "end": "2023-12-14T12:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Bio. gen. I\nMr GILLAN\nNiGA.Curie",
-                    "start": "2023-12-21T08:15:00",
-                    "end": "2023-12-21T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Bio. gen. I\nMr GILLAN\nNiGA.Curie",
-                    "start": "2023-12-21T10:30:00",
-                    "end": "2023-12-21T12:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "Chim. g\u00e9n. (partie B) Ex. & TP": [
@@ -1189,7 +1177,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.120, NiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030",
+                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiDeVinci.Russel, NiV\u00e9sale.030, NiB4.120",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#0026ad"
@@ -1201,7 +1189,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiDeVinci.Russel, NiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiDeVinci.Russel, NiV\u00e9sale.030, NiGA.Pascal",
                     "start": "2023-09-25T10:30:00",
                     "end": "2023-09-25T12:30:00",
                     "color": "#0026ad"
@@ -1411,7 +1399,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiP.0E10, NiV\u00e9sale.030, NiGA.Pascal, NiGA.Turing",
+                    "title": "English for Science, part 1\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiV\u00e9sale.030, NiGA.Pascal, NiP.0E10, NiGA.Turing",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#0026ad"
@@ -1577,7 +1565,7 @@
             ],
             "Eval. continue math. \u00e9l\u00e9m.": [
                 {
-                    "title": "Eval. continue math. \u00e9l\u00e9m.\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Eval. continue math. \u00e9l\u00e9m.\nMr MICHAUX, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#0026ad"
@@ -14139,7 +14127,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T17:30:00",
                     "color": "#79007d"
@@ -14151,7 +14139,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00",
                     "color": "#79007d"
@@ -14163,7 +14151,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
                     "color": "#79007d"
@@ -14181,7 +14169,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#79007d"
@@ -14193,7 +14181,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMme LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr LANI, Mr ROUZE, Mr SIEBERT\nHo.06PC",
                     "start": "2023-12-22T14:00:00",
                     "end": "2023-12-22T18:00:00",
                     "color": "#79007d"
@@ -27939,7 +27927,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMme LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
+                    "title": "Advanced machine learning and deep learning\nMr LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T17:30:00",
                     "color": "#5c98ff"
@@ -27951,7 +27939,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMme LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
+                    "title": "Advanced machine learning and deep learning\nMr LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00",
                     "color": "#5c98ff"
@@ -27963,7 +27951,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMme LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
+                    "title": "Advanced machine learning and deep learning\nMr LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
                     "color": "#5c98ff"
@@ -27981,7 +27969,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMme LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
+                    "title": "Advanced machine learning and deep learning\nMr LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#5c98ff"
@@ -27993,7 +27981,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced machine learning and deep learning\nMme LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
+                    "title": "Advanced machine learning and deep learning\nMr LANI, Mr SIEBERT, Mr ROUZE\nHo.06PC",
                     "start": "2023-12-22T14:00:00",
                     "end": "2023-12-22T18:00:00",
                     "color": "#5c98ff"
