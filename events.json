@@ -1539,7 +1539,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiB4.Penrose, NiGA.Pascal, NiP.0E10",
+                    "title": "English for Science, part 2\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiDeVinci.Montague, NiDeVinci.W\u00fcster, NiB4.Penrose, NiGA.Pascal, NiP.0E10",
                     "start": "2024-04-15T08:15:00",
                     "end": "2024-04-15T11:30:00",
                     "color": "#0026ad"
@@ -11657,7 +11657,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiB4.Penrose, NiGA.Pascal, NiP.0E10",
+                    "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiDeVinci.Montague, NiDeVinci.W\u00fcster, NiB4.Penrose, NiGA.Pascal, NiP.0E10",
                     "start": "2024-04-15T08:15:00",
                     "end": "2024-04-15T11:30:00",
                     "color": "#878787"
@@ -23365,7 +23365,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiV\u00e9sale.030, NiP.0E10, NiGA.Pascal",
+                    "title": "English for science\nMr DEVILEZ, Mme CHAUVEAU, Mme VAN LANCKER\nNiB4.Penrose, NiV\u00e9sale.030, NiDeVinci.W\u00fcster, NiDeVinci.Montague, NiP.0E10, NiGA.Pascal",
                     "start": "2024-04-15T08:15:00",
                     "end": "2024-04-15T11:30:00",
                     "color": "#878787"
@@ -36861,7 +36861,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiB4.Penrose, NiGA.Pascal, NiP.0E10, NiV\u00e9sale.030",
+                    "title": "English for Science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiDeVinci.W\u00fcster, NiB4.Penrose, NiGA.Pascal, NiP.0E10, NiV\u00e9sale.030, NiDeVinci.Montague",
                     "start": "2024-04-15T08:15:00",
                     "end": "2024-04-15T11:30:00",
                     "color": "#878787"
