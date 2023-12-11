@@ -1980,8 +1980,8 @@
                 },
                 {
                     "title": "Math\u00e9matiques I\nMr RIVIERE, Mr THIANDOUM\nNiV\u00e9sale.020",
-                    "start": "2023-12-22T13:30:00",
-                    "end": "2023-12-22T15:30:00",
+                    "start": "2023-12-22T10:30:00",
+                    "end": "2023-12-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2088,12 +2088,6 @@
                     "title": "M\u00e9canique - Th\u00e9orie\nMr MAES\nNiGA.VanGogh",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "M\u00e9canique - Th\u00e9orie\nMr MAES\nNiGA.Curie",
-                    "start": "2023-12-22T10:30:00",
-                    "end": "2023-12-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10099,21 +10093,9 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-12-19T13:30:00",
-                    "end": "2023-12-19T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.VanGogh",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Curie",
-                    "start": "2023-12-22T10:30:00",
-                    "end": "2023-12-22T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -21549,21 +21531,9 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiV\u00e9sale.LaFontaine",
-                    "start": "2023-12-19T13:30:00",
-                    "end": "2023-12-19T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.VanGogh",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Curie",
-                    "start": "2023-12-22T10:30:00",
-                    "end": "2023-12-22T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -35358,8 +35328,8 @@
                 },
                 {
                     "title": "Math\u00e9matiques I\nMr RIVIERE, Mr THIANDOUM\nNiV\u00e9sale.020",
-                    "start": "2023-12-22T13:30:00",
-                    "end": "2023-12-22T15:30:00",
+                    "start": "2023-12-22T10:30:00",
+                    "end": "2023-12-22T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -35472,12 +35442,6 @@
                     "title": "M\u00e9canique\nMr MAES\nNiGA.VanGogh",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "M\u00e9canique\nMr MAES\nNiGA.Curie",
-                    "start": "2023-12-22T10:30:00",
-                    "end": "2023-12-22T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
