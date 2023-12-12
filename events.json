@@ -2338,8 +2338,8 @@
                 },
                 {
                     "title": "Phys. g\u00e9n. I\nMme LACROIX\nNiB4.Penrose",
-                    "start": "2023-12-12T13:30:00",
-                    "end": "2023-12-12T15:30:00",
+                    "start": "2023-12-13T15:45:00",
+                    "end": "2023-12-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10812,8 +10812,8 @@
                 },
                 {
                     "title": "Bases de donn\u00e9es I\nMr BONTE, Mr WIJSEN\n",
-                    "start": "2023-12-12T13:30:00",
-                    "end": "2023-12-12T15:30:00",
+                    "start": "2023-12-12T15:45:00",
+                    "end": "2023-12-12T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -12550,8 +12550,8 @@
                 },
                 {
                     "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
-                    "start": "2023-12-12T15:45:00",
-                    "end": "2023-12-12T17:45:00",
+                    "start": "2023-12-12T13:30:00",
+                    "end": "2023-12-12T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -41079,7 +41079,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
                     "color": "#878787"
@@ -42051,15 +42051,15 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Plasma et mati\u00e8re\nMr QUINET\nNiB4.119",
-                    "start": "2024-01-18T08:15:00",
-                    "end": "2024-01-18T12:30:00",
+                    "title": "Plasma et mati\u00e8re\nMr QUINET\nNiB6.211",
+                    "start": "2024-01-19T08:15:00",
+                    "end": "2024-01-19T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Plasma et mati\u00e8re\nMr QUINET\nNiB4.119",
-                    "start": "2024-01-18T13:30:00",
-                    "end": "2024-01-18T17:45:00",
+                    "title": "Plasma et mati\u00e8re\nMr QUINET\nNiB6.211",
+                    "start": "2024-01-19T13:30:00",
+                    "end": "2024-01-19T17:45:00",
                     "color": "#878787"
                 }
             ],
