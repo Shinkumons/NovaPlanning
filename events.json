@@ -4333,6 +4333,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Auto-assemblage bio-inspir\u00e9": [
+                {
+                    "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN, Mr SNYDERS, Mr GABRIELE\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-09T10:30:00",
+                    "end": "2024-02-09T12:30:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Bioch.metab.exp\u00e9rim.": [
                 {
                     "title": "Bioch.metab.exp\u00e9rim.\nMr LEROY\nNiB6.019",
@@ -4849,19 +4857,19 @@
             ],
             "Chimie th\u00e9orique: exercices": [
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr BELJONNE, Mr QUARTI\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr QUARTI, Mr BELJONNE, Mr LEMAUR\nNiDeVinci.Russel",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr BELJONNE, Mr QUARTI\nNiDeVinci.Russel",
+                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr QUARTI, Mr BELJONNE, Mr LEMAUR\nNiDeVinci.Russel",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr LEMAUR, Mr BELJONNE, Mr QUARTI\nNiV\u00e9sale.030",
+                    "title": "Chimie th\u00e9orique: exercices\nMr SURIN, Mr QUARTI, Mr BELJONNE, Mr LEMAUR\nNiV\u00e9sale.030",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T17:30:00",
                     "color": "#0026ad"
@@ -5123,6 +5131,12 @@
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "English for Sc Com part 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T15:45:00",
+                    "end": "2024-02-05T17:45:00",
+                    "color": "#0026ad"
                 }
             ],
             "English for Sc Com part 2": [
@@ -5229,85 +5243,85 @@
             ],
             "M\u00e9canique quant.": [
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-09-25T10:30:00",
                     "end": "2023-09-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-09-26T10:30:00",
                     "end": "2023-09-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-02T10:30:00",
                     "end": "2023-10-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-09T10:30:00",
                     "end": "2023-10-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-23T10:30:00",
                     "end": "2023-10-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiMen.Pauling",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "M\u00e9canique quant.\nMr BELJONNE, Mr QUARTI\nNiB6.124, NiMen.Pauling",
+                    "title": "M\u00e9canique quant.\nMr QUARTI, Mr BELJONNE\nNiB6.124, NiMen.Pauling",
                     "start": "2023-12-01T10:30:00",
                     "end": "2023-12-01T12:30:00",
                     "color": "#0026ad"
@@ -5921,6 +5935,12 @@
             ],
             "Auto-assemblage bio-inspir\u00e9": [
                 {
+                    "title": "Auto-assemblage bio-inspir\u00e9\nMr GABRIELE, Mr SURIN, Mr SNYDERS\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-09T10:30:00",
+                    "end": "2024-02-09T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00",
@@ -6201,7 +6221,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.th.mol.\nMr CORNIL, Mr BELJONNE\nNiDeVinci.Russel",
+                    "title": "Chim.th.mol.\nMr BELJONNE, Mr CORNIL\nNiDeVinci.Russel",
                     "start": "2024-03-07T13:30:00",
                     "end": "2024-03-07T17:30:00",
                     "color": "#0026ad"
@@ -6219,7 +6239,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.th.mol.\nMr CORNIL, Mr BELJONNE\nNiDeVinci.Russel",
+                    "title": "Chim.th.mol.\nMr BELJONNE, Mr CORNIL\nNiDeVinci.Russel",
                     "start": "2024-03-21T13:30:00",
                     "end": "2024-03-21T17:30:00",
                     "color": "#0026ad"
@@ -6479,79 +6499,79 @@
             ],
             "Ing\u00e9nierie biomacromol\u00e9culaire": [
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-02-08T08:15:00",
                     "end": "2024-02-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-02-15T08:15:00",
                     "end": "2024-02-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-02-22T08:15:00",
                     "end": "2024-02-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-03-07T08:15:00",
                     "end": "2024-03-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB6.18",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB6.18",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-04-29T08:15:00",
                     "end": "2024-04-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-05-08T13:30:00",
                     "end": "2024-05-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMme MINCHEVA, Mr GABRIELE\nNiB4.120",
+                    "title": "Ing\u00e9nierie biomacromol\u00e9culaire\nMr GABRIELE, Mme MINCHEVA\nNiB4.120",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#0026ad"
@@ -6657,163 +6677,163 @@
             ],
             "Mat\u00e9riaux et \u00e9nergie": [
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-03-05T10:30:00",
                     "end": "2024-03-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr BROCORENS\nNiB6.103Lab",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr BROCORENS, Mr CORNIL\nNiB6.103Lab",
                     "start": "2024-03-08T13:30:00",
                     "end": "2024-03-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-03-12T10:30:00",
                     "end": "2024-03-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr BROCORENS\nNiB6.103Lab",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr BROCORENS, Mr CORNIL\nNiB6.103Lab",
                     "start": "2024-03-12T13:30:00",
                     "end": "2024-03-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr BROCORENS\nNiB6.103Lab",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr BROCORENS, Mr CORNIL\nNiB6.103Lab",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-03-19T10:30:00",
                     "end": "2024-03-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr BROCORENS\nNiB6.103Lab",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr BROCORENS, Mr CORNIL\nNiB6.103Lab",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.0A11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.0A11",
                     "start": "2024-03-21T10:30:00",
                     "end": "2024-03-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr BROCORENS\nNiB6.103Lab",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr BROCORENS, Mr CORNIL\nNiB6.103Lab",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiMen.Pauling",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2024-03-28T10:30:00",
                     "end": "2024-03-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiMen.Pauling",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2024-04-18T10:30:00",
                     "end": "2024-04-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiMen.Pauling",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-04-29T10:30:00",
                     "end": "2024-04-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-04-30T10:30:00",
                     "end": "2024-04-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-05-07T10:30:00",
                     "end": "2024-05-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-05-13T08:15:00",
                     "end": "2024-05-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E20",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E20",
                     "start": "2024-05-14T10:30:00",
                     "end": "2024-05-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr CORNIL, Mr LECLERE\nNiP.3E11",
+                    "title": "Mat\u00e9riaux et \u00e9nergie\nMr LECLERE, Mr CORNIL\nNiP.3E11",
                     "start": "2024-05-16T10:30:00",
                     "end": "2024-05-16T12:30:00",
                     "color": "#0026ad"
@@ -7481,31 +7501,31 @@
             ],
             "Spectroscopie mol\u00e9culaire": [
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-09-18T08:15:00",
                     "end": "2023-09-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiB4.120",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiB4.120",
                     "start": "2023-09-20T08:15:00",
                     "end": "2023-09-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-09-25T08:15:00",
                     "end": "2023-09-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-10-02T08:15:00",
                     "end": "2023-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiB4.120",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiB4.120",
                     "start": "2023-10-04T08:15:00",
                     "end": "2023-10-04T10:15:00",
                     "color": "#0026ad"
@@ -7517,19 +7537,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-10-09T08:15:00",
                     "end": "2023-10-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiP.0A11",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiP.0A11",
                     "start": "2023-10-11T13:30:00",
                     "end": "2023-10-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiB6.211",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiB6.211",
                     "start": "2023-10-12T10:30:00",
                     "end": "2023-10-12T12:30:00",
                     "color": "#0026ad"
@@ -7547,19 +7567,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-10-23T08:15:00",
                     "end": "2023-10-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-10-26T13:30:00",
                     "end": "2023-10-26T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-10-30T08:15:00",
                     "end": "2023-10-30T10:15:00",
                     "color": "#0026ad"
@@ -7571,7 +7591,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T10:15:00",
                     "color": "#0026ad"
@@ -7601,7 +7621,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-11-13T08:15:00",
                     "end": "2023-11-13T10:15:00",
                     "color": "#0026ad"
@@ -7619,25 +7639,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-12-13T08:15:00",
                     "end": "2023-12-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie mol\u00e9culaire\nMr CORNIL, Mr BELJONNE, Mr LAZZARONI\nNiMen.Pauling",
+                    "title": "Spectroscopie mol\u00e9culaire\nMr LAZZARONI, Mr BELJONNE, Mr CORNIL\nNiMen.Pauling",
                     "start": "2023-12-20T08:15:00",
                     "end": "2023-12-20T10:15:00",
                     "color": "#0026ad"
@@ -7669,7 +7689,7 @@
             ],
             "Stages en laboratoire": [
                 {
-                    "title": "Stages en laboratoire\nMr DAMMAN, Mr SURIN, Mr SNYDERS\nNiMen.Pauling",
+                    "title": "Stages en laboratoire\nMr SURIN, Mr DAMMAN, Mr SNYDERS\nNiMen.Pauling",
                     "start": "2023-11-28T13:30:00",
                     "end": "2023-11-28T15:30:00",
                     "color": "#0026ad"
@@ -7700,7 +7720,7 @@
                 },
                 {
                     "title": "Stages en laboratoire\n\n",
-                    "start": "2024-02-09T10:30:00",
+                    "start": "2024-02-09T12:45:00",
                     "end": "2024-02-09T20:00:00",
                     "color": "#0026ad"
                 },
@@ -13161,6 +13181,12 @@
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T15:45:00",
+                    "end": "2024-02-05T17:45:00",
+                    "color": "#878787"
                 }
             ],
             "English for scientific communication Partie 2": [
@@ -16142,6 +16168,12 @@
                     "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "English for scientific communication Partie 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T17:45:00",
+                    "end": "2024-02-05T18:45:00",
                     "color": "#878787"
                 }
             ],
@@ -26330,6 +26362,12 @@
                     "title": "English for Scientific Communication\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T17:45:00",
+                    "end": "2024-02-05T18:45:00",
                     "color": "#878787"
                 },
                 {
@@ -38512,6 +38550,12 @@
                     "title": "English for Sc Com part 1\nMr DEVILEZ\nNiGA.Plisnier",
                     "start": "2023-11-10T08:15:00",
                     "end": "2023-11-10T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "English for Sc Com part 1\nMr DEVILEZ\nNiDeVinci.Mirzakhani",
+                    "start": "2024-02-05T17:45:00",
+                    "end": "2024-02-05T18:45:00",
                     "color": "#0026ad"
                 }
             ],
