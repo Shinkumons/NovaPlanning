@@ -4327,6 +4327,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Anal.struct.chim.orga A\nMr DE WINTER\nNiMen.Pauling",
+                    "start": "2023-12-19T10:30:00",
+                    "end": "2023-12-19T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Anal.struct.chim.orga A\nMr GERBAUX, Mr DE WINTER\nNiB4.Penrose",
                     "start": "2024-01-09T08:15:00",
                     "end": "2024-01-09T12:15:00",
@@ -7481,7 +7487,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectro de masse organique\nMr DE WINTER, Mr GERBAUX\nNiB4.120",
+                    "title": "Spectro de masse organique\nMr GERBAUX\nNiB4.120",
                     "start": "2023-12-19T10:30:00",
                     "end": "2023-12-19T12:30:00",
                     "color": "#0026ad"
@@ -16374,6 +16380,12 @@
                     "title": "Ethique et droit de l'informatique\nMme DEFREYNE\n",
                     "start": "2024-03-23T09:30:00",
                     "end": "2024-03-23T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Ethique et droit de l'informatique\nMme DEFREYNE\n",
+                    "start": "2024-03-30T09:30:00",
+                    "end": "2024-03-30T12:30:00",
                     "color": "#878787"
                 },
                 {
