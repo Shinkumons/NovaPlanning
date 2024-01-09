@@ -14593,9 +14593,9 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Advanced Operating Systems\nMr BUYS\nNiDeVinci.Vaughan",
-                    "start": "2024-03-25T08:15:00",
-                    "end": "2024-03-25T10:15:00",
+                    "title": "Advanced Operating Systems\nMr BUYS\nNiDeVinci.Russel",
+                    "start": "2024-03-27T08:15:00",
+                    "end": "2024-03-27T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20447,9 +20447,9 @@
             ],
             "Analyse I": [
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18",
-                    "start": "2024-02-05T13:30:00",
-                    "end": "2024-02-05T15:30:00",
+                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiGA.Plisnier",
+                    "start": "2024-02-06T08:15:00",
+                    "end": "2024-02-06T10:15:00",
                     "color": "#fc4747"
                 },
                 {
@@ -24652,6 +24652,12 @@
                     "title": "Topologie et logique math\nMr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-01-13T09:00:00",
                     "end": "2024-01-13T13:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Topologie et logique math\nMr MICHAUX\nNiP.0A07",
+                    "start": "2024-02-16T10:30:00",
+                    "end": "2024-02-16T12:30:00",
                     "color": "#fc4747"
                 },
                 {
