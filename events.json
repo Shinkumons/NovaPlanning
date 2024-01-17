@@ -139,6 +139,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Aide \u00e0 la r\u00e9ussite (partie B)": [
+                {
+                    "title": "Aide \u00e0 la r\u00e9ussite (partie B)\n\nNiGA.Curie",
+                    "start": "2024-02-08T12:30:00",
+                    "end": "2024-02-08T13:30:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Bio. gen. I": [
                 {
                     "title": "Bio. gen. I\nMr GILLAN\nNiGA.Curie",
@@ -8738,6 +8746,12 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18, NiV\u00e9sale.023",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
+                    "color": "#00ad3d"
+                },
+                {
+                    "title": "Aide \u00e0 la r\u00e9ussite\n\nNiGA.Curie",
+                    "start": "2024-02-08T12:30:00",
+                    "end": "2024-02-08T13:30:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -19760,6 +19774,12 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiV\u00e9sale.023, NiGA.Plisnier",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
+                    "color": "#00ad3d"
+                },
+                {
+                    "title": "Aide \u00e0 la r\u00e9ussite\n\nNiGA.Curie",
+                    "start": "2024-02-08T12:30:00",
+                    "end": "2024-02-08T13:30:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -33706,6 +33726,12 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiV\u00e9sale.023, NiGA.Plisnier",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
+                    "color": "#00ad3d"
+                },
+                {
+                    "title": "Aide \u00e0 la r\u00e9ussite\n\nNiGA.Curie",
+                    "start": "2024-02-08T12:30:00",
+                    "end": "2024-02-08T13:30:00",
                     "color": "#00ad3d"
                 },
                 {
