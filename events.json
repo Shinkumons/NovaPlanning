@@ -2461,6 +2461,32 @@
                     "color": "#0026ad"
                 }
             ],
+            "Rem FR": [
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-02-14T18:00:00",
+                    "end": "2024-02-14T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-06T18:00:00",
+                    "end": "2024-03-06T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-27T18:00:00",
+                    "end": "2024-03-27T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-05-08T18:00:00",
+                    "end": "2024-05-08T21:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
@@ -4730,8 +4756,8 @@
                 },
                 {
                     "title": "Chimie organique III\nMr GERBAUX, Mr DE WINTER\nNiP.0A11",
-                    "start": "2024-02-08T10:30:00",
-                    "end": "2024-02-08T12:30:00",
+                    "start": "2024-02-09T13:30:00",
+                    "end": "2024-02-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5651,15 +5677,15 @@
             ],
             "Thermodynamique stat.II": [
                 {
-                    "title": "Thermodynamique stat.II\nMr DAMMAN\nNiP.0A07",
-                    "start": "2024-02-05T13:30:00",
-                    "end": "2024-02-05T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Thermodynamique stat.II\nMr DAMMAN\nNiP.0A11",
                     "start": "2024-02-06T10:30:00",
                     "end": "2024-02-06T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Thermodynamique stat.II\nMr DAMMAN\nNiP.0A07",
+                    "start": "2024-02-08T13:30:00",
+                    "end": "2024-02-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10651,6 +10677,32 @@
                     "color": "#878787"
                 }
             ],
+            "Rem FR": [
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-02-14T18:00:00",
+                    "end": "2024-02-14T21:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-06T18:00:00",
+                    "end": "2024-03-06T21:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-27T18:00:00",
+                    "end": "2024-03-27T21:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-05-08T18:00:00",
+                    "end": "2024-05-08T21:00:00",
+                    "color": "#878787"
+                }
+            ],
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiB6.18",
@@ -13783,7 +13835,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#878787"
@@ -17125,7 +17177,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#878787"
@@ -22145,6 +22197,32 @@
                     "color": "#5c98ff"
                 }
             ],
+            "Rem FR": [
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-02-14T18:00:00",
+                    "end": "2024-02-14T21:00:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-06T18:00:00",
+                    "end": "2024-03-06T21:00:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-27T18:00:00",
+                    "end": "2024-03-27T21:00:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-05-08T18:00:00",
+                    "end": "2024-05-08T21:00:00",
+                    "color": "#5c98ff"
+                }
+            ],
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
@@ -27121,7 +27199,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#5c98ff"
@@ -35999,6 +36077,32 @@
                     "color": "#44fcdb"
                 }
             ],
+            "Rem FR": [
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-02-14T18:00:00",
+                    "end": "2024-02-14T21:00:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-06T18:00:00",
+                    "end": "2024-03-06T21:00:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-03-27T18:00:00",
+                    "end": "2024-03-27T21:00:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "start": "2024-05-08T18:00:00",
+                    "end": "2024-05-08T21:00:00",
+                    "color": "#44fcdb"
+                }
+            ],
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
@@ -41149,7 +41253,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Machine Learning I\nMr BEN TAIEB\n",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#878787"
