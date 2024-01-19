@@ -33551,6 +33551,12 @@
                     "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T16:30:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX\n",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
+                    "color": "#878787"
                 }
             ],
             "S\u00e9m.m\u00e9th.sp.phys A": [
@@ -44033,7 +44039,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiDeVinci.Mirzakhani",
                     "start": "2024-04-22T16:45:00",
                     "end": "2024-04-22T19:45:00",
                     "color": "#878787"
@@ -44669,7 +44675,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiDeVinci.Mirzakhani",
                     "start": "2024-04-22T16:45:00",
                     "end": "2024-04-22T19:45:00",
                     "color": "#878787"
