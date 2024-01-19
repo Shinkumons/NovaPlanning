@@ -8497,6 +8497,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nMr VAN VOOREN\n",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nMr VILLERS, Mr VAN VOOREN\nNiP.0A11",
                     "start": "2024-05-08T13:30:00",
                     "end": "2024-05-08T16:30:00",
@@ -13769,6 +13775,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
@@ -13778,6 +13790,12 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -13818,12 +13836,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00",
                     "color": "#878787"
@@ -13832,12 +13844,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -15205,7 +15211,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Calculabilit\u00e9 et complexit\u00e9\nMme BRUYERE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2024-01-23T08:15:00",
                     "end": "2024-01-23T12:15:00",
                     "color": "#5c98ff"
@@ -16709,7 +16715,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-15T10:30:00",
                     "end": "2024-02-15T12:30:00",
                     "color": "#878787"
@@ -16721,7 +16727,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-22T10:30:00",
                     "end": "2024-02-22T12:30:00",
                     "color": "#878787"
@@ -16733,13 +16739,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-02-29T10:30:00",
                     "end": "2024-02-29T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00",
                     "color": "#878787"
@@ -16751,13 +16757,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-07T10:30:00",
                     "end": "2024-03-07T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00",
                     "color": "#878787"
@@ -16769,13 +16775,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-14T10:30:00",
                     "end": "2024-03-14T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
                     "start": "2024-03-15T10:30:00",
                     "end": "2024-03-15T12:30:00",
                     "color": "#878787"
@@ -16787,7 +16793,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-21T10:30:00",
                     "end": "2024-03-21T12:30:00",
                     "color": "#878787"
@@ -16799,61 +16805,61 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-03-28T10:30:00",
                     "end": "2024-03-28T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-18T10:30:00",
                     "end": "2024-04-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-04-30T15:45:00",
                     "end": "2024-04-30T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-02T10:30:00",
                     "end": "2024-05-02T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-07T15:45:00",
                     "end": "2024-05-07T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-14T15:45:00",
                     "end": "2024-05-14T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#878787"
@@ -17111,6 +17117,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
@@ -17120,6 +17132,12 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -17160,12 +17178,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00",
                     "color": "#878787"
@@ -17174,12 +17186,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -17365,7 +17371,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00",
                     "color": "#878787"
@@ -17401,7 +17407,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00",
                     "color": "#878787"
@@ -17413,7 +17419,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T15:30:00",
                     "color": "#878787"
@@ -27133,6 +27139,12 @@
                     "color": "#5c98ff"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "color": "#5c98ff"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
@@ -27142,6 +27154,12 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -27182,12 +27200,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00",
                     "color": "#5c98ff"
@@ -27196,12 +27208,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -32779,37 +32785,37 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.Penrose, NiB4.233",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiB4.Penrose, NiB4.233",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -32821,13 +32827,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -33004,6 +33010,12 @@
                     "title": "Sem. m\u00e9thod. Sc. math B\nMr DRAMAIX, Mme MOUSSET, Mr MICHAUX\nNiB4.119",
                     "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme BRIDOUX, Mr MICHAUX\n",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
                     "color": "#878787"
                 }
             ],
@@ -33217,37 +33229,37 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMr VILLERS, Mr VAN VOOREN, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -33259,13 +33271,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, Mr VILLERS, Mr VAN VOOREN, Mr SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -33303,7 +33315,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nWa.Hotyat, RosaParks.1.09.Delmas\u2011Marty, RosaParks.3.08, RosaParks.6.10.Desmet, RosaParks.2.07",
+                    "title": "Neutralit\u00e9 de l'enseignement\nMr CAUCHIE\nWa.Hotyat, RosaParks.2.07, RosaParks.3.08, RosaParks.6.10.Desmet, RosaParks.1.09.Delmas\u2011Marty",
                     "start": "2023-12-06T18:00:00",
                     "end": "2023-12-06T21:00:00",
                     "color": "#878787"
@@ -33553,7 +33565,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Sem. m\u00e9thod. Sc. math B\nMr MICHAUX\n",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme BRIDOUX, Mr MICHAUX\n",
                     "start": "2024-04-22T18:00:00",
                     "end": "2024-04-22T20:00:00",
                     "color": "#878787"
@@ -40896,7 +40908,7 @@
                 },
                 {
                     "title": "Init. \u00e0 la recherche scient.\n\n",
-                    "start": "2024-02-06T13:30:00",
+                    "start": "2024-02-06T15:45:00",
                     "end": "2024-02-06T18:00:00",
                     "color": "#878787"
                 },
@@ -40945,7 +40957,13 @@
                 {
                     "title": "Init. \u00e0 la recherche scient.\n\n",
                     "start": "2024-02-13T10:15:00",
-                    "end": "2024-02-13T18:00:00",
+                    "end": "2024-02-13T13:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Init. \u00e0 la recherche scient.\n\n",
+                    "start": "2024-02-13T15:45:00",
+                    "end": "2024-02-13T18:45:00",
                     "color": "#878787"
                 },
                 {
@@ -40992,8 +41010,8 @@
                 },
                 {
                     "title": "Init. \u00e0 la recherche scient.\n\n",
-                    "start": "2024-02-20T12:30:00",
-                    "end": "2024-02-20T18:00:00",
+                    "start": "2024-02-20T15:45:00",
+                    "end": "2024-02-20T18:45:00",
                     "color": "#878787"
                 },
                 {
@@ -41028,14 +41046,20 @@
                 },
                 {
                     "title": "Init. \u00e0 la recherche scient.\n\n",
-                    "start": "2024-02-26T15:45:00",
-                    "end": "2024-02-26T18:15:00",
+                    "start": "2024-02-27T08:15:00",
+                    "end": "2024-02-27T13:15:00",
                     "color": "#878787"
                 },
                 {
                     "title": "Init. \u00e0 la recherche scient.\n\n",
-                    "start": "2024-02-27T08:15:00",
-                    "end": "2024-02-27T18:15:00",
+                    "start": "2024-02-27T13:15:00",
+                    "end": "2024-02-27T15:45:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Init. \u00e0 la recherche scient.\n\n",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T19:00:00",
                     "color": "#878787"
                 },
                 {
@@ -41193,6 +41217,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
@@ -41202,6 +41232,12 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Vaughan",
+                    "start": "2024-02-26T15:45:00",
+                    "end": "2024-02-26T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -41242,12 +41278,6 @@
                 },
                 {
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
-                    "start": "2024-03-19T13:30:00",
-                    "end": "2024-03-19T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00",
                     "color": "#878787"
@@ -41256,12 +41286,6 @@
                     "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
-                    "start": "2024-03-26T13:30:00",
-                    "end": "2024-03-26T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -44040,8 +44064,8 @@
                 },
                 {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiDeVinci.Mirzakhani",
-                    "start": "2024-04-22T16:45:00",
-                    "end": "2024-04-22T19:45:00",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
                     "color": "#878787"
                 },
                 {
@@ -44676,8 +44700,8 @@
                 },
                 {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiDeVinci.Mirzakhani",
-                    "start": "2024-04-22T16:45:00",
-                    "end": "2024-04-22T19:45:00",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
                     "color": "#878787"
                 },
                 {
