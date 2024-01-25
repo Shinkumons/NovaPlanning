@@ -37828,12 +37828,6 @@
                 },
                 {
                     "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
-                    "start": "2024-03-27T08:15:00",
-                    "end": "2024-03-27T11:15:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T16:30:00",
                     "color": "#44fcdb"
@@ -37851,9 +37845,21 @@
                     "color": "#44fcdb"
                 },
                 {
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "start": "2024-04-26T13:30:00",
+                    "end": "2024-04-26T16:30:00",
+                    "color": "#44fcdb"
+                },
+                {
                     "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T16:30:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Physique nucl\u00e9aire I\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
+                    "start": "2024-05-08T08:45:00",
+                    "end": "2024-05-08T11:45:00",
                     "color": "#44fcdb"
                 },
                 {
