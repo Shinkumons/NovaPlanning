@@ -15288,6 +15288,12 @@
                 },
                 {
                     "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT\nHo.24",
+                    "start": "2024-02-09T15:45:00",
+                    "end": "2024-02-09T17:45:00",
+                    "color": "#79007d"
+                },
+                {
+                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT\nHo.24",
                     "start": "2024-02-12T08:15:00",
                     "end": "2024-02-12T10:15:00",
                     "color": "#79007d"
@@ -15308,12 +15314,6 @@
                     "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT\nHo.24",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
-                    "color": "#79007d"
-                },
-                {
-                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT\nHo.24",
-                    "start": "2024-02-28T15:45:00",
-                    "end": "2024-02-28T17:45:00",
                     "color": "#79007d"
                 },
                 {
@@ -25925,7 +25925,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-02-07T15:45:00",
                     "end": "2024-02-07T17:45:00",
                     "color": "#fc4747"
@@ -25937,7 +25937,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-02-14T15:45:00",
                     "end": "2024-02-14T17:45:00",
                     "color": "#fc4747"
@@ -25949,7 +25949,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-02-21T15:45:00",
                     "end": "2024-02-21T17:45:00",
                     "color": "#fc4747"
@@ -25961,7 +25961,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-02-28T15:45:00",
                     "end": "2024-02-28T17:45:00",
                     "color": "#fc4747"
@@ -25973,7 +25973,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-03-06T15:45:00",
                     "end": "2024-03-06T17:45:00",
                     "color": "#fc4747"
@@ -25985,7 +25985,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-03-13T15:45:00",
                     "end": "2024-03-13T17:45:00",
                     "color": "#fc4747"
@@ -25997,7 +25997,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-03-20T15:45:00",
                     "end": "2024-03-20T17:45:00",
                     "color": "#fc4747"
@@ -26009,7 +26009,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-03-27T15:45:00",
                     "end": "2024-03-27T17:45:00",
                     "color": "#fc4747"
@@ -26021,7 +26021,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00",
                     "color": "#fc4747"
@@ -26057,13 +26057,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiP.3E11",
+                    "title": "Compl\u00e9ment de probabilit\u00e9 et statistiques\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\n",
                     "start": "2024-05-15T15:45:00",
                     "end": "2024-05-15T17:45:00",
                     "color": "#fc4747"
