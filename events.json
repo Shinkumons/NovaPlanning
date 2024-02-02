@@ -12315,15 +12315,15 @@
             ],
             "Structures de donn\u00e9es I": [
                 {
-                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr DUSOLLIER\nNiDeVinci.Mirzakhani",
-                    "start": "2024-02-06T10:30:00",
-                    "end": "2024-02-06T12:30:00",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mr DUSOLLIER\nNiP.0A07",
+                    "start": "2024-02-07T08:15:00",
+                    "end": "2024-02-07T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\nNiDeVinci.Mirzakhani",
-                    "start": "2024-02-09T08:15:00",
-                    "end": "2024-02-09T10:15:00",
+                    "start": "2024-02-09T13:30:00",
+                    "end": "2024-02-09T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -16437,7 +16437,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
+                    "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
                     "start": "2024-02-24T09:30:00",
                     "end": "2024-02-24T12:30:00",
                     "color": "#878787"
@@ -16449,7 +16449,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
+                    "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
                     "start": "2024-03-09T09:30:00",
                     "end": "2024-03-09T12:30:00",
                     "color": "#878787"
@@ -16461,7 +16461,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
+                    "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
                     "start": "2024-03-23T09:30:00",
                     "end": "2024-03-23T12:30:00",
                     "color": "#878787"
@@ -16473,7 +16473,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
+                    "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
                     "start": "2024-04-20T09:30:00",
                     "end": "2024-04-20T12:30:00",
                     "color": "#878787"
@@ -16482,12 +16482,6 @@
                     "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
                     "start": "2024-04-27T09:30:00",
                     "end": "2024-04-27T12:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
-                    "start": "2024-05-04T09:30:00",
-                    "end": "2024-05-04T12:30:00",
                     "color": "#878787"
                 }
             ],
@@ -24439,15 +24433,15 @@
             ],
             "Structures de donn\u00e9es I": [
                 {
-                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT\nNiDeVinci.Mirzakhani",
-                    "start": "2024-02-06T10:30:00",
-                    "end": "2024-02-06T12:30:00",
+                    "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT\nNiP.0A07",
+                    "start": "2024-02-07T08:15:00",
+                    "end": "2024-02-07T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
                     "title": "Structures de donn\u00e9es I\nMr DUSOLLIER, Mr MELOT, Mme BRUYERE\nNiDeVinci.Mirzakhani",
-                    "start": "2024-02-09T08:15:00",
-                    "end": "2024-02-09T10:15:00",
+                    "start": "2024-02-09T13:30:00",
+                    "end": "2024-02-09T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
