@@ -62,14 +62,14 @@
             "Aide \u00e0 la r\u00e9ussite (Partie B)": [
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite (Partie B)\n\nNiMen.Pauling",
-                    "start": "2024-02-06T18:00:00",
-                    "end": "2024-02-06T20:00:00",
+                    "start": "2024-02-08T18:00:00",
+                    "end": "2024-02-08T20:00:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Aide \u00e0 la r\u00e9ussite (Partie B)\n\nNiMen.Pauling",
-                    "start": "2024-02-13T18:00:00",
-                    "end": "2024-02-13T20:00:00",
+                    "start": "2024-02-15T18:00:00",
+                    "end": "2024-02-15T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -974,18 +974,6 @@
             "Chimie g\u00e9n\u00e9rale (partie B)": [
                 {
                     "title": "Chimie g\u00e9n\u00e9rale (partie B)\nMr LAZZARONI\nNiGA.Curie",
-                    "start": "2024-02-06T10:30:00",
-                    "end": "2024-02-06T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie g\u00e9n\u00e9rale (partie B)\nMr LAZZARONI\nNiGA.Gutenberg",
-                    "start": "2024-02-07T10:30:00",
-                    "end": "2024-02-07T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie g\u00e9n\u00e9rale (partie B)\nMr LAZZARONI\nNiGA.Curie",
                     "start": "2024-02-13T10:30:00",
                     "end": "2024-02-13T12:30:00",
                     "color": "#0026ad"
@@ -1233,7 +1221,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiB4.Penrose, NiDeVinci.Russel, NiB4.120",
+                    "title": "English for Science, part 1\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiB4.120, NiV\u00e9sale.030, NiB4.Penrose, NiDeVinci.Russel",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#0026ad"
@@ -1615,7 +1603,7 @@
             ],
             "Eval. continue math. \u00e9l\u00e9m.": [
                 {
-                    "title": "Eval. continue math. \u00e9l\u00e9m.\nMr MICHAUX, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Eval. continue math. \u00e9l\u00e9m.\nMr TROESTLER, Mr MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#0026ad"
@@ -3088,12 +3076,6 @@
             "Chimie de l'environnement": [
                 {
                     "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
-                    "start": "2024-02-05T13:30:00",
-                    "end": "2024-02-05T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
                     "start": "2024-02-12T13:30:00",
                     "end": "2024-02-12T15:30:00",
                     "color": "#0026ad"
@@ -3209,7 +3191,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMme DAUBIE, Mr BRASSEUR, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMr BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2023-11-10T14:30:00",
                     "end": "2023-11-10T17:30:00",
                     "color": "#0026ad"
@@ -3221,7 +3203,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMme DAUBIE, Mr BRASSEUR, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMr BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T16:30:00",
                     "color": "#0026ad"
@@ -3239,7 +3221,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMme DAUBIE, Mr BRASSEUR, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMr BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2023-11-17T14:30:00",
                     "end": "2023-11-17T17:30:00",
                     "color": "#0026ad"
@@ -3257,7 +3239,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMme DAUBIE, Mr BRASSEUR, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMr BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2023-12-01T14:30:00",
                     "end": "2023-12-01T17:30:00",
                     "color": "#0026ad"
@@ -3269,7 +3251,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMme DAUBIE, Mr BRASSEUR, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Compl.Phys.g\u00e9n\u00e9rale\nMr BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiB4.12ALab",
                     "start": "2023-12-11T08:30:00",
                     "end": "2023-12-11T11:30:00",
                     "color": "#0026ad"
@@ -3513,61 +3495,61 @@
             ],
             "Intro m\u00e9ca des fluides": [
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-05T10:30:00",
                     "end": "2024-02-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-08T10:30:00",
                     "end": "2024-02-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-12T10:30:00",
                     "end": "2024-02-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-15T10:30:00",
                     "end": "2024-02-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-19T10:30:00",
                     "end": "2024-02-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-02-26T10:30:00",
                     "end": "2024-02-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-03-04T10:30:00",
                     "end": "2024-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-03-11T10:30:00",
                     "end": "2024-03-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-03-18T10:30:00",
                     "end": "2024-03-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro m\u00e9ca des fluides\nMr DAMMAN, Mr GABRIELE\nNiMen.Pauling",
+                    "title": "Intro m\u00e9ca des fluides\nMr GABRIELE, Mr DAMMAN\nNiMen.Pauling",
                     "start": "2024-03-25T10:30:00",
                     "end": "2024-03-25T12:30:00",
                     "color": "#0026ad"
@@ -3952,6 +3934,14 @@
                     "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T15:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "R\u00e9servation de salles": [
+                {
+                    "title": "R\u00e9servation de salles\nMr COULEMBIER\nNiP.0A11",
+                    "start": "2024-05-16T08:15:00",
+                    "end": "2024-05-16T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -25133,12 +25123,6 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON\nNiP.3E10",
-                    "start": "2024-02-05T10:30:00",
-                    "end": "2024-02-05T12:30:00",
-                    "color": "#fc4747"
-                },
-                {
                     "title": "Analyse math\u00e9matique III\nMr SIMON\nNiP.3E11",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T15:30:00",
@@ -32389,6 +32373,36 @@
                     "start": "2024-01-15T13:30:00",
                     "end": "2024-01-15T17:30:00",
                     "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.119",
+                    "start": "2024-03-13T08:15:00",
+                    "end": "2024-03-13T10:15:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.119",
+                    "start": "2024-03-20T08:15:00",
+                    "end": "2024-03-20T10:15:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.119",
+                    "start": "2024-03-27T08:15:00",
+                    "end": "2024-03-27T10:15:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\n",
+                    "start": "2024-04-17T08:15:00",
+                    "end": "2024-04-17T10:15:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\n",
+                    "start": "2024-04-24T08:15:00",
+                    "end": "2024-04-24T10:15:00",
+                    "color": "#fc4747"
                 }
             ],
             "R\u00e9seaux II": [
@@ -34622,18 +34636,6 @@
                 }
             ],
             "Chimie g\u00e9n\u00e9rale B": [
-                {
-                    "title": "Chimie g\u00e9n\u00e9rale B\nMr LAZZARONI\nNiGA.Curie",
-                    "start": "2024-02-06T10:30:00",
-                    "end": "2024-02-06T12:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Chimie g\u00e9n\u00e9rale B\nMr LAZZARONI\nNiGA.Gutenberg",
-                    "start": "2024-02-07T10:30:00",
-                    "end": "2024-02-07T12:30:00",
-                    "color": "#44fcdb"
-                },
                 {
                     "title": "Chimie g\u00e9n\u00e9rale B\nMr LAZZARONI\nNiGA.Curie",
                     "start": "2024-02-13T10:30:00",
@@ -40546,12 +40548,6 @@
                 }
             ],
             "Chimie de l'environnement": [
-                {
-                    "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
-                    "start": "2024-02-05T13:30:00",
-                    "end": "2024-02-05T15:30:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Chimie de l'environnement\nMr LAZZARONI\nNiMen.Pauling",
                     "start": "2024-02-12T13:30:00",
