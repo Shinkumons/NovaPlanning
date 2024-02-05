@@ -3914,12 +3914,6 @@
                 },
                 {
                     "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
-                    "start": "2024-03-07T15:45:00",
-                    "end": "2024-03-07T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
                     "start": "2024-03-13T13:30:00",
                     "end": "2024-03-13T15:30:00",
                     "color": "#0026ad"
@@ -3934,6 +3928,12 @@
                     "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiP.0A11",
+                    "start": "2024-03-21T15:45:00",
+                    "end": "2024-03-21T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -5978,32 +5978,32 @@
                 },
                 {
                     "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
-                    "start": "2024-03-04T10:30:00",
-                    "end": "2024-03-04T12:30:00",
+                    "start": "2024-03-04T13:30:00",
+                    "end": "2024-03-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
-                    "start": "2024-03-11T10:30:00",
-                    "end": "2024-03-11T12:30:00",
+                    "start": "2024-03-18T13:30:00",
+                    "end": "2024-03-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
-                    "start": "2024-03-18T10:30:00",
-                    "end": "2024-03-18T12:30:00",
+                    "start": "2024-03-25T13:30:00",
+                    "end": "2024-03-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
-                    "start": "2024-03-25T10:30:00",
-                    "end": "2024-03-25T12:30:00",
+                    "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.0A11",
+                    "start": "2024-04-15T13:30:00",
+                    "end": "2024-04-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.3E11",
-                    "start": "2024-04-15T10:30:00",
-                    "end": "2024-04-15T12:30:00",
+                    "title": "Auto-assemblage bio-inspir\u00e9\nMr SURIN\nNiP.0A11",
+                    "start": "2024-04-22T13:30:00",
+                    "end": "2024-04-22T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -7725,7 +7725,7 @@
             ],
             "Stages en laboratoire": [
                 {
-                    "title": "Stages en laboratoire\nMr SURIN, Mr DAMMAN, Mr SNYDERS\nNiMen.Pauling",
+                    "title": "Stages en laboratoire\nMr DAMMAN, Mr SNYDERS, Mr SURIN\nNiMen.Pauling",
                     "start": "2023-11-28T13:30:00",
                     "end": "2023-11-28T15:30:00",
                     "color": "#0026ad"
@@ -20513,7 +20513,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT\nNiP.3E20",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#fc4747"
@@ -28465,9 +28465,9 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr MICHAUX, Mr RAMLOT\nNiP.3E11",
-                    "start": "2024-02-10T10:30:00",
-                    "end": "2024-02-10T12:30:00",
+                    "title": "S\u00e9minaire de logique math\u00e9matique I\nMr MICHAUX\nNiP.3E10",
+                    "start": "2024-05-16T08:15:00",
+                    "end": "2024-05-16T10:15:00",
                     "color": "#fc4747"
                 }
             ],
@@ -38172,12 +38172,6 @@
                 },
                 {
                     "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
-                    "start": "2024-03-07T15:45:00",
-                    "end": "2024-03-07T17:45:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
                     "start": "2024-03-13T13:30:00",
                     "end": "2024-03-13T15:30:00",
                     "color": "#44fcdb"
@@ -38192,6 +38186,12 @@
                     "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiMen.Pauling",
                     "start": "2024-03-20T13:30:00",
                     "end": "2024-03-20T15:30:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Prop chim et phys mat\u00e9riaux\nMr LECLERE\nNiP.0A11",
+                    "start": "2024-03-21T15:45:00",
+                    "end": "2024-03-21T17:45:00",
                     "color": "#44fcdb"
                 }
             ],
