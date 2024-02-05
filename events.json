@@ -6301,12 +6301,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie de coordination\nMr SNYDERS\n",
-                    "start": "2024-03-05T08:15:00",
-                    "end": "2024-03-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie de coordination\nMr SNYDERS\nNiMen.Pauling",
                     "start": "2024-03-12T08:15:00",
                     "end": "2024-03-12T10:15:00",
@@ -6340,6 +6334,12 @@
                     "title": "Chimie de coordination\nMr SNYDERS\nNiB6.124",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie de coordination\nMr SNYDERS\nNiMen.Pauling",
+                    "start": "2024-05-07T08:15:00",
+                    "end": "2024-05-07T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -16472,6 +16472,12 @@
                     "title": "Ethique et droit de l'informatique\nMme ROSIC\nCha.ZG.W.2.02",
                     "start": "2024-04-27T09:30:00",
                     "end": "2024-04-27T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Ethique et droit de l'informatique\nMme ROSIC\n",
+                    "start": "2024-05-25T09:00:00",
+                    "end": "2024-05-25T12:00:00",
                     "color": "#878787"
                 }
             ],
