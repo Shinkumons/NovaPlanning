@@ -8959,7 +8959,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques pour l'informatique - Alg\u00e8bre lin\u00e9aire\nMme BRIDOUX, Mme CAPON, Mr BRIHAYE\nNiGA.Plisnier",
+                    "title": "Math\u00e9matiques pour l'informatique - Alg\u00e8bre lin\u00e9aire\nMme CAPON, Mr BRIHAYE\nNiGA.Plisnier",
                     "start": "2024-02-15T13:30:00",
                     "end": "2024-02-15T15:30:00",
                     "color": "#fc4747"
@@ -32862,8 +32862,8 @@
                 },
                 {
                     "title": "Projet int\u00e9gr\u00e9\nMme BRIDOUX\nNiB4.119",
-                    "start": "2024-02-15T10:30:00",
-                    "end": "2024-02-15T12:30:00",
+                    "start": "2024-02-15T13:30:00",
+                    "end": "2024-02-15T15:30:00",
                     "color": "#878787"
                 }
             ],
@@ -33812,12 +33812,6 @@
                     "title": "Aide \u00e0 la r\u00e9ussite\n\nNiGA.Curie",
                     "start": "2024-02-08T12:30:00",
                     "end": "2024-02-08T13:30:00",
-                    "color": "#00ad3d"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.233, NiV\u00e9sale.023, NiB6.18, NiMen.Pauling",
-                    "start": "2024-02-12T08:15:00",
-                    "end": "2024-02-12T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -35843,7 +35837,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.Penrose",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.Penrose",
                     "start": "2023-09-29T13:30:00",
                     "end": "2023-09-29T17:30:00",
                     "color": "#44fcdb"
@@ -35855,19 +35849,19 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiDeVinci.Mirzakhani",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-05T13:30:00",
                     "end": "2023-10-05T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-10-12T13:30:00",
                     "end": "2023-10-12T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-10-19T13:30:00",
                     "end": "2023-10-19T17:30:00",
                     "color": "#44fcdb"
@@ -35879,7 +35873,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-10-26T13:30:00",
                     "end": "2023-10-26T17:30:00",
                     "color": "#44fcdb"
@@ -35891,13 +35885,13 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-11-02T13:30:00",
                     "end": "2023-11-02T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T12:15:00",
                     "color": "#44fcdb"
@@ -35909,7 +35903,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T12:15:00",
                     "color": "#44fcdb"
@@ -35921,13 +35915,13 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T12:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T12:15:00",
                     "color": "#44fcdb"
@@ -35939,7 +35933,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mme LACROIX, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mme LACROIX\nNiB4.12ALab",
                     "start": "2023-12-07T08:15:00",
                     "end": "2023-12-07T12:15:00",
                     "color": "#44fcdb"
@@ -35951,7 +35945,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE, Mr BRASSEUR\nNiGA.Curie",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr ROSOLEN, Mr DELPLACE\nNiGA.Curie",
                     "start": "2023-12-14T08:15:00",
                     "end": "2023-12-14T10:15:00",
                     "color": "#44fcdb"
@@ -36115,7 +36109,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00",
                     "color": "#44fcdb"
@@ -36127,7 +36121,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T16:30:00",
                     "color": "#44fcdb"
@@ -36145,7 +36139,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T16:30:00",
                     "color": "#44fcdb"
@@ -36157,7 +36151,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Univers struct. const.\nMr LO BUE, Mr PALMERI, Mr QUINET\n",
+                    "title": "Univers struct. const.\nMr QUINET, Mr LO BUE, Mr PALMERI\n",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T16:30:00",
                     "color": "#44fcdb"
