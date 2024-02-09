@@ -13289,7 +13289,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiB4.Penrose, NiP.3E20, NiP.0E10",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#878787"
@@ -13307,7 +13307,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiB4.Penrose, NiP.3E20, NiP.0E10",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#878787"
@@ -16277,7 +16277,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiB4.Penrose, NiP.0E10, NiP.3E20",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#878787"
@@ -16295,7 +16295,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiB4.Penrose, NiP.0E10, NiP.3E20",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#878787"
@@ -26507,7 +26507,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.3E20, NiB4.Penrose, NiP.0E10",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#878787"
@@ -26525,7 +26525,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
+                    "title": "English for Scientific Communication\nMr DEVILEZ\nNiP.3E20, NiB4.Penrose, NiP.0E10",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#878787"
@@ -38723,7 +38723,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiB4.Penrose, NiP.0E10, NiP.3E20",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#0026ad"
@@ -38741,7 +38741,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for Sc Com part 2\nMr DEVILEZ\nNiB4.Penrose, NiP.0E10, NiP.3E20",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#0026ad"
@@ -40010,8 +40010,8 @@
                 },
                 {
                     "title": "Projet personnel\nMr SEMAY\n",
-                    "start": "2024-05-16T08:15:00",
-                    "end": "2024-05-16T13:30:00",
+                    "start": "2024-05-16T08:00:00",
+                    "end": "2024-05-16T13:15:00",
                     "color": "#878787"
                 }
             ],
