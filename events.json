@@ -2452,12 +2452,6 @@
             "Rem FR": [
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
                     "end": "2024-03-06T21:00:00",
                     "color": "#0026ad"
@@ -10648,12 +10642,6 @@
             "Rem FR": [
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
                     "end": "2024-03-06T21:00:00",
                     "color": "#878787"
@@ -15608,12 +15596,6 @@
             "Conf\u00e9rence/d\u00e9bat": [
                 {
                     "title": "Conf\u00e9rence/d\u00e9bat\nMme DUPONT\nWa.SalleAca",
-                    "start": "2024-02-20T17:00:00",
-                    "end": "2024-02-20T17:45:00",
-                    "color": "#79007d"
-                },
-                {
-                    "title": "Conf\u00e9rence/d\u00e9bat\nMme DUPONT\nWa.SalleAca",
                     "start": "2024-02-20T17:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#79007d"
@@ -17049,12 +17031,6 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI\nHo.05",
-                    "start": "2024-02-23T10:30:00",
-                    "end": "2024-02-23T12:30:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00",
@@ -17082,6 +17058,12 @@
                     "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-03-11T13:30:00",
                     "end": "2024-03-11T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Multimedia information retrieval\nMr MAHMOUDI\nHo.05",
+                    "start": "2024-04-22T10:30:00",
+                    "end": "2024-04-22T12:30:00",
                     "color": "#878787"
                 }
             ],
@@ -22174,12 +22156,6 @@
                 }
             ],
             "Rem FR": [
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00",
-                    "color": "#5c98ff"
-                },
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
@@ -36032,12 +36008,6 @@
             "Rem FR": [
                 {
                     "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-02-14T18:00:00",
-                    "end": "2024-02-14T21:00:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
                     "start": "2024-03-06T18:00:00",
                     "end": "2024-03-06T21:00:00",
                     "color": "#44fcdb"
@@ -40753,6 +40723,14 @@
                     "color": "#878787"
                 }
             ],
+            "Gest sources rayon ionisants": [
+                {
+                    "title": "Gest sources rayon ionisants\nMr FROMENT\n",
+                    "start": "2024-03-29T13:30:00",
+                    "end": "2024-03-29T17:00:00",
+                    "color": "#878787"
+                }
+            ],
             "Hist. pens\u00e9e scientifique": [
                 {
                     "title": "Hist. pens\u00e9e scientifique\nMme GOLDBERG\nNiP.0A11",
@@ -42225,43 +42203,43 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiMen.Pauling",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiMen.Pauling",
                     "start": "2023-11-23T13:30:00",
                     "end": "2023-11-23T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-11-30T13:30:00",
                     "end": "2023-11-30T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-12-07T13:30:00",
                     "end": "2023-12-07T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T12:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-12-19T13:30:00",
                     "end": "2023-12-19T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr VOUE, Mme DEVOUGE, Mr BAYART\nNiB4.12ALab",
+                    "title": "Propri\u00e9t\u00e9s opt. des mat\u00e9riaux\nMr BAYART, Mme DEVOUGE, Mr VOUE\nNiB4.12ALab",
                     "start": "2023-12-22T08:30:00",
                     "end": "2023-12-22T11:30:00",
                     "color": "#878787"
@@ -43107,61 +43085,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-08T15:45:00",
                     "end": "2023-11-08T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-10T10:30:00",
                     "end": "2023-11-10T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-15T15:45:00",
                     "end": "2023-11-15T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-16T10:30:00",
                     "end": "2023-11-16T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-22T15:45:00",
                     "end": "2023-11-22T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-23T10:30:00",
                     "end": "2023-11-23T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-11-29T15:45:00",
                     "end": "2023-11-29T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-12-13T10:30:00",
                     "end": "2023-12-13T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2023-12-20T08:15:00",
                     "end": "2023-12-20T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Technologies plasma trait A\nMr SNYDERS, Mr KONSTANTINIDIS\n",
+                    "title": "Technologies plasma trait A\nMr KONSTANTINIDIS, Mr SNYDERS\n",
                     "start": "2024-01-23T08:15:00",
                     "end": "2024-01-23T12:15:00",
                     "color": "#878787"
