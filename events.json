@@ -8755,7 +8755,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiV\u00e9sale.020, NiB4.120",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#00ad3d"
@@ -8773,7 +8773,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiMen.Pauling, NiB6.18, NiV\u00e9sale.023, NiB4.233",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiB4.233, NiV\u00e9sale.023, NiMen.Pauling",
                     "start": "2024-02-12T08:15:00",
                     "end": "2024-02-12T10:15:00",
                     "color": "#00ad3d"
@@ -9329,7 +9329,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#fc4747"
@@ -9371,7 +9371,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#fc4747"
@@ -10299,7 +10299,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
+                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00",
                     "color": "#5c98ff"
@@ -10603,9 +10603,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Projet d'informatique\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiGA.Plisnier",
-                    "start": "2024-03-15T13:30:00",
-                    "end": "2024-03-15T15:30:00",
+                    "title": "Projet d'informatique\nMr CARDOEN, Mr ABSIL\n",
+                    "start": "2024-03-12T08:15:00",
+                    "end": "2024-03-12T10:15:00",
                     "color": "#878787"
                 },
                 {
@@ -14614,12 +14614,6 @@
                     "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
                     "start": "2024-02-07T08:15:00",
                     "end": "2024-02-07T10:15:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
-                    "start": "2024-02-28T08:15:00",
-                    "end": "2024-02-28T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
