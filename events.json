@@ -8755,7 +8755,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiV\u00e9sale.020, NiB4.120",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#00ad3d"
@@ -8773,7 +8773,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiB4.233, NiV\u00e9sale.023, NiMen.Pauling",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.233, NiV\u00e9sale.023, NiMen.Pauling, NiB6.18",
                     "start": "2024-02-12T08:15:00",
                     "end": "2024-02-12T10:15:00",
                     "color": "#00ad3d"
@@ -9329,7 +9329,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr MICHAUX, Mr TROESTLER, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#fc4747"
@@ -9371,7 +9371,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMr MICHAUX, Mr TROESTLER, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#fc4747"
@@ -9607,7 +9607,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-04-19T13:30:00",
                     "end": "2024-04-19T15:30:00",
                     "color": "#5c98ff"
@@ -9625,13 +9625,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-04-25T13:30:00",
                     "end": "2024-04-25T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
                     "color": "#5c98ff"
@@ -9643,13 +9643,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-05-02T13:30:00",
                     "end": "2024-05-02T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T15:30:00",
                     "color": "#5c98ff"
@@ -9661,7 +9661,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-05-10T13:30:00",
                     "end": "2024-05-10T15:30:00",
                     "color": "#5c98ff"
@@ -9673,7 +9673,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Fonctionnement des ordinateurs\nMr BUYS, Mr QUOITIN\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "Fonctionnement des ordinateurs\nMr QUOITIN, Mr BUYS\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2024-05-17T13:30:00",
                     "end": "2024-05-17T15:30:00",
                     "color": "#5c98ff"
@@ -10109,7 +10109,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.Plisnier, NiGA.VanGogh",
+                    "title": "Physique g\u00e9n\u00e9rale I - Th\u00e9orie\nMr MAES\nNiGA.VanGogh, NiGA.Plisnier",
                     "start": "2023-12-06T13:30:00",
                     "end": "2023-12-06T15:30:00",
                     "color": "#44fcdb"
@@ -10299,7 +10299,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Programmation et algorithmique II\nMr BONTE, Mr DUSOLLIER, Mr CARDOEN\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00",
                     "color": "#5c98ff"
@@ -10603,7 +10603,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Projet d'informatique\nMr CARDOEN, Mr ABSIL\n",
+                    "title": "Projet d'informatique\nMr ABSIL, Mr CARDOEN\nNiDeVinci.Montague",
                     "start": "2024-03-12T08:15:00",
                     "end": "2024-03-12T10:15:00",
                     "color": "#878787"
@@ -19555,9 +19555,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-17T08:15:00",
-                    "end": "2024-04-17T10:15:00",
+                    "title": "Software evolution\nMr MENS\nNiP.0A11",
+                    "start": "2024-04-24T08:15:00",
+                    "end": "2024-04-24T10:15:00",
                     "color": "#878787"
                 },
                 {
@@ -32637,9 +32637,9 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-17T08:15:00",
-                    "end": "2024-04-17T10:15:00",
+                    "title": "Software evolution\nMr MENS\nNiP.0A11",
+                    "start": "2024-04-24T08:15:00",
+                    "end": "2024-04-24T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
