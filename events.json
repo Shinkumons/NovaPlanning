@@ -2457,7 +2457,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
                     "color": "#0026ad"
@@ -10647,7 +10647,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
                     "color": "#878787"
@@ -19927,6 +19927,12 @@
             ],
             "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I": [
                 {
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiP.0A11",
+                    "start": "2024-04-15T10:30:00",
+                    "end": "2024-04-15T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV, Mme FOUGNIES\nNiP.0A07",
                     "start": "2024-04-15T15:45:00",
                     "end": "2024-04-15T17:45:00",
@@ -19942,6 +19948,12 @@
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV, Mme FOUGNIES\nNiP.0A11",
                     "start": "2024-04-18T15:45:00",
                     "end": "2024-04-18T17:45:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiP.0A11",
+                    "start": "2024-04-19T10:30:00",
+                    "end": "2024-04-19T12:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -19981,21 +19993,9 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiP.0A11",
-                    "start": "2024-05-07T10:30:00",
-                    "end": "2024-05-07T12:30:00",
-                    "color": "#fc4747"
-                },
-                {
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV, Mme FOUGNIES\nNiP.0A11",
                     "start": "2024-05-10T10:30:00",
                     "end": "2024-05-10T12:30:00",
-                    "color": "#fc4747"
-                },
-                {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV\nNiP.0A11",
-                    "start": "2024-05-14T10:30:00",
-                    "end": "2024-05-14T12:30:00",
                     "color": "#fc4747"
                 },
                 {
@@ -20095,7 +20095,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme DE CORTE, Mme VOLKOV, Mme FOUGNIES\nNiGA.Gutenberg",
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie I\nMme VOLKOV, Mme DE CORTE, Mme FOUGNIES\nNiGA.Gutenberg",
                     "start": "2024-03-29T10:30:00",
                     "end": "2024-03-29T12:30:00",
                     "color": "#fc4747"
@@ -20199,157 +20199,157 @@
             ],
             "Alg\u00e8bre I": [
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiB4.Penrose",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiB4.Penrose",
                     "start": "2023-09-19T15:45:00",
                     "end": "2023-09-19T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-09-20T08:15:00",
                     "end": "2023-09-20T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-10-04T08:15:00",
                     "end": "2023-10-04T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-10-11T08:15:00",
                     "end": "2023-10-11T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-10-18T08:15:00",
                     "end": "2023-10-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-10-25T08:15:00",
                     "end": "2023-10-25T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiB4.Penrose",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiB4.Penrose",
                     "start": "2023-11-03T08:15:00",
                     "end": "2023-11-03T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-08T08:15:00",
                     "end": "2023-11-08T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-15T08:15:00",
                     "end": "2023-11-15T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-22T08:15:00",
                     "end": "2023-11-22T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-29T08:15:00",
                     "end": "2023-11-29T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-12-06T08:15:00",
                     "end": "2023-12-06T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-12-07T08:15:00",
                     "end": "2023-12-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-12-13T08:15:00",
                     "end": "2023-12-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2023-12-20T08:15:00",
                     "end": "2023-12-20T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-07T08:15:00",
                     "end": "2024-02-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-08T08:15:00",
                     "end": "2024-02-08T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-14T08:15:00",
                     "end": "2024-02-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-15T08:15:00",
                     "end": "2024-02-15T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-21T08:15:00",
                     "end": "2024-02-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-02-22T08:15:00",
                     "end": "2024-02-22T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2024-02-28T08:15:00",
                     "end": "2024-02-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.0A07",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.0A07",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#fc4747"
@@ -20367,91 +20367,91 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-13T08:15:00",
                     "end": "2024-03-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-20T08:15:00",
                     "end": "2024-03-20T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-21T08:15:00",
                     "end": "2024-03-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-27T08:15:00",
                     "end": "2024-03-27T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-03-28T08:15:00",
                     "end": "2024-03-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-04-24T08:15:00",
                     "end": "2024-04-24T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-05-03T13:30:00",
                     "end": "2024-05-03T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiV\u00e9sale.020",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.020",
                     "start": "2024-05-06T08:15:00",
                     "end": "2024-05-06T15:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-05-08T08:15:00",
                     "end": "2024-05-08T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiP.3E20",
+                    "title": "Alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiP.3E20",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T10:15:00",
                     "color": "#fc4747"
@@ -21633,61 +21633,61 @@
             ],
             "Nombres complexes": [
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-09-22T10:30:00",
                     "end": "2023-09-22T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-09-29T10:30:00",
                     "end": "2023-09-29T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiV\u00e9sale.025",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.025",
                     "start": "2023-10-06T10:30:00",
                     "end": "2023-10-06T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiV\u00e9sale.020",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.020",
                     "start": "2023-10-13T10:30:00",
                     "end": "2023-10-13T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-10-20T10:30:00",
                     "end": "2023-10-20T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-10-27T10:30:00",
                     "end": "2023-10-27T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-11-03T10:30:00",
                     "end": "2023-11-03T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Gutenberg",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Gutenberg",
                     "start": "2023-11-13T15:45:00",
                     "end": "2023-11-13T17:45:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2023-11-17T10:30:00",
                     "end": "2023-11-17T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiGA.Plisnier",
                     "start": "2024-01-10T11:15:00",
                     "end": "2024-01-10T13:30:00",
                     "color": "#44fcdb"
@@ -22145,7 +22145,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
                     "color": "#5c98ff"
@@ -22167,13 +22167,13 @@
             ],
             "C\u00f4t\u00e9 d'alg\u00e8bre I": [
                 {
-                    "title": "C\u00f4t\u00e9 d'alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiDeVinci.Mirzakhani",
+                    "title": "C\u00f4t\u00e9 d'alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T15:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "C\u00f4t\u00e9 d'alg\u00e8bre I\nMr MICHAUX, Mr RAMLOT\nNiDeVinci.Mirzakhani",
+                    "title": "C\u00f4t\u00e9 d'alg\u00e8bre I\nMr RAMLOT, Mr MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-19T08:15:00",
                     "end": "2024-02-19T15:15:00",
                     "color": "#fc4747"
@@ -35979,7 +35979,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
+                    "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
                     "color": "#44fcdb"
