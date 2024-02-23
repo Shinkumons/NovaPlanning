@@ -32663,6 +32663,20 @@
                     "color": "#0026ad"
                 }
             ],
+            "Didactique des math\u00e9matiques discr\u00e8tes": [
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T17:45:00",
+                    "color": "#fc4747"
+                }
+            ],
             "Ev\u00e9nement - DCOM": [
                 {
                     "title": "Ev\u00e9nement - DCOM\n\n",
@@ -33043,54 +33057,68 @@
                     "color": "#0026ad"
                 }
             ],
+            "Didactique des math\u00e9matiques discr\u00e8tes": [
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T17:45:00",
+                    "color": "#fc4747"
+                }
+            ],
             "Evaluation des apprentissages": [
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-10-05T18:00:00",
                     "end": "2023-10-05T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.SalleAca",
                     "start": "2023-10-19T19:00:00",
                     "end": "2023-10-19T21:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-09T18:00:00",
                     "end": "2023-11-09T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-23T18:00:00",
                     "end": "2023-11-23T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-30T18:00:00",
                     "end": "2023-11-30T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-12-07T18:00:00",
                     "end": "2023-12-07T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.Hotyat",
                     "start": "2023-12-14T18:00:00",
                     "end": "2023-12-14T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nMr DEMEUSE\nWa.226L, Wa.SalleAca",
                     "start": "2024-01-12T18:00:00",
                     "end": "2024-01-12T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 }
             ],
             "Ev\u00e9nement - DCOM": [
@@ -44118,6 +44146,20 @@
                     "title": "Approch ado context \u00e9ducatif\nMme DUROISIN\nWa.SalleAca, Wa.224L",
                     "start": "2024-01-11T18:00:00",
                     "end": "2024-01-11T20:00:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Didactique math.disc.connexes": [
+                {
+                    "title": "Didactique math.disc.connexes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Didactique math.disc.connexes\nMr MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T17:45:00",
                     "color": "#0026ad"
                 }
             ],
