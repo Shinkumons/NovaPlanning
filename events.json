@@ -15299,13 +15299,13 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT, Mr GROS\nDo.TeleLab",
+                    "title": "Communications analogiques et num\u00e9riques\nMr GROS, Mme MOEYAERT\nDo.TeleLab",
                     "start": "2024-03-28T08:30:00",
                     "end": "2024-03-28T11:30:00",
                     "color": "#79007d"
                 },
                 {
-                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT, Mr GROS\nDo.TeleLab",
+                    "title": "Communications analogiques et num\u00e9riques\nMr GROS, Mme MOEYAERT\nDo.TeleLab",
                     "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T16:30:00",
                     "color": "#79007d"
@@ -18243,21 +18243,21 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT, Mr GROS\nDo.TeleSC",
-                    "start": "2024-04-15T13:30:00",
-                    "end": "2024-04-15T17:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT, Mr GROS\nDo.TeleSC",
-                    "start": "2024-04-26T13:30:00",
-                    "end": "2024-04-26T17:30:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT\nDo.TeleSC",
                     "start": "2024-05-02T13:30:00",
                     "end": "2024-05-02T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Networks for multimedia and the Internet of things\nMr GROS, Mme MOEYAERT\n",
+                    "start": "2024-05-06T08:15:00",
+                    "end": "2024-05-06T12:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Networks for multimedia and the Internet of things\nMr GROS, Mme MOEYAERT\n",
+                    "start": "2024-05-15T08:15:00",
+                    "end": "2024-05-15T12:15:00",
                     "color": "#878787"
                 }
             ],
@@ -27487,12 +27487,6 @@
                     "start": "2024-05-13T15:45:00",
                     "end": "2024-05-13T17:45:00",
                     "color": "#44fcdb"
-                },
-                {
-                    "title": "M\u00e9canique quantique - applications\nMr SEMAY, Mr CHEVALIER\nNiP.3E20",
-                    "start": "2024-05-15T15:45:00",
-                    "end": "2024-05-15T17:45:00",
-                    "color": "#44fcdb"
                 }
             ],
             "M\u00e9canique quantique - th\u00e9orie": [
@@ -31307,7 +31301,7 @@
                     "color": "#fca044"
                 },
                 {
-                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.0A11",
+                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
                     "start": "2024-05-15T13:30:00",
                     "end": "2024-05-15T15:30:00",
                     "color": "#fca044"
@@ -38269,7 +38263,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#0026ad"
@@ -38281,7 +38275,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#0026ad"
@@ -38293,7 +38287,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#0026ad"
@@ -38305,7 +38299,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#0026ad"
@@ -38317,7 +38311,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#0026ad"
@@ -38329,7 +38323,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#0026ad"
@@ -38341,7 +38335,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-02T08:15:00",
                     "end": "2023-11-02T10:15:00",
                     "color": "#0026ad"
@@ -38353,7 +38347,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T10:15:00",
                     "color": "#0026ad"
@@ -38365,7 +38359,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T10:15:00",
                     "color": "#0026ad"
@@ -38377,7 +38371,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMr SIMON, Mme CAPON\nNiP.0A11",
+                    "title": "Analyse complexe\nMme CAPON, Mr SIMON\nNiP.0A11",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T10:15:00",
                     "color": "#0026ad"
@@ -39003,12 +38997,6 @@
                     "start": "2024-05-13T15:45:00",
                     "end": "2024-05-13T17:45:00",
                     "color": "#878787"
-                },
-                {
-                    "title": "M\u00e9ca. quant. applications\nMr CHEVALIER, Mr SEMAY\nNiP.3E20",
-                    "start": "2024-05-15T15:45:00",
-                    "end": "2024-05-15T17:45:00",
-                    "color": "#878787"
                 }
             ],
             "M\u00e9ca. quant. th\u00e9orie": [
@@ -39547,7 +39535,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique de l'\u00e9tat solide\nMme DAUBIE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
+                    "title": "Physique de l'\u00e9tat solide\nMme DEVOUGE, Mme DAUBIE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-03-27T13:30:00",
                     "end": "2024-03-27T16:30:00",
                     "color": "#878787"
@@ -39565,7 +39553,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique de l'\u00e9tat solide\nMme DAUBIE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
+                    "title": "Physique de l'\u00e9tat solide\nMme DEVOUGE, Mme DAUBIE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-04-25T13:30:00",
                     "end": "2024-04-25T16:30:00",
                     "color": "#878787"
@@ -39583,7 +39571,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique de l'\u00e9tat solide\nMme DAUBIE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
+                    "title": "Physique de l'\u00e9tat solide\nMme DEVOUGE, Mme DAUBIE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-05-02T13:30:00",
                     "end": "2024-05-02T16:30:00",
                     "color": "#878787"
@@ -39595,13 +39583,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique de l'\u00e9tat solide\nMme DAUBIE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
+                    "title": "Physique de l'\u00e9tat solide\nMme DEVOUGE, Mme DAUBIE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-05-14T08:15:00",
                     "end": "2024-05-14T12:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Physique de l'\u00e9tat solide\nMme DAUBIE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
+                    "title": "Physique de l'\u00e9tat solide\nMme DEVOUGE, Mme DAUBIE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T12:15:00",
                     "color": "#878787"
@@ -40013,7 +40001,7 @@
             ],
             "S\u00e9m. phys interact. fondam.": [
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr QUINET, Mme DAUBIE, Mr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mme DAUBIE, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#878787"
@@ -40037,7 +40025,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr QUINET, Mr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-19T15:45:00",
                     "end": "2024-03-19T17:45:00",
                     "color": "#878787"
@@ -40049,7 +40037,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr QUINET, Mr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-03-26T15:45:00",
                     "end": "2024-03-26T17:45:00",
                     "color": "#878787"
@@ -40061,15 +40049,21 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr QUINET, Mr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMr PALMERI, Mr QUINET, Mr SEMAY\nNiB4.233",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. phys interact. fondam.\nMr QUINET, Mme DAUBIE, Mr PALMERI, Mr SEMAY\nNiB4.233",
+                    "title": "S\u00e9m. phys interact. fondam.\nMme DAUBIE, Mr QUINET, Mr PALMERI, Mr SEMAY\nNiB4.233",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "S\u00e9m. phys interact. fondam.\nMr LECLERE\nNiP.0A11",
+                    "start": "2024-05-15T14:00:00",
+                    "end": "2024-05-15T19:30:00",
                     "color": "#878787"
                 }
             ],
