@@ -15053,18 +15053,6 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-18T15:45:00",
-                    "end": "2024-03-18T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-25T15:45:00",
-                    "end": "2024-03-25T17:45:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00",
@@ -20102,18 +20090,6 @@
                     "title": "Simulation\nMr BUYS\nNiP.0A07",
                     "start": "2024-03-11T15:45:00",
                     "end": "2024-03-11T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-18T15:45:00",
-                    "end": "2024-03-18T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-25T15:45:00",
-                    "end": "2024-03-25T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -29325,18 +29301,6 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-18T15:45:00",
-                    "end": "2024-03-18T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-25T15:45:00",
-                    "end": "2024-03-25T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
                     "start": "2024-04-17T15:45:00",
                     "end": "2024-04-17T17:45:00",
@@ -32184,8 +32148,8 @@
                 },
                 {
                     "title": "M\u00e9thodes statistiques\nMr GROSSE\u2011ERDMANN\nNiP.3E11",
-                    "start": "2024-05-03T08:15:00",
-                    "end": "2024-05-03T10:15:00",
+                    "start": "2024-05-02T15:45:00",
+                    "end": "2024-05-02T17:45:00",
                     "color": "#fca044"
                 },
                 {
@@ -32195,9 +32159,9 @@
                     "color": "#fca044"
                 },
                 {
-                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E10",
-                    "start": "2024-05-08T13:30:00",
-                    "end": "2024-05-08T15:30:00",
+                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.3E11",
+                    "start": "2024-05-08T08:15:00",
+                    "end": "2024-05-08T10:15:00",
                     "color": "#fca044"
                 },
                 {
@@ -37115,7 +37079,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-05-13T13:30:00",
                     "end": "2024-05-13T17:30:00",
                     "color": "#44fcdb"
@@ -45363,12 +45327,6 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
-                    "start": "2024-04-15T16:45:00",
-                    "end": "2024-04-15T19:45:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
                     "start": "2024-04-17T14:00:00",
                     "end": "2024-04-17T17:00:00",
@@ -45388,8 +45346,8 @@
                 },
                 {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
-                    "start": "2024-05-15T14:00:00",
-                    "end": "2024-05-15T17:00:00",
+                    "start": "2024-05-13T16:45:00",
+                    "end": "2024-05-13T19:45:00",
                     "color": "#878787"
                 }
             ],
@@ -46073,12 +46031,6 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, Mr LO BUE\nNiB4.233",
-                    "start": "2024-04-15T16:45:00",
-                    "end": "2024-04-15T19:45:00",
-                    "color": "#878787"
-                },
-                {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
                     "start": "2024-04-17T14:00:00",
                     "end": "2024-04-17T17:00:00",
@@ -46098,8 +46050,8 @@
                 },
                 {
                     "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
-                    "start": "2024-05-15T14:00:00",
-                    "end": "2024-05-15T17:00:00",
+                    "start": "2024-05-13T16:45:00",
+                    "end": "2024-05-13T19:45:00",
                     "color": "#878787"
                 }
             ],
