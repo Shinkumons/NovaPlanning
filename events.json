@@ -14463,6 +14463,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "start": "2024-03-25T10:30:00",
+                    "end": "2024-03-25T12:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
@@ -14478,12 +14484,6 @@
                     "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
-                    "start": "2024-04-17T08:15:00",
-                    "end": "2024-04-17T10:15:00",
                     "color": "#878787"
                 },
                 {
@@ -19045,6 +19045,12 @@
                     "color": "#878787"
                 },
                 {
+                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
+                    "start": "2024-03-25T10:30:00",
+                    "end": "2024-03-25T12:30:00",
+                    "color": "#878787"
+                },
+                {
                     "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
                     "start": "2024-03-26T10:30:00",
                     "end": "2024-03-26T12:30:00",
@@ -19060,12 +19066,6 @@
                     "title": "Programmation logique\nMr MENS\nNiDeVinci.Russel",
                     "start": "2024-04-16T10:30:00",
                     "end": "2024-04-16T12:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Programmation logique\nMr MENS\nNiP.0A11",
-                    "start": "2024-04-17T08:15:00",
-                    "end": "2024-04-17T10:15:00",
                     "color": "#878787"
                 },
                 {
@@ -25663,12 +25663,6 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse math\u00e9matique III\nMr SIMON\nNiP.3E11",
-                    "start": "2024-03-29T15:45:00",
-                    "end": "2024-03-29T17:45:00",
-                    "color": "#fc4747"
-                },
-                {
                     "title": "Analyse math\u00e9matique III\nMme FOUGNIES, Mr SIMON\nNiP.3E11",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T15:30:00",
@@ -25696,6 +25690,12 @@
                     "title": "Analyse math\u00e9matique III\nMr SIMON\nNiP.3E10",
                     "start": "2024-04-23T10:30:00",
                     "end": "2024-04-23T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Analyse math\u00e9matique III\nMr SIMON\nNiP.3E11",
+                    "start": "2024-04-26T15:45:00",
+                    "end": "2024-04-26T17:45:00",
                     "color": "#fc4747"
                 },
                 {
