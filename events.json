@@ -12981,9 +12981,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\nNiDeVinci.Russel",
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\n",
                     "start": "2024-04-18T15:45:00",
                     "end": "2024-04-18T17:45:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\nNiDeVinci.Russel",
+                    "start": "2024-04-19T15:45:00",
+                    "end": "2024-04-19T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -13005,15 +13011,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\nNiDeVinci.Russel",
-                    "start": "2024-05-02T15:45:00",
-                    "end": "2024-05-02T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020, NiB6.124",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiDeVinci.Vaughan",
+                    "start": "2024-05-10T15:45:00",
+                    "end": "2024-05-10T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -13032,12 +13038,6 @@
                     "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE\nNiV\u00e9sale.020",
                     "start": "2024-05-15T15:45:00",
                     "end": "2024-05-15T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Structures de donn\u00e9es I\nMr MELOT, Mme BRUYERE, Mr DUSOLLIER\nNiDeVinci.Russel",
-                    "start": "2024-05-16T15:45:00",
-                    "end": "2024-05-16T17:45:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -25360,8 +25360,8 @@
                 },
                 {
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
-                    "start": "2024-04-18T15:45:00",
-                    "end": "2024-04-18T17:45:00",
+                    "start": "2024-04-19T15:45:00",
+                    "end": "2024-04-19T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -25383,15 +25383,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
-                    "start": "2024-05-02T15:45:00",
-                    "end": "2024-05-02T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020, NiB6.124",
                     "start": "2024-05-08T15:45:00",
                     "end": "2024-05-08T17:45:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiDeVinci.Vaughan",
+                    "start": "2024-05-10T15:45:00",
+                    "end": "2024-05-10T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -25410,12 +25410,6 @@
                     "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr MELOT\nNiV\u00e9sale.020",
                     "start": "2024-05-15T15:45:00",
                     "end": "2024-05-15T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Structures de donn\u00e9es I\nMme BRUYERE, Mr DUSOLLIER, Mr MELOT\nNiDeVinci.Russel",
-                    "start": "2024-05-16T15:45:00",
-                    "end": "2024-05-16T17:45:00",
                     "color": "#5c98ff"
                 }
             ],
