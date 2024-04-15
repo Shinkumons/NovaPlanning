@@ -187,7 +187,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite (Partie B)\nMr VAN VOOREN\nNiB4.Penrose",
+                    "title": "Aide \u00e0 la r\u00e9ussite (Partie B)\nMr VAN VOOREN\nNiMen.Pauling, NiB4.Penrose",
                     "start": "2024-04-16T15:45:00",
                     "end": "2024-04-16T17:45:00",
                     "color": "#0026ad"
@@ -2521,18 +2521,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II - TD et TP\nMr DELPLACE\nNiGA.Plisnier",
-                    "start": "2024-04-16T08:15:00",
-                    "end": "2024-04-16T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Phys. g\u00e9n. II - TD et TP\nMr DELPLACE\nNiGA.Plisnier",
-                    "start": "2024-04-23T08:15:00",
-                    "end": "2024-04-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Phys. g\u00e9n. II - TD et TP\n\n",
                     "start": "2024-05-06T13:30:00",
                     "end": "2024-05-06T15:30:00",
@@ -3115,9 +3103,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique I\nMr KONSTANTINIDIS\nNiP.0A07",
-                    "start": "2024-04-17T13:30:00",
-                    "end": "2024-04-17T15:30:00",
+                    "title": "Chimie analytique I\nMr KONSTANTINIDIS\nNiP.0A11",
+                    "start": "2024-04-17T10:30:00",
+                    "end": "2024-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -6597,7 +6585,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.indus. s\u00e9m\nMr DE WINTER, Mr RAQUEZ, Mr DUBOIS\nNiMen.Pauling",
+                    "title": "Chim.indus. s\u00e9m\nMr DE WINTER, Mr RAQUEZ, Mr DUBOIS\n",
                     "start": "2024-04-16T13:30:00",
                     "end": "2024-04-16T17:30:00",
                     "color": "#0026ad"
@@ -14543,7 +14531,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#878787"
@@ -17957,7 +17945,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#878787"
@@ -19900,8 +19888,8 @@
                 },
                 {
                     "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiP.3E20",
-                    "start": "2024-04-19T13:30:00",
-                    "end": "2024-04-19T15:30:00",
+                    "start": "2024-04-19T10:30:00",
+                    "end": "2024-04-19T12:30:00",
                     "color": "#878787"
                 },
                 {
@@ -19911,9 +19899,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiP.0A07",
-                    "start": "2024-04-26T13:30:00",
-                    "end": "2024-04-26T15:30:00",
+                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiB6.18",
+                    "start": "2024-04-26T10:30:00",
+                    "end": "2024-04-26T12:30:00",
                     "color": "#878787"
                 },
                 {
@@ -19935,9 +19923,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiP.0A07",
-                    "start": "2024-05-10T13:30:00",
-                    "end": "2024-05-10T15:30:00",
+                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiP.3E11",
+                    "start": "2024-05-10T10:30:00",
+                    "end": "2024-05-10T12:30:00",
                     "color": "#878787"
                 },
                 {
@@ -19947,9 +19935,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiP.0A07",
-                    "start": "2024-05-17T13:30:00",
-                    "end": "2024-05-17T15:30:00",
+                    "title": "Selected topics in Cybersecuri\nMr DE CONINCK\nNiB4.120",
+                    "start": "2024-05-17T10:30:00",
+                    "end": "2024-05-17T12:30:00",
                     "color": "#878787"
                 }
             ],
@@ -20591,7 +20579,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiGA.Plisnier, NiV\u00e9sale.020",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB4.120, NiV\u00e9sale.020",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#00ad3d"
@@ -21305,97 +21293,97 @@
             ],
             "Analyse I": [
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiGA.Plisnier",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2024-02-06T08:15:00",
                     "end": "2024-02-06T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-08T15:45:00",
                     "end": "2024-02-08T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-12T13:30:00",
                     "end": "2024-02-12T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-15T15:45:00",
                     "end": "2024-02-15T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiV\u00e9sale.030",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiV\u00e9sale.030",
                     "start": "2024-02-21T13:30:00",
                     "end": "2024-02-21T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-22T15:45:00",
                     "end": "2024-02-22T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18, NiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18, NiB4.Penrose",
                     "start": "2024-02-23T08:15:00",
                     "end": "2024-02-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-29T13:30:00",
                     "end": "2024-02-29T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-02-29T15:45:00",
                     "end": "2024-02-29T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-01T08:15:00",
                     "end": "2024-03-01T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-07T13:30:00",
                     "end": "2024-03-07T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-07T15:45:00",
                     "end": "2024-03-07T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#fc4747"
@@ -21407,31 +21395,31 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-14T13:30:00",
                     "end": "2024-03-14T15:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-14T15:45:00",
                     "end": "2024-03-14T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-03-19T08:15:00",
                     "end": "2024-03-19T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.124",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.124",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T15:30:00",
                     "color": "#fc4747"
@@ -21443,7 +21431,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-03-21T13:30:00",
                     "end": "2024-03-21T15:30:00",
                     "color": "#fc4747"
@@ -21455,13 +21443,13 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB4.Penrose",
                     "start": "2024-03-25T15:45:00",
                     "end": "2024-03-25T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.124",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.124",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T15:30:00",
                     "color": "#fc4747"
@@ -21473,7 +21461,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiP.0A07",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiP.0A07",
                     "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T15:30:00",
                     "color": "#fc4747"
@@ -21485,7 +21473,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00",
                     "color": "#fc4747"
@@ -21497,7 +21485,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiP.0A07",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiP.0A07",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T15:30:00",
                     "color": "#fc4747"
@@ -21509,7 +21497,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiB4.Penrose",
                     "start": "2024-04-22T15:45:00",
                     "end": "2024-04-22T17:45:00",
                     "color": "#fc4747"
@@ -21521,7 +21509,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiP.0A07",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiP.0A07",
                     "start": "2024-04-25T13:30:00",
                     "end": "2024-04-25T15:30:00",
                     "color": "#fc4747"
@@ -21533,7 +21521,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mr LECOMTE\nNiP.0A07",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER\nNiP.0A07",
                     "start": "2024-05-02T13:30:00",
                     "end": "2024-05-02T15:30:00",
                     "color": "#fc4747"
@@ -21545,7 +21533,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Analyse I\nMr TROESTLER, Mme BRIDOUX, Mr LECOMTE\nNiB6.18",
+                    "title": "Analyse I\nMr LECOMTE, Mr TROESTLER, Mme BRIDOUX\nNiB6.18",
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#fc4747"
@@ -21905,18 +21893,6 @@
                     "start": "2024-03-27T15:45:00",
                     "end": "2024-03-27T17:45:00",
                     "color": "#44fcdb"
-                },
-                {
-                    "title": "Electricit\u00e9 et magn\u00e9tisme - Travaux dirig\u00e9s\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-04-19T13:30:00",
-                    "end": "2024-04-19T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Electricit\u00e9 et magn\u00e9tisme - Travaux dirig\u00e9s\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-04-26T13:30:00",
-                    "end": "2024-04-26T15:30:00",
-                    "color": "#44fcdb"
                 }
             ],
             "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue": [
@@ -22137,7 +22113,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Exercices de Calculus I\nMme FOUGNIES, Mr LECOMTE\nNiB4.Penrose",
+                    "title": "Exercices de Calculus I\nMr LECOMTE, Mme FOUGNIES\nNiB4.Penrose",
                     "start": "2023-12-22T08:15:00",
                     "end": "2023-12-22T10:15:00",
                     "color": "#fc4747"
@@ -28179,7 +28155,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#5c98ff"
@@ -31029,9 +31005,9 @@
                     "color": "#fca044"
                 },
                 {
-                    "title": "Financial Markets and Portfolio Management\nMr DUVINAGE\nNiV\u00e9sale.020",
-                    "start": "2024-04-19T15:45:00",
-                    "end": "2024-04-19T18:45:00",
+                    "title": "Financial Markets and Portfolio Management\nMr DUVINAGE\nWa.236L",
+                    "start": "2024-04-26T15:45:00",
+                    "end": "2024-04-26T18:45:00",
                     "color": "#fca044"
                 }
             ],
@@ -34885,43 +34861,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-29T08:00:00",
                     "end": "2024-07-29T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-30T08:00:00",
                     "end": "2024-07-30T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-07-31T08:00:00",
                     "end": "2024-07-31T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-01T08:00:00",
                     "end": "2024-08-01T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-02T08:00:00",
                     "end": "2024-08-02T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-03T08:00:00",
                     "end": "2024-08-03T22:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\n\nNiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.LaFontaine, NiV\u00e9sale.030, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.020",
+                    "title": "_\n\nNiV\u00e9sale.030, NiV\u00e9sale.LaFontaine, NiGA.VanGogh, NiV\u00e9sale.023, NiV\u00e9sale.025, NiGA.Gutenberg, NiV\u00e9sale.020",
                     "start": "2024-08-04T08:00:00",
                     "end": "2024-08-04T22:00:00",
                     "color": "#0026ad"
@@ -34995,7 +34971,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiB4.120, NiGA.Plisnier",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#00ad3d"
@@ -35179,18 +35155,6 @@
                     "start": "2024-03-27T15:45:00",
                     "end": "2024-03-27T17:45:00",
                     "color": "#44fcdb"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-04-19T13:30:00",
-                    "end": "2024-04-19T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-04-26T13:30:00",
-                    "end": "2024-04-26T15:30:00",
-                    "color": "#44fcdb"
                 }
             ],
             "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie": [
@@ -35261,7 +35225,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE, Mme VOLKOV\nNiB6.18",
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme VOLKOV, Mme DE CORTE\nNiB6.18",
                     "start": "2024-03-20T10:30:00",
                     "end": "2024-03-20T12:30:00",
                     "color": "#00ad3d"
@@ -35279,7 +35243,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE, Mme VOLKOV, Mme FOUGNIES\nNiGA.Gutenberg",
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme VOLKOV, Mme FOUGNIES, Mme DE CORTE\nNiGA.Gutenberg",
                     "start": "2024-03-29T10:30:00",
                     "end": "2024-03-29T12:30:00",
                     "color": "#00ad3d"
@@ -35288,6 +35252,18 @@
                     "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE\nNiB6.124",
                     "start": "2024-04-16T08:15:00",
                     "end": "2024-04-16T10:15:00",
+                    "color": "#00ad3d"
+                },
+                {
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE\nNiB6.124",
+                    "start": "2024-04-23T08:15:00",
+                    "end": "2024-04-23T10:15:00",
+                    "color": "#00ad3d"
+                },
+                {
+                    "title": "Alg\u00e8bre lin\u00e9aire et g\u00e9om\u00e9trie\nMme DE CORTE\nNiB4.Penrose",
+                    "start": "2024-04-23T15:45:00",
+                    "end": "2024-04-23T16:45:00",
                     "color": "#00ad3d"
                 },
                 {
@@ -36025,61 +36001,61 @@
             ],
             "Evaluation continue math \u00e9l\u00e9m.": [
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-09-18T08:15:00",
                     "end": "2023-09-18T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-09-25T08:15:00",
                     "end": "2023-09-25T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-02T08:15:00",
                     "end": "2023-10-02T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-09T08:15:00",
                     "end": "2023-10-09T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-16T08:15:00",
                     "end": "2023-10-16T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-23T08:15:00",
                     "end": "2023-10-23T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-30T08:15:00",
                     "end": "2023-10-30T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr MICHAUX\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Evaluation continue math \u00e9l\u00e9m.\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.VanGogh",
                     "start": "2024-01-10T08:15:00",
                     "end": "2024-01-10T10:15:00",
                     "color": "#00ad3d"
@@ -36239,85 +36215,85 @@
             ],
             "Math elem : Logique": [
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-09-25T10:30:00",
                     "end": "2023-09-25T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-02T10:30:00",
                     "end": "2023-10-02T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.VanGogh",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.VanGogh",
                     "start": "2023-10-04T15:45:00",
                     "end": "2023-10-04T17:45:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-13T08:15:00",
                     "end": "2023-10-13T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-16T10:30:00",
                     "end": "2023-10-16T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-23T10:30:00",
                     "end": "2023-10-23T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math elem : Logique\nMr BRIHAYE, Mme BRIDOUX, Mr TROESTLER\nNiGA.Curie",
+                    "title": "Math elem : Logique\nMr TROESTLER, Mme BRIDOUX, Mr BRIHAYE\nNiGA.Curie",
                     "start": "2023-10-30T10:30:00",
                     "end": "2023-10-30T12:30:00",
                     "color": "#00ad3d"
@@ -36361,7 +36337,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math\u00e9matiques II\nMr RIVIERE, Mr THIANDOUM\nNiV\u00e9sale.020",
+                    "title": "Math\u00e9matiques II\nMr THIANDOUM, Mr RIVIERE\nNiV\u00e9sale.020",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#00ad3d"
@@ -36681,13 +36657,13 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math\u00e9matiques I\nMr RIVIERE, Mr THIANDOUM\nNiV\u00e9sale.020",
+                    "title": "Math\u00e9matiques I\nMr THIANDOUM, Mr RIVIERE\nNiV\u00e9sale.020",
                     "start": "2023-12-22T10:30:00",
                     "end": "2023-12-22T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Math\u00e9matiques I\nMr RIVIERE, Mr THIANDOUM\nNiV\u00e9sale.023",
+                    "title": "Math\u00e9matiques I\nMr THIANDOUM, Mr RIVIERE\nNiV\u00e9sale.023",
                     "start": "2024-01-09T08:15:00",
                     "end": "2024-01-09T11:15:00",
                     "color": "#00ad3d"
@@ -37053,7 +37029,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.Penrose",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.Penrose",
                     "start": "2023-09-29T13:30:00",
                     "end": "2023-09-29T17:30:00",
                     "color": "#44fcdb"
@@ -37065,19 +37041,19 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-05T13:30:00",
                     "end": "2023-10-05T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-10-12T13:30:00",
                     "end": "2023-10-12T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-10-19T13:30:00",
                     "end": "2023-10-19T17:30:00",
                     "color": "#44fcdb"
@@ -37089,7 +37065,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-10-26T13:30:00",
                     "end": "2023-10-26T17:30:00",
                     "color": "#44fcdb"
@@ -37101,13 +37077,13 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-11-02T13:30:00",
                     "end": "2023-11-02T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-11-09T08:15:00",
                     "end": "2023-11-09T12:15:00",
                     "color": "#44fcdb"
@@ -37119,7 +37095,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-11-16T08:15:00",
                     "end": "2023-11-16T12:15:00",
                     "color": "#44fcdb"
@@ -37131,13 +37107,13 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-11-23T08:15:00",
                     "end": "2023-11-23T12:15:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-11-30T08:15:00",
                     "end": "2023-11-30T12:15:00",
                     "color": "#44fcdb"
@@ -37149,7 +37125,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mme LACROIX\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mme DEVOUGE, Mme LACROIX, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2023-12-07T08:15:00",
                     "end": "2023-12-07T12:15:00",
                     "color": "#44fcdb"
@@ -37161,7 +37137,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr ROSOLEN, Mr BRASSEUR, Mr DELPLACE\nNiGA.Curie",
+                    "title": "Phys. gen. I cplts TD & TP\nMr BRASSEUR, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiGA.Curie",
                     "start": "2023-12-14T08:15:00",
                     "end": "2023-12-14T10:15:00",
                     "color": "#44fcdb"
@@ -37173,7 +37149,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr DELPLACE, Mr BRASSEUR\nNiB4.12ALab",
+                    "title": "Phys. gen. I cplts TD & TP\nMme DEVOUGE, Mr BRASSEUR, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2023-12-21T13:30:00",
                     "end": "2023-12-21T17:30:00",
                     "color": "#44fcdb"
@@ -37181,75 +37157,57 @@
             ],
             "Phys. g\u00e9n. II. cplts TD et TP": [
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE\nNiDeVinci.Mirzakhani",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-12T13:30:00",
                     "end": "2024-02-12T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-02-15T13:30:00",
                     "end": "2024-02-15T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-02-22T13:30:00",
                     "end": "2024-02-22T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-02-29T13:30:00",
                     "end": "2024-02-29T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-03-07T13:30:00",
                     "end": "2024-03-07T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-03-14T13:30:00",
                     "end": "2024-03-14T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T17:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr BAYART, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr BAYART, Mr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T17:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE\nNiP.0A11",
-                    "start": "2024-04-24T10:30:00",
-                    "end": "2024-04-24T12:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-05-03T13:30:00",
-                    "end": "2024-05-03T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-05-06T10:30:00",
-                    "end": "2024-05-06T12:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -37259,15 +37217,9 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMme DEVOUGE, Mr ROSOLEN, Mr DELPLACE\nNiB4.12ALab",
+                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE, Mme DEVOUGE, Mr ROSOLEN\nNiB4.12ALab",
                     "start": "2024-05-13T13:30:00",
                     "end": "2024-05-13T17:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Phys. g\u00e9n. II. cplts TD et TP\nMr DELPLACE\nNiB6.124",
-                    "start": "2024-05-17T13:30:00",
-                    "end": "2024-05-17T15:30:00",
                     "color": "#44fcdb"
                 }
             ],
@@ -42751,7 +42703,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-04-26T10:30:00",
                     "end": "2024-04-26T12:30:00",
                     "color": "#878787"
