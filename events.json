@@ -6713,6 +6713,12 @@
                     "start": "2024-05-07T08:15:00",
                     "end": "2024-05-07T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie de coordination\nMr SNYDERS\nNiMen.Pauling",
+                    "start": "2024-05-15T08:15:00",
+                    "end": "2024-05-15T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chimie du solide": [
@@ -13540,12 +13546,6 @@
                     "title": "Bases de donn\u00e9es II\nMr WIJSEN\nNiB4.Penrose",
                     "start": "2024-04-19T13:30:00",
                     "end": "2024-04-19T15:30:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Bases de donn\u00e9es II\nMr WIJSEN\nNiDeVinci.Russel",
-                    "start": "2024-04-22T10:30:00",
-                    "end": "2024-04-22T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -26613,12 +26613,6 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Bases de donn\u00e9es II\nMr WIJSEN\nNiDeVinci.Russel",
-                    "start": "2024-04-22T10:30:00",
-                    "end": "2024-04-22T12:30:00",
-                    "color": "#5c98ff"
-                },
-                {
                     "title": "Bases de donn\u00e9es II\nMr WIJSEN\nNiB4.Penrose",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
@@ -27294,12 +27288,6 @@
                     "title": "Electromagn\u00e9tisme I\nMr BOULANGER\nNiP.0A11",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Electromagn\u00e9tisme I\nMr BOULANGER\nNiP.0A11",
-                    "start": "2024-05-10T08:15:00",
-                    "end": "2024-05-10T10:15:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -29614,12 +29602,6 @@
                     "title": "Th\u00e9orie des groupes\nMr BOULANGER\nNiP.0A07",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T15:30:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Th\u00e9orie des groupes\nMr BOULANGER\nNiB4.233",
-                    "start": "2024-05-10T13:30:00",
-                    "end": "2024-05-10T15:30:00",
                     "color": "#44fcdb"
                 },
                 {
@@ -32661,6 +32643,12 @@
                     "start": "2024-04-22T10:30:00",
                     "end": "2024-04-22T12:30:00",
                     "color": "#fc4747"
+                },
+                {
+                    "title": "Projet d'analyse math\u00e9matique - introduction\nMr MENET\nNiP.3E10",
+                    "start": "2024-04-29T10:30:00",
+                    "end": "2024-04-29T12:30:00",
+                    "color": "#fc4747"
                 }
             ],
             "Projet de g\u00e9om\u00e9trie alg\u00e9brique": [
@@ -33293,7 +33281,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\n",
+                    "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiP.3E10",
                     "start": "2024-04-24T08:15:00",
                     "end": "2024-04-24T10:15:00",
                     "color": "#fc4747"
@@ -37875,12 +37863,6 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electromagn\u00e9tisme I\nMr BOULANGER\nNiP.0A11",
-                    "start": "2024-05-10T08:15:00",
-                    "end": "2024-05-10T10:15:00",
-                    "color": "#44fcdb"
-                },
-                {
                     "title": "Electromagn\u00e9tisme I\nMr BOULANGER\nNiP.0A07",
                     "start": "2024-05-14T10:30:00",
                     "end": "2024-05-14T12:30:00",
@@ -41648,12 +41630,6 @@
                     "title": "Th\u00e9orie des groupes\nMr BOULANGER\nNiP.0A07",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T15:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Th\u00e9orie des groupes\nMr BOULANGER\nNiB4.233",
-                    "start": "2024-05-10T13:30:00",
-                    "end": "2024-05-10T15:30:00",
                     "color": "#878787"
                 },
                 {
