@@ -2623,12 +2623,6 @@
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-05-08T18:00:00",
-                    "end": "2024-05-08T21:00:00",
-                    "color": "#0026ad"
                 }
             ],
             "S\u00e9minaire": [
@@ -11538,12 +11532,6 @@
                     "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-05-08T18:00:00",
-                    "end": "2024-05-08T21:00:00",
                     "color": "#878787"
                 }
             ],
@@ -23758,12 +23746,6 @@
                     "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-05-08T18:00:00",
-                    "end": "2024-05-08T21:00:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -38314,12 +38296,6 @@
                     "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
-                    "color": "#44fcdb"
-                },
-                {
-                    "title": "Rem FR\n\nNiGA.Gutenberg",
-                    "start": "2024-05-08T18:00:00",
-                    "end": "2024-05-08T21:00:00",
                     "color": "#44fcdb"
                 }
             ],
