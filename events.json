@@ -15037,9 +15037,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nM. BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nM. BEN TAIEB\nNiGA.Turing",
                     "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T15:30:00",
+                    "end": "2024-05-15T17:00:00",
                     "color": "#878787"
                 },
                 {
@@ -18581,9 +18581,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nM. BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nM. BEN TAIEB\nNiGA.Turing",
                     "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T15:30:00",
+                    "end": "2024-05-15T17:00:00",
                     "color": "#878787"
                 },
                 {
@@ -21965,6 +21965,12 @@
                     "color": "#fc4747"
                 },
                 {
+                    "title": "Alg\u00e8bre I\nM. RAMLOT\nNiB6.18",
+                    "start": "2024-05-14T10:30:00",
+                    "end": "2024-05-14T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
                     "title": "Alg\u00e8bre I\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
                     "start": "2024-05-15T08:15:00",
                     "end": "2024-05-15T10:15:00",
@@ -23728,14 +23734,6 @@
                     "title": "Rem FR\n\nNiGA.Curie",
                     "start": "2024-03-27T18:00:00",
                     "end": "2024-03-27T21:00:00",
-                    "color": "#5c98ff"
-                }
-            ],
-            "R\u00e9servation de salles": [
-                {
-                    "title": "R\u00e9servation de salles\nM. RAMLOT\nNiB6.18",
-                    "start": "2024-05-14T10:30:00",
-                    "end": "2024-05-14T12:30:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -29071,9 +29069,9 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nM. BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nM. BEN TAIEB\nNiGA.Turing",
                     "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T15:30:00",
+                    "end": "2024-05-15T17:00:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -43953,9 +43951,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nM. BEN TAIEB\nNiB4.Penrose",
+                    "title": "Machine Learning I\nM. BEN TAIEB\nNiGA.Turing",
                     "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T15:30:00",
+                    "end": "2024-05-15T17:00:00",
                     "color": "#878787"
                 },
                 {
