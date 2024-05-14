@@ -20455,6 +20455,12 @@
                     "start": "2024-05-17T10:30:00",
                     "end": "2024-05-17T12:30:00",
                     "color": "#878787"
+                },
+                {
+                    "title": "Sciences et soci\u00e9t\u00e9\nM. BROCORENS\nNiP.0A11",
+                    "start": "2024-05-17T13:30:00",
+                    "end": "2024-05-17T15:30:00",
+                    "color": "#878787"
                 }
             ],
             "Selected topics in Cybersecuri": [
@@ -38982,6 +38988,12 @@
                     "title": "Electromagn\u00e9tisme I\nM. BOULANGER\nNiP.0A11",
                     "start": "2024-05-17T08:15:00",
                     "end": "2024-05-17T10:15:00",
+                    "color": "#44fcdb"
+                },
+                {
+                    "title": "Electromagn\u00e9tisme I\nM. LHOST\nNiDeVinci.Mirzakhani",
+                    "start": "2024-05-17T14:00:00",
+                    "end": "2024-05-17T16:15:00",
                     "color": "#44fcdb"
                 },
                 {
