@@ -15288,7 +15288,7 @@
                 },
                 {
                     "title": "Programmation logique\nM. MENS, M. STAQUET\nNiB6.124",
-                    "start": "2024-05-30T08:15:00",
+                    "start": "2024-05-30T08:30:00",
                     "end": "2024-05-30T12:15:00",
                     "color": "#878787"
                 }
@@ -20096,7 +20096,7 @@
                 },
                 {
                     "title": "Programmation logique\nM. STAQUET, M. MENS\nNiB6.124",
-                    "start": "2024-05-30T08:15:00",
+                    "start": "2024-05-30T08:30:00",
                     "end": "2024-05-30T12:15:00",
                     "color": "#878787"
                 }
@@ -29892,7 +29892,7 @@
             "Progr.logique": [
                 {
                     "title": "Progr.logique\nM. MENS, M. STAQUET\nNiB6.124",
-                    "start": "2024-05-30T08:15:00",
+                    "start": "2024-05-30T08:30:00",
                     "end": "2024-05-30T12:15:00",
                     "color": "#fc4747"
                 }
