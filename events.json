@@ -38305,6 +38305,14 @@
                     "color": "#44fcdb"
                 }
             ],
+            "R\u00e9servation de salles": [
+                {
+                    "title": "R\u00e9servation de salles\nMme LACROIX\nNiB4.Penrose",
+                    "start": "2024-06-27T09:00:00",
+                    "end": "2024-06-27T09:30:00",
+                    "color": "#44fcdb"
+                }
+            ],
             "S\u00e9minaire": [
                 {
                     "title": "S\u00e9minaire\n\nNiV\u00e9sale.020",
