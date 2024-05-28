@@ -35139,54 +35139,68 @@
                     "color": "#0026ad"
                 }
             ],
+            "Didactique des math\u00e9matiques discr\u00e8tes": [
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nM. MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T12:30:00",
+                    "color": "#fc4747"
+                },
+                {
+                    "title": "Didactique des math\u00e9matiques discr\u00e8tes\nM. MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T17:45:00",
+                    "color": "#fc4747"
+                }
+            ],
             "Evaluation des apprentissages": [
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-10-05T18:00:00",
                     "end": "2023-10-05T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.SalleAca",
                     "start": "2023-10-19T19:00:00",
                     "end": "2023-10-19T21:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-09T18:00:00",
                     "end": "2023-11-09T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-23T18:00:00",
                     "end": "2023-11-23T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-11-30T18:00:00",
                     "end": "2023-11-30T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-12-07T18:00:00",
                     "end": "2023-12-07T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2023-12-14T18:00:00",
                     "end": "2023-12-14T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 },
                 {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.SalleAca, Wa.226L",
+                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.226L, Wa.SalleAca",
                     "start": "2024-01-12T18:00:00",
                     "end": "2024-01-12T20:00:00",
-                    "color": "#0026ad"
+                    "color": "#fc4747"
                 }
             ],
             "Ev\u00e9nement - DCOM": [
@@ -35229,7 +35243,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Fondement th de l'\u00e9val en \u00e9duc\nMme HUET\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Fondement th de l'\u00e9val en \u00e9duc\nMme HUET\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-08T17:00:00",
                     "end": "2024-01-08T20:00:00",
                     "color": "#878787"
@@ -35237,55 +35251,55 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, M. VAN VOOREN, M. VILLERS\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nM. VILLERS, M. VAN VOOREN, Mme LACROIX, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nM. SIMON, M. VAN VOOREN\nNiB4.Penrose",
+                    "title": "Micro-enseignement\nM. VAN VOOREN, M. SIMON\nNiB4.Penrose",
                     "start": "2023-12-19T16:45:00",
                     "end": "2023-12-19T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme LACROIX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme BRIDOUX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -35323,7 +35337,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Neutralit\u00e9 de l'enseignement\nM. CAUCHIE\nRosaParks.3.08, RosaParks.6.10.Desmet, RosaParks.2.07, RosaParks.1.09.Delmas\u2011Marty, Wa.Hotyat",
+                    "title": "Neutralit\u00e9 de l'enseignement\nM. CAUCHIE\nWa.Hotyat, RosaParks.2.07, RosaParks.3.08, RosaParks.6.10.Desmet, RosaParks.1.09.Delmas\u2011Marty",
                     "start": "2023-12-06T18:00:00",
                     "end": "2023-12-06T21:00:00",
                     "color": "#878787"
@@ -35355,13 +35369,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-20T09:00:00",
                     "end": "2024-01-20T10:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-20T11:00:00",
                     "end": "2024-01-20T12:30:00",
                     "color": "#878787"
@@ -35437,119 +35451,145 @@
                     "color": "#878787"
                 }
             ],
-            "S\u00e9m. M\u00e9thod sp\u00e9c. en chim": [
+            "Sem. m\u00e9thod. Sc. math A": [
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-09-20T13:30:00",
-                    "end": "2023-09-20T16:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2023-09-23T09:00:00",
+                    "end": "2023-09-23T12:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
                     "start": "2023-10-04T13:30:00",
                     "end": "2023-10-04T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-10-11T13:30:00",
-                    "end": "2023-10-11T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
                     "start": "2023-10-18T13:30:00",
                     "end": "2023-10-18T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-10-25T13:30:00",
-                    "end": "2023-10-25T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
+                    "start": "2023-12-06T13:30:00",
+                    "end": "2023-12-06T16:30:00",
+                    "color": "#878787"
+                }
+            ],
+            "Sem. m\u00e9thod. Sc. math B": [
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2023-10-25T13:30:00",
+                    "end": "2023-10-25T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET\nNiP.0A11",
+                    "start": "2023-11-10T17:00:00",
+                    "end": "2023-11-10T20:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. MICHAUX\nNiB4.120",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
-                    "end": "2023-11-29T16:30:00",
+                    "end": "2023-11-29T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\n",
-                    "start": "2023-12-06T14:30:00",
-                    "end": "2023-12-06T17:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme MOUSSET\nNiP.0A11",
+                    "start": "2023-12-01T17:00:00",
+                    "end": "2023-12-01T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\n",
-                    "start": "2023-12-13T14:30:00",
-                    "end": "2023-12-13T17:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2023-12-13T13:30:00",
+                    "end": "2023-12-13T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2023-12-20T13:30:00",
                     "end": "2023-12-20T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2024-02-07T13:30:00",
                     "end": "2024-02-07T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiB6.127Info",
-                    "start": "2024-02-14T14:15:00",
-                    "end": "2024-02-14T17:15:00",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2024-02-14T13:30:00",
+                    "end": "2024-02-14T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2024-02-21T13:30:00",
+                    "end": "2024-02-21T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2024-02-28T13:30:00",
                     "end": "2024-02-28T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
                     "start": "2024-03-06T13:30:00",
                     "end": "2024-03-06T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VAN VOOREN\n",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2024-03-13T13:30:00",
+                    "end": "2024-03-13T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2024-03-20T13:30:00",
+                    "end": "2024-03-20T17:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. DRAMAIX, Mme MOUSSET, M. MICHAUX\nNiB4.119",
+                    "start": "2024-03-27T13:30:00",
+                    "end": "2024-03-27T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Sem. m\u00e9thod. Sc. math B\nMme BRIDOUX, M. MICHAUX\n",
                     "start": "2024-04-22T18:00:00",
                     "end": "2024-04-22T20:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.0A11",
-                    "start": "2024-05-08T13:30:00",
-                    "end": "2024-05-08T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiB4.120",
-                    "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T16:30:00",
                     "color": "#878787"
                 }
             ],
@@ -35597,38 +35637,6 @@
                     "color": "#878787"
                 }
             ],
-            "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie": [
-                {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-05T18:00:00",
-                    "end": "2024-02-05T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-12T18:00:00",
-                    "end": "2024-02-12T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-19T18:00:00",
-                    "end": "2024-02-19T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-26T18:00:00",
-                    "end": "2024-02-26T21:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-03-11T18:00:00",
-                    "end": "2024-03-11T21:00:00",
-                    "color": "#878787"
-                }
-            ],
             "Stage pr\u00e9pa. Phys": [
                 {
                     "title": "Stage pr\u00e9pa. Phys\n\nNiP.3E10",
@@ -35668,6 +35676,38 @@
                     "title": "Stage pr\u00e9p \u00e0 la vie scolaire\nMme DUROISIN\nWa.Hotyat",
                     "start": "2024-04-17T18:00:00",
                     "end": "2024-04-17T21:00:00",
+                    "color": "#878787"
+                }
+            ],
+            "Stage pr\u00e9p.ens.math.": [
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\nM. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2023-09-18T08:15:00",
+                    "end": "2023-09-18T12:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\nM. MICHAUX\nNiB4.120",
+                    "start": "2023-10-11T13:30:00",
+                    "end": "2023-10-11T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\nM. MICHAUX\nNiGA.Plisnier",
+                    "start": "2023-11-04T09:00:00",
+                    "end": "2023-11-04T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\n\n",
+                    "start": "2024-01-13T09:00:00",
+                    "end": "2024-01-13T13:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\n\n",
+                    "start": "2024-06-08T09:00:00",
+                    "end": "2024-06-08T13:30:00",
                     "color": "#878787"
                 }
             ],
@@ -46879,6 +46919,20 @@
                     "color": "#0026ad"
                 }
             ],
+            "Didactique math.disc.connexes": [
+                {
+                    "title": "Didactique math.disc.connexes\nM. MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Didactique math.disc.connexes\nM. MICHAUX\nNiB4.119",
+                    "start": "2024-02-27T15:45:00",
+                    "end": "2024-02-27T17:45:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Evaluation des apprentissages": [
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
@@ -46969,7 +47023,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Fondement th de l'\u00e9val en \u00e9duc\nMme HUET\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Fondement th de l'\u00e9val en \u00e9duc\nMme HUET\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-08T17:00:00",
                     "end": "2024-01-08T20:00:00",
                     "color": "#878787"
@@ -46977,37 +47031,37 @@
             ],
             "Micro-enseignement": [
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, Mme LACROIX, M. VAN VOOREN, M. VILLERS\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-10-30T16:45:00",
                     "end": "2023-10-30T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiB4.233",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiB4.233, NiDeVinci.Mirzakhani",
                     "start": "2023-11-03T13:30:00",
                     "end": "2023-11-03T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-11-07T16:45:00",
                     "end": "2023-11-07T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-11T16:45:00",
                     "end": "2023-12-11T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiB4.Penrose, NiB4.233",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiB4.233, NiB4.Penrose",
                     "start": "2023-12-12T16:45:00",
                     "end": "2023-12-12T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani, NiMen.Pauling",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiMen.Pauling, NiDeVinci.Mirzakhani",
                     "start": "2023-12-18T16:45:00",
                     "end": "2023-12-18T21:00:00",
                     "color": "#878787"
@@ -47019,13 +47073,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-06T16:45:00",
                     "end": "2024-02-06T21:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Micro-enseignement\nMme BRIDOUX, M. SIMON, M. VAN VOOREN, M. VILLERS, Mme LACROIX\nNiDeVinci.Mirzakhani",
+                    "title": "Micro-enseignement\nMme BRIDOUX, M. VILLERS, M. VAN VOOREN, M. SIMON, Mme LACROIX\nNiDeVinci.Mirzakhani",
                     "start": "2024-02-20T16:45:00",
                     "end": "2024-02-20T21:00:00",
                     "color": "#878787"
@@ -47095,13 +47149,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-20T09:00:00",
                     "end": "2024-01-20T10:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.Montague, NiDeVinci.W\u00fcster",
+                    "title": "Organis de l'ens second en CF\nM. DEMEUSE\nNiDeVinci.W\u00fcster, NiDeVinci.Montague",
                     "start": "2024-01-20T11:00:00",
                     "end": "2024-01-20T12:30:00",
                     "color": "#878787"
@@ -47177,125 +47231,67 @@
                     "color": "#878787"
                 }
             ],
-            "S\u00e9m. M\u00e9thod sp\u00e9c. en chim": [
+            "Sem. m\u00e9thod. Sc. math A": [
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-09-20T13:30:00",
-                    "end": "2023-09-20T16:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "start": "2023-09-23T09:00:00",
+                    "end": "2023-09-23T12:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
                     "start": "2023-10-04T13:30:00",
                     "end": "2023-10-04T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-10-11T13:30:00",
-                    "end": "2023-10-11T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
                     "start": "2023-10-18T13:30:00",
                     "end": "2023-10-18T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-10-25T13:30:00",
-                    "end": "2023-10-25T16:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX, Mme MOUSSET, M. DRAMAIX\nNiB4.119",
+                    "start": "2023-11-29T15:30:00",
+                    "end": "2023-11-29T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-11-08T13:30:00",
-                    "end": "2023-11-08T16:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math A\nM. MICHAUX\nNiB4.120",
+                    "start": "2023-12-06T13:30:00",
+                    "end": "2023-12-06T16:30:00",
                     "color": "#878787"
-                },
+                }
+            ],
+            "Sem. m\u00e9thod. Sc. math B": [
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. MICHAUX\nNiB4.120",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T16:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-11-22T13:30:00",
-                    "end": "2023-11-22T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. MICHAUX, Mme MOUSSET, M. DRAMAIX\nNiB4.119",
                     "start": "2023-11-29T13:30:00",
-                    "end": "2023-11-29T16:30:00",
+                    "end": "2023-11-29T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\n",
-                    "start": "2023-12-06T14:30:00",
-                    "end": "2023-12-06T17:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. MICHAUX, Mme MOUSSET, M. DRAMAIX\nNiDeVinci.Mirzakhani",
+                    "start": "2024-03-13T13:30:00",
+                    "end": "2024-03-13T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\n",
-                    "start": "2023-12-13T14:30:00",
-                    "end": "2023-12-13T17:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2023-12-20T13:30:00",
-                    "end": "2023-12-20T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2024-02-07T13:30:00",
-                    "end": "2024-02-07T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiB6.127Info",
-                    "start": "2024-02-14T14:15:00",
-                    "end": "2024-02-14T17:15:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2024-02-28T13:30:00",
-                    "end": "2024-02-28T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.3E20",
-                    "start": "2024-03-06T13:30:00",
-                    "end": "2024-03-06T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VAN VOOREN\n",
-                    "start": "2024-04-22T18:00:00",
-                    "end": "2024-04-22T20:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiP.0A11",
-                    "start": "2024-05-08T13:30:00",
-                    "end": "2024-05-08T16:30:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9m. M\u00e9thod sp\u00e9c. en chim\nM. VILLERS, M. VAN VOOREN\nNiB4.120",
-                    "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T16:30:00",
+                    "title": "Sem. m\u00e9thod. Sc. math B\nM. MICHAUX, Mme MOUSSET, M. DRAMAIX\nNiDeVinci.Mirzakhani",
+                    "start": "2024-03-20T13:30:00",
+                    "end": "2024-03-20T17:30:00",
                     "color": "#878787"
                 }
             ],
             "S\u00e9m.m\u00e9th.sp.phys A": [
                 {
-                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nM. LO BUE, Mme LACROIX\nNiB4.120",
+                    "title": "S\u00e9m.m\u00e9th.sp.phys A\nMme LACROIX, M. LO BUE\nNiB4.120",
                     "start": "2023-10-03T16:30:00",
                     "end": "2023-10-03T18:30:00",
                     "color": "#878787"
@@ -47337,63 +47333,65 @@
                     "color": "#878787"
                 }
             ],
-            "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie": [
+            "S\u00e9minaire M\u00e9thodo sp Phys B": [
                 {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-05T18:00:00",
-                    "end": "2024-02-05T21:00:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2023-10-02T16:30:00",
+                    "end": "2023-10-02T18:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-12T18:00:00",
-                    "end": "2024-02-12T21:00:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2024-02-05T16:45:00",
+                    "end": "2024-02-05T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-19T18:00:00",
-                    "end": "2024-02-19T21:00:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2024-02-19T16:45:00",
+                    "end": "2024-02-19T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-02-26T18:00:00",
-                    "end": "2024-02-26T21:00:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2024-02-22T16:45:00",
+                    "end": "2024-02-22T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9m.m\u00e9thodo sp\u00e9ciale biologie\nM. SIMON\nNiB4.120",
-                    "start": "2024-03-11T18:00:00",
-                    "end": "2024-03-11T21:00:00",
-                    "color": "#878787"
-                }
-            ],
-            "Stage pr\u00e9pa. Phys": [
-                {
-                    "title": "Stage pr\u00e9pa. Phys\n\nNiP.3E10",
-                    "start": "2023-09-25T16:30:00",
-                    "end": "2023-09-25T18:30:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2024-02-26T16:45:00",
+                    "end": "2024-02-26T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Stage pr\u00e9pa. Phys\nM. LO BUE\nNiB6.124",
-                    "start": "2023-10-28T09:30:00",
-                    "end": "2023-10-28T12:00:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiB4.233",
+                    "start": "2024-03-11T16:45:00",
+                    "end": "2024-03-11T19:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Stage pr\u00e9pa. Phys\nM. LO BUE\nNiP.3E11",
-                    "start": "2023-12-20T16:45:00",
-                    "end": "2023-12-20T19:15:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX, M. LO BUE\nNiDeVinci.Mirzakhani",
+                    "start": "2024-04-22T18:00:00",
+                    "end": "2024-04-22T20:00:00",
                     "color": "#878787"
-                }
-            ],
-            "Stage d'enseign de la Phys": [
+                },
                 {
-                    "title": "Stage d'enseign de la Phys\n\nNiB4.233",
-                    "start": "2023-10-09T16:30:00",
-                    "end": "2023-10-09T18:30:00",
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.233",
+                    "start": "2024-04-30T14:00:00",
+                    "end": "2024-04-30T17:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
+                    "start": "2024-05-02T09:00:00",
+                    "end": "2024-05-02T12:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "S\u00e9minaire M\u00e9thodo sp Phys B\nMme LACROIX\nNiB4.119",
+                    "start": "2024-05-13T16:45:00",
+                    "end": "2024-05-13T19:45:00",
                     "color": "#878787"
                 }
             ],
@@ -47408,6 +47406,80 @@
                     "title": "Stage pr\u00e9p \u00e0 la vie scolaire\nMme DUROISIN\nWa.Hotyat",
                     "start": "2024-04-17T18:00:00",
                     "end": "2024-04-17T21:00:00",
+                    "color": "#878787"
+                }
+            ],
+            "Stage prep.ens.math": [
+                {
+                    "title": "Stage prep.ens.math\n\n",
+                    "start": "2023-09-18T08:15:00",
+                    "end": "2023-09-18T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage prep.ens.math\n\n",
+                    "start": "2023-10-02T08:15:00",
+                    "end": "2023-10-02T10:15:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage prep.ens.math\n\n",
+                    "start": "2023-10-11T13:30:00",
+                    "end": "2023-10-11T16:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage prep.ens.math\n\n",
+                    "start": "2024-01-13T09:00:00",
+                    "end": "2024-01-13T13:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage prep.ens.math\n\n",
+                    "start": "2024-06-08T09:15:00",
+                    "end": "2024-06-08T15:45:00",
+                    "color": "#878787"
+                }
+            ],
+            "Stage pr\u00e9p.ens.math.": [
+                {
+                    "title": "Stage pr\u00e9p.ens.math.\nM. MICHAUX\nNiGA.Plisnier",
+                    "start": "2023-11-04T09:00:00",
+                    "end": "2023-11-04T12:30:00",
+                    "color": "#878787"
+                }
+            ],
+            "Stage pr\u00e9p.ens.phys": [
+                {
+                    "title": "Stage pr\u00e9p.ens.phys\nMme LACROIX\nNiB4.119",
+                    "start": "2023-09-25T16:30:00",
+                    "end": "2023-09-25T18:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.phys\nMme LACROIX\nNiDeVinci.Mirzakhani",
+                    "start": "2023-10-28T09:30:00",
+                    "end": "2023-10-28T12:00:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.phys\nMme LACROIX\n",
+                    "start": "2023-12-20T16:45:00",
+                    "end": "2023-12-20T18:45:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Stage pr\u00e9p.ens.phys\nMme LACROIX\nNiB4.Penrose",
+                    "start": "2024-01-18T18:00:00",
+                    "end": "2024-01-18T20:30:00",
+                    "color": "#878787"
+                }
+            ],
+            "Stages ens.physique": [
+                {
+                    "title": "Stages ens.physique\nMme LACROIX\nNiB4.119",
+                    "start": "2023-10-09T16:30:00",
+                    "end": "2023-10-09T18:30:00",
                     "color": "#878787"
                 }
             ],
