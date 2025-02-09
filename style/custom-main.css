@@ -161,3 +161,18 @@
   margin-left: 0;
   margin-right: 0;
 }
+
+body {
+	margin: 0;
+}
+
+#maj {
+	width: 100%;
+	background-color: red;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 2em;
+}
+
+
